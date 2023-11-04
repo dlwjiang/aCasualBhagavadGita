@@ -58,12 +58,12 @@ export default function Home() {
           A Casual Dao De Jing
         </div>
       </header>
-      <section className="md:px-48 flex flex-col items-center">
+      <section className="flex flex-col items-center">
         {content.map((e, i) => (
           <div
             id={e.title}
             key={e.title}
-            className="bg-white p-2 m-2 md:p-8 md:m-8 rounded-xl shadow whitespace-pre-wrap bg-white/70 max-w-[500px]"
+            className="bg-white p-2 m-2 md:p-8 md:m-8 rounded-xl shadow whitespace-pre-wrap bg-white/70"
           >
             <div className="text-yellow-600 text-2xl">
               <a href={`/#${e.title}`}>{e.title}</a>

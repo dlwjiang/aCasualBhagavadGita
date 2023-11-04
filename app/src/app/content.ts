@@ -358,95 +358,352 @@ const content = [
   {
     title: "15",
     original: `
-      "古之善为士者，微妙玄通，深不可识。夫唯不可识，故强为之容。豫兮若冬涉川；犹兮若畏四邻；俨兮其若容；涣兮若冰之将释；敦兮其若朴；旷兮其若谷；混兮其若浊；孰能浊以静之徐清？孰能安以久动之徐生？保此道者，不欲盈。夫唯不盈，故能蔽不新成。",
+      古之善为士者，微妙玄通，深不可识。
+      夫唯不可识，故强为之容。
+      豫兮若冬涉川；
+      犹兮若畏四邻；
+      俨兮其若容；
+      涣兮若冰之将释；
+      敦兮其若朴；
+      旷兮其若谷；
+      混兮其若浊；
+      孰能浊以静之徐清。
+      孰能安以久动之徐生。
+      保此道者，不欲盈。
+      夫唯不盈，故能蔽不新成。
     `,
     english: `
+      Sages of old with their wisdom so deep,
+      Subtle and mystical, their secrets they keep.
+      So profound and complex, they elude our perception,
+      Their demeanor, a force, commanding respect without question.
+
+      Cautious as one crossing streams in the chill,
+      Gentle as though neighbors might wish them ill.
+      Solemn as guests, their composure they keep,
+      Scattered like ice on the verge of the seep.
+
+      Simple as uncarved blocks of wood,
+      Hollow like valleys, as open they stood.
+      Muddled like murky waters, their clarity hidden,
+      Who can, through stillness, find clarity unbidden?
+
+      Who can remain so still, till life stirs anew?
+      To guard this way, one must not overdo.
+      For only by not overflowing their cup,
+      Can they renew, without being used up.
     `,
   },
   {
     title: "16",
     original: `
-      "致虚极，守静笃。万物并作，吾以观复。夫物芸芸，各复归其根。归根曰静，是谓复命。复命曰常，知常曰明。不知常，妄作凶。知常容，容乃公，公乃王，王乃天，天乃道，道乃久，没身不殆。",
+      致虚极，守静笃。
+      万物并作，吾以观复。
+      夫物芸芸，各复归其根。
+      归根曰静，是谓复命。
+      复命曰常，知常曰明。
+      不知常，妄作凶。
+      知常容，容乃公，
+      公乃王，王乃天，
+      天乃道，道乃久，没身不殆。
     `,
     english: `
+      Embrace the void, hold fast to quietude,
+      As all things rise, we watch their multitude.
+      Each thing in flux, yet to its root returns,
+      In returning to the root, tranquility is learned.
+
+      This return to peace, a destiny fulfilled,
+      To accept this fate is to be constant, skilled.
+      In constancy lies insight, and with insight, light,
+      Ignorance of this constancy breeds acts that blight.
+
+      To know and keep to constancy is to be tolerant,
+      Tolerance leads to impartiality, a virtue most gallant,
+      Impartiality to sovereignty, sovereignty to the skies,
+      From skies to the Dao, and in Dao, eternity lies.
+
+      For he who embodies Dao, despite the worldly tides,
+      Remains untouched by death, in the cosmic flow resides.
     `,
   },
   {
     title: "17",
     original: `
-      "太上，下知有之；其次，亲而誉之；其次，畏之；其次，侮之。信不足，焉有不信焉。悠兮，其贵言。功成事遂，百姓皆谓我自然。",
+      太上，下知有之；
+      其次，亲而誉之；
+      其次，畏之；其次，侮之。
+      信不足，焉有不信焉。
+      悠兮，其贵言。
+      功成事遂，百姓皆谓我自然。
     `,
     english: `
+      In the realm of the utmost, few know it's there,
+      A presence so subtle, like a whisper-thin air.
+      Next in line, they'll praise it with cheer,
+      Hold it dear, and keep it quite near.
+
+      But then there are those who will fear its might,
+      And those who mock it, not seeing its light.
+      When trust is scarce, doubt will surely breed,
+      Words are precious, take heed, take heed.
+
+      When all's done and the goals are all met,
+      The folks will all say, "It just happened!" and yet,
+      It was the quiet work of the Tao, unseen,
+      Guiding and flowing, ever serene.
     `,
   },
   {
     title: "18",
     original: `
-      "大道废，有仁义；智慧出，有大伪；六亲不和，有孝慈；国家昏乱，有忠臣。",
+      大道废，有仁义；智慧出，有大伪；
+      六亲不和，有孝慈；国家昏乱，有忠臣。
     `,
     english: `
+      When the Great Way falls out of sight,
+      Comes righteousness, holding its light.
+      Where wisdom's dawn brings on the day,
+      Great pretense, too, begins to play.
+
+      With kin not in accord or peace,
+      Piety and filial love increase.
+      In a state where confusion reigns,
+      Loyal ministers work through the strains.
     `,
   },
   {
     title: "19",
     original: `
-      "绝圣弃智，民利百倍；绝仁弃义，民复孝慈；绝巧弃利，盗贼无有。此三者以为文不足。故令有所属：见素抱朴，少私寡欲。",
+      绝圣弃智，民利百倍；
+      绝仁弃义，民复孝慈；
+      绝巧弃利，盗贼无有。
+      此三者以为文, 不足。
+      故令有所属：见素抱朴，少私寡欲。
     `,
     english: `
+      Let go of the sage, abandon the wise,
+      The people will thrive, to no one's surprise.
+      Let go of kindness, let justice be gone,
+      Folks turn to love, and tenderly dawn.
+
+      Let go of craft, and profit forsake,
+      No thieves will there be, no mischief to make.
+      These teachings, though, are not enough,
+      A simpler path is less rough.
+
+      See simplicity, embrace what's plain,
+      With lesser desires, much more to gain.
     `,
   },
   {
     title: "20",
     original: `
-      "绝学无忧，唯之与阿，相去几何？善之与恶，相去若何？人之所畏，不可不畏。荒兮其未央哉！衆人熙熙，如享太牢，如春登台。我独怕兮其未兆；如婴儿之未孩；儽儽兮若无所归。衆人皆有馀，而我独若遗。我愚人之心也哉！沌沌兮，俗人昭昭，我独若昏。俗人察察，我独闷闷。澹兮其若海，飂兮若无止，衆人皆有以，而我独顽似鄙。我独异于人，而贵食母。",
+      绝学无忧，唯之与阿，相去几何。
+      善之与恶，相去若何。
+      人之所畏，不可不畏。
+      荒兮其未央哉！
+      衆人熙熙，如享太牢，如春登台。
+      我独怕兮其未兆；
+      如婴儿之未孩；
+      儽儽兮若无所归。
+      衆人皆有馀，而我独若遗。
+      我愚人之心也哉！
+      沌沌兮，
+      俗人昭昭，我独若昏。
+      俗人察察，我独闷闷。
+      澹兮其若海，飂兮若无止，衆人皆有以，而我独顽似鄙。
+      我独异于人，而贵食母。
     `,
     english: `
+      In a land where learning's tossed aside,
+      Worry's gone, with the tide.
+      Good from bad, how do we tell?
+      The difference, oh, it might as well.
+
+      What folks fear, we must too,
+      Endless it seems, this vast ado!
+      While the crowd's all cheer and glee,
+      Like a feast, or springtime spree.
+
+      I alone seem lost, and oh so small,
+      Like a babe that's yet to crawl.
+      Drifting, like I've no place to be,
+      While others have, but not me.
+
+      I feel like I'm the odd one out,
+      In a world that's clear, I'm filled with doubt.
+      While they're sharp, I'm in a haze,
+      In their rhythm, I'm lost in a daze.
+
+      Calm as the sea, endless and deep,
+      While the world's wisdom, they seem to keep.
+      They have their ways, and I, my own,
+      Cherishing the Mother, to me, it's shown.
     `,
   },
   {
     title: "21",
     original: `
-      "孔德之容，唯道是从。道之为物，唯恍唯惚。忽兮恍兮，其中有象；恍兮忽兮，其中有物。窈兮冥兮，其中有精；其精甚真，其中有信。自古及今，其名不去，以阅衆甫。吾何以知衆甫之状哉？以此。",
+      孔德之容，唯道是从。
+      道之为物，唯恍唯惚。
+      忽兮恍兮，其中有象；
+      恍兮忽兮，其中有物。
+      窈兮冥兮，其中有精；
+      其精甚真，其中有信。
+      自古及今，其名不去，以阅衆甫。
+      吾何以知衆甫之状哉。以此。
     `,
     english: `
+      In the heart of virtue, the Dao does dwell,
+      A mysterious path, as tales do tell.
+      It's hazy and fleeting, hard to see,
+      But within its mist, forms come to be.
+
+      Now here, now gone, shapes appear,
+      Vanishing swiftly, then drawing near.
+      Deep and dark, a mystery it keeps,
+      Within its core, a spirit leaps.
+
+      True and genuine, its essence so real,
+      Trust and belief, in it we feel.
+      From ancient times to this very day,
+      Its name remains, come what may.
+
+      How do I know of this grand old tale?
+      By observing the Dao, without fail!
     `,
   },
   {
     title: "22",
     original: `
-      "曲则全，枉则直，洼则盈，弊则新，少则得，多则惑。是以圣人抱一为天下式。不自见，故明；不自是，故彰；不自伐，故有功；不自矜，故长。夫唯不争，故天下莫能与之争。古之所谓曲则全者，岂虚言哉！诚全而归之。",
+      曲则全，枉则直，洼则盈，
+      弊则新，少则得，多则惑。
+      是以圣人抱一为天下式。
+      不自见，故明；
+      不自是，故彰；
+      不自伐，故有功；
+      不自矜，故长。
+      夫唯不争，故天下莫能与之争。
+      古之所谓曲则全者，岂虚言哉！
+      诚全而归之。
     `,
     english: `
+      When bent, you're whole, when twisted, you're straight,
+      When dipped, you're full, renew when you're out-of-date.
+      In less, you find, too much leads you astray,
+      So the wise one embraces 'one' as the way.
+
+      Not focused on self, so they shine so bright,
+      Not claiming they're right, they're a brilliant light.
+      Not boasting of deeds, their achievements are grand,
+      Humble in stance, they forever stand.
+
+      They don't fight or quarrel, no conflicts they see,
+      For the world can't contend, in their peaceful spree.
+      The old saying goes, "When curved, you're complete,"
+      It's not just mere words, it's truth so neat!
+
+      Indeed, they are whole, and to this, they retreat.
     `,
   },
   {
     title: "23",
     original: `
-      "希言自然，故飘风不终朝，骤雨不终日。孰为此者？天地。天地尚不能久，而况于人乎？故从事于道者，道者，同于道；德者，同于德；失者，同于失。同于道者，道亦乐得之；同于德者，德亦乐得之；同于失者，失亦乐得之。信不足，焉有不信焉。",
+      希言自然，
+      故飘风不终朝，骤雨不终日。
+      孰为此者。
+      天地。天地尚不能久，而况于人乎。
+      故从事于道者，道者，同于道；
+      德者，同于德；失者，同于失。
+      同于道者，道亦乐得之；
+      同于德者，德亦乐得之；
+      同于失者，失亦乐得之。
+      信不足，焉有不信焉。
     `,
     english: `
+      Nature speaks in whispers clear,
+      Where winds can't blow all the year,
+      And sudden rains soon disappear,
+      Who does all this, my dear?
+      It's Earth and Sky that we revere.
+
+      Yet even they can't always last,
+      Their mighty times will be surpassed.
+      So when in Tao, one's lot is cast,
+      With Tao, they're matched, steadfast.
+      With virtue, they're tied to the mast.
+
+      But if they're lost and go astray,
+      Loss too finds its rightful way.
+      In Tao or virtue if you stay,
+      Joy comes to those who don't betray.
+      But doubt makes trust decay away.
     `,
   },
   {
     title: "24",
     original: `
-      "企者不立；跨者不行；自见者不明；自是者不彰；自伐者无功；自矜者不长。其在道也，曰：馀食赘行。物或恶之，故有道者不处。",
+      企者不立；跨者不行；
+      自见者不明；自是者不彰；
+      自伐者无功；自矜者不长。
+      其在道也，曰：馀食赘行。
+      物或恶之，故有道者不处。
     `,
     english: `
+      Those who strive don't stand; step wide, you won't go;
+      Those who self-behold, their light won't show;
+      Those who self-promote, their works won't float;
+      Self-pride cuts the string, won't let you cling.
+
+      In Tao's gentle flow, such acts just blow
+      Like surplus food, excess of the brood.
+      The world may resist, hence the sage won't insist,
+      In Tao's path, they softly fade, no wrath.
     `,
   },
   {
     title: "25",
     original: `
-      "有物混成，先天地生。寂兮寥兮，独立不改，周行而不殆，可以为天下母。吾不知其名，字之曰道，强为之名曰大。大曰逝，逝曰远，远曰反。故道大，天大，地大，王亦大。域中有四大，而王居其一焉。人法地，地法天，天法道，道法自然。",
+      有物混成，先天地生。
+      寂兮寥兮，独立不改，
+      周行而不殆，可以为天下母。
+      吾不知其名，字之曰道，强为之名曰大。
+      大曰逝，逝曰远，远曰反。
+      故道大，天大，地大，王亦大。
+      域中有四大，而王居其一焉。
+      人法地，地法天，天法道，道法自然。
     `,
     english: `
+      A formless mix before stars and earth's design,
+      Silent and vast, stands alone, divine.
+      It circles endless, without wear or tear,
+      Could be the mother of the world so fair.
+
+      Its name unknown, we call it the Way;
+      Forced to name further, 'Great' we say.
+      Great means passing, going far and wide,
+      Great means returning, to this we abide.
+
+      Thus, the Way is great, so is the sky,
+      The earth is great, and so am I.
+      Among all greatness, four there be,
+      And a king is one, in this quartet's sea.
+
+      Men follow earth, as earth tracks the skies,
+      Heaven follows the Way, as the Way simply lies
+      In its own nature, so clear and so plain,
+      In effortless being, its eternal domain.
     `,
   },
   {
     title: "26",
     original: `
-      "重为轻根，静为躁君。是以圣人终日行不离辎重。虽有荣观，燕处超然。奈何万乘之主，而以身轻天下？轻则失本，躁则失君。",
+      重为轻根，静为躁君。
+      是以圣人终日行不离辎重。
+      虽有荣观，燕处超然。
+      奈何万乘之主，而以身轻天下。
+      轻则失本，躁则失君。
     `,
     english: `
     `,
@@ -550,7 +807,7 @@ const content = [
   {
     title: "昔之",
     original: `
-      "昔之得一者：天得一以清；地得一以宁；神得一以灵；谷得一以盈；万物得一以生；侯王得一以为天下贞。其致之，天无以清，将恐裂；地无以宁，将恐发；神无以灵，将恐歇；谷无以盈，将恐竭；万物无以生，将恐灭；侯王无以贵高将恐蹶。故贵以贱为本，高以下为基。是以侯王自称孤、寡、不谷。此非以贱为本耶？非乎？故致数誉无誉。不欲琭琭如玉，珞珞如石。",
+      "昔之得一者：天得一以清；地得一以宁；神得一以灵；谷得一以盈；万物得一以生；侯王得一以为天下贞。其致之，天无以清，将恐裂；地无以宁，将恐发；神无以灵，将恐歇；谷无以盈，将恐竭；万物无以生，将恐灭；侯王无以贵高将恐蹶。故贵以贱为本，高以下为基。是以侯王自称孤、寡、不谷。此非以贱为本耶。非乎。故致数誉无誉。不欲琭琭如玉，珞珞如石。",
     `,
     english: `
     `,
@@ -590,7 +847,7 @@ const content = [
   {
     title: "名与",
     original: `
-      "名与身孰亲？身与货孰多？得与亡孰病？是故甚爱必大费；多藏必厚亡。知足不辱，知止不殆，可以长久。",
+      "名与身孰亲。身与货孰多。得与亡孰病。是故甚爱必大费；多藏必厚亡。知足不辱，知止不殆，可以长久。",
     `,
     english: `
     `,
@@ -638,7 +895,7 @@ const content = [
   {
     title: "出生",
     original: `
-      "出生入死。生之徒，十有三；死之徒，十有三；人之生，动之死地，十有三。夫何故？以其生，生之厚。盖闻善摄生者，陆行不遇兕虎，入军不被甲兵；兕无所投其角，虎无所措其爪，兵无所容其刃。夫何故？以其无死地。",
+      "出生入死。生之徒，十有三；死之徒，十有三；人之生，动之死地，十有三。夫何故。以其生，生之厚。盖闻善摄生者，陆行不遇兕虎，入军不被甲兵；兕无所投其角，虎无所措其爪，兵无所容其刃。夫何故。以其无死地。",
     `,
     english: `
     `,
@@ -670,7 +927,7 @@ const content = [
   {
     title: "善建",
     original: `
-      "善建不拔，善抱者不脱，子孙以祭祀不辍。修之于身，其德乃真；修之于家，其德乃馀；修之于乡，其德乃长；修之于国，其德乃丰；修之于天下，其德乃普。故以身观身，以家观家，以乡观乡，以国观国，以天下观天下。吾何以知天下然哉？以此。",
+      "善建不拔，善抱者不脱，子孙以祭祀不辍。修之于身，其德乃真；修之于家，其德乃馀；修之于乡，其德乃长；修之于国，其德乃丰；修之于天下，其德乃普。故以身观身，以家观家，以乡观乡，以国观国，以天下观天下。吾何以知天下然哉。以此。",
     `,
     english: `
     `,
@@ -694,7 +951,7 @@ const content = [
   {
     title: "以正",
     original: `
-      "以正治国，以奇用兵，以无事取天下。吾何以知其然哉？以此：天下多忌讳，而民弥贫；民多利器，国家滋昏；人多伎巧，奇物滋起；法令滋彰，盗贼多有。故圣人云：我无为，而民自化；我好静，而民自正；我无事，而民自富；我无欲，而民自朴。",
+      "以正治国，以奇用兵，以无事取天下。吾何以知其然哉。以此：天下多忌讳，而民弥贫；民多利器，国家滋昏；人多伎巧，奇物滋起；法令滋彰，盗贼多有。故圣人云：我无为，而民自化；我好静，而民自正；我无事，而民自富；我无欲，而民自朴。",
     `,
     english: `
     `,
@@ -702,7 +959,7 @@ const content = [
   {
     title: "其政",
     original: `
-      "其政闷闷，其民淳淳；其政察察，其民缺缺。祸兮福之所倚，福兮祸之所伏。孰知其极？其无正。正复为奇，善复为妖。人之迷，其日固久。是以圣人方而不割，廉而不刿，直而不肆，光而不耀。",
+      "其政闷闷，其民淳淳；其政察察，其民缺缺。祸兮福之所倚，福兮祸之所伏。孰知其极。其无正。正复为奇，善复为妖。人之迷，其日固久。是以圣人方而不割，廉而不刿，直而不肆，光而不耀。",
     `,
     english: `
     `,
@@ -734,7 +991,7 @@ const content = [
   {
     title: "道者",
     original: `
-      "道者万物之奥。善人之宝，不善人之所保。美言可以市，尊行可以加人。人之不善，何弃之有？故立天子，置三公，虽有拱璧以先驷马，不如坐进此道。古之所以贵此道者何？不曰：以求得，有罪以免耶？故为天下贵。",
+      "道者万物之奥。善人之宝，不善人之所保。美言可以市，尊行可以加人。人之不善，何弃之有。故立天子，置三公，虽有拱璧以先驷马，不如坐进此道。古之所以贵此道者何。不曰：以求得，有罪以免耶。故为天下贵。",
     `,
     english: `
     `,
@@ -822,7 +1079,7 @@ const content = [
   {
     title: "勇于",
     original: `
-      "勇于敢则杀，勇于不敢则活。此两者，或利或害。天之所恶，孰知其故？是以圣人犹难之。天之道，不争而善胜，不言而善应，不召而自来，繟然而善谋。天网恢恢，踈而不失。",
+      "勇于敢则杀，勇于不敢则活。此两者，或利或害。天之所恶，孰知其故。是以圣人犹难之。天之道，不争而善胜，不言而善应，不召而自来，繟然而善谋。天网恢恢，踈而不失。",
     `,
     english: `
     `,
@@ -830,7 +1087,7 @@ const content = [
   {
     title: "民不",
     original: `
-      "民不畏死，奈何以死惧之？若使民常畏死，而为奇者，吾得执而杀之，孰敢？常有司杀者杀。夫司杀者，是大匠斫；夫代大匠斫者，希有不伤其手矣。",
+      "民不畏死，奈何以死惧之。若使民常畏死，而为奇者，吾得执而杀之，孰敢。常有司杀者杀。夫司杀者，是大匠斫；夫代大匠斫者，希有不伤其手矣。",
     `,
     english: `
     `,
@@ -854,7 +1111,7 @@ const content = [
   {
     title: "天之",
     original: `
-      "天之道，其犹张弓与？高者抑之，下者举之；有馀者损之，不足者补之。天之道，损有馀而补不足。人之道，则不然，损不足以奉有馀。孰能有馀以奉天下，唯有道者。是以圣人为而不恃，功成而不处，其不欲见贤。",
+      "天之道，其犹张弓与。高者抑之，下者举之；有馀者损之，不足者补之。天之道，损有馀而补不足。人之道，则不然，损不足以奉有馀。孰能有馀以奉天下，唯有道者。是以圣人为而不恃，功成而不处，其不欲见贤。",
     `,
     english: `
     `,
@@ -870,7 +1127,7 @@ const content = [
   {
     title: "和大",
     original: `
-      "和大怨，必有馀怨；安可以为善？是以圣人执左契，而不责于人。有德司契，无德司彻。天道无亲，常与善人。",
+      "和大怨，必有馀怨；安可以为善。是以圣人执左契，而不责于人。有德司契，无德司彻。天道无亲，常与善人。",
     `,
     english: `
     `,
