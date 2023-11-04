@@ -63,17 +63,17 @@ export default function Home() {
           <div
             id={e.title}
             key={e.title}
-            className="bg-white p-2 m-2 md:p-8 md:m-8 rounded-xl shadow whitespace-pre-wrap bg-white/70"
+            className="bg-white p-4 m-1 w-11/12 md:p-8 md:m-8 rounded-xl shadow whitespace-pre bg-white/70"
           >
             <div className="text-yellow-600 text-2xl">
               <a href={`/#${e.title}`}>{e.title}</a>
             </div>
             <div
-              className={`${chineseFont.className} text-sm md:text-base text-stone-600/50 tracking-wide -ml-5`}
+              className={`${chineseFont.className} text-sm md:text-base text-stone-600/50 tracking-wide -ml-5 overflow-auto`}
             >
               {e.original}
             </div>
-            <div className="leading-7 text-sm md:text-base tracking-wider text-stone-700 -ml-5">
+            <div className="leading-7 text-sm md:text-base tracking-wider text-stone-700 -ml-5 overflow-auto">
               {e.english}
             </div>
           </div>
