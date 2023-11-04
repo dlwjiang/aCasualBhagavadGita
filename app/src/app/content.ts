@@ -11,16 +11,16 @@ const content = [
       玄之又玄, 衆妙之门。
     `,
     english: `
-      in a world where the way is often sought,
-      the truest way cannot be caught.
-      names we give, but they won't last long,
-      yet naming is how things belong.
-      from nothingness, the world did start,
-      naming gives each thing its part.
-      desireless, we see the wonder's core,
-      with desire, we always seek more.
-      two paths, different names they bear,
-      both mysterious, beyond compare.
+      In a world where the way is often sought,
+      The truest way cannot be caught.
+      Names we give, but they won't last long,
+      Yet naming is how things belong.
+      From nothingness, the world did start,
+      Naming gives each thing its part.
+      Desireless, we see the wonder's core,
+      With desire, we always seek more.
+      Two paths, different names they bear,
+      Both mysterious, beyond compare.
     `,
   },
   {
@@ -37,16 +37,16 @@ const content = [
       夫唯弗居，是以不去。
     `,
     english: `
-      when all see beauty and call it so,
-      ugliness begins its show.
-      when all know good and label it right,
-      wrong then steps into the light.
-      opposites, they give each other birth,
-      easy-hard, short-long, heaven-earth.
-      sounds harmonize, and sequences flow,
-      thus, the wise let go of the show.
-      they act without a fuss or claim,
-      achieve, but never seek the fame.
+      When all see beauty and call it so,
+      Ugliness begins its show.
+      When all know good and label it right,
+      Wrong then steps into the light.
+      Opposites, they give each other birth,
+      Easy-hard, short-long, heaven-earth.
+      Sounds harmonize, and sequences flow,
+      Thus, the wise let go of the show.
+      They act without a fuss or claim,
+      Achieve, but never seek the fame.
     `,
   },
   {
@@ -105,7 +105,7 @@ const content = [
       圣人不仁，以百姓为刍狗。
       天地之间，其犹橐龠乎?
       虚而不屈，动而愈出。
-      多言数穷，不如守中。",
+      多言数穷，不如守中。
     `,
     english: `
       The sky and earth, they do not care,
@@ -145,65 +145,214 @@ const content = [
       以其不自生，故能长生。
       是以圣人后其身而身先；外其身而身存。
       非以其无私耶。
-      故能成其私。",
+      故能成其私。
     `,
     english: `
+      Heaven stretches, earth endures,
+      A dance of time that reassures.
+      Why do they last, so old and great?
+      They do not live for their own sake.
+
+      Thus the sage, in wisdom's seat,
+      Puts herself last, a feat so neat.
+      Forgets herself, but finds she's found,
+      In this way, her presence is profound.
+
+      Is it not because she's selfless, true,
+      That her own self comes shining through?
+      By setting herself aside, so clever,
+      She finds her place, and lives forever.
     `,
   },
   {
     title: "8",
     original: `
-      "上善若水。水善利万物而不争，处衆人之所恶，故几于道。居善地，心善渊，与善仁，言善信，正善治，事善能，动善时。夫唯不争，故无尤。",
+      上善若水。
+      水善利万物而不争，
+      处衆人之所恶，故几于道。
+      居善地，心善渊，与善仁，
+      言善信，正善治，事善能，
+      动善时。夫唯不争，故无尤。
     `,
     english: `
+      The highest good's like flowing stream,
+      Water benefits all, in every dream.
+      Never fighting, just goes with the flow,
+      Stays where others might not go.
+
+      It's close to the way, in its gentle glide,
+      Lives in good places, with pride set aside.
+      Heart as deep as the ocean's own bend,
+      Kindness in actions, a true-hearted friend.
+
+      Speaks with trust, acts with grace,
+      Always right, knows its place.
+      Adept in action, timely in deed,
+      It's the lack of strife, that lets it succeed.
     `,
   },
   {
     title: "9",
     original: `
-      "持而盈之，不如其已；揣而锐之，不可长保。金玉满堂，莫之能守；富贵而骄，自遗其咎。功遂身退天之道。",
+      持而盈之, 不如其已;
+      揣而锐之, 不可长保。
+      金玉满堂, 莫之能守;
+      富贵而骄, 自遗其咎。
+      功遂身退, 天之道也。
     `,
     english: `
+      Holding too much, filled up to the brim,
+      Better to stop, before reaching the rim.
+      Sharpen too much, and it won't stay keen,
+      It can't be kept up, if you know what I mean.
+
+      Rooms full of treasure, gold and jade,
+      No one can guard them, they'll surely fade.
+      Wealth and pride lead to a fall,
+      It's the way of the world, the same for all.
+
+      Accomplishments done, step back, that's the key,
+      This is the way of heaven, naturally.
+      For in stepping back when the work is through,
+      Space is made for the new to brew.
     `,
   },
   {
     title: "10",
     original: `
-      "载营魄抱一，能无离乎？专气致柔，能婴儿乎？涤除玄览，能无疵乎？爱民治国，能无知乎？天门开阖，能为雌乎？明白四达，能无知乎？生之、畜之，生而不有，为而不恃，长而不宰，是谓玄德。",
+      载营魄抱一, 能无离乎。
+      专气致柔, 能婴儿乎。
+      涤除玄览, 能无疵乎。
+      爱民治国, 能无知乎。
+      天门开阖, 能为雌乎。
+      明白四达, 能无知乎。
+      生之、畜之, 生而不有, 为而不恃, 长而不宰, 是谓玄德。
     `,
     english: `
+      Nurturing the spirit, embracing the one,
+      Can you keep it together, until it's all done?
+      Focus your energy, soft and profound,
+      Can you be like a baby, with innocence unbound?
+
+      Cleanse your inner vision, keep it pure and clear,
+      Can you avoid all flaws, and hold what's dear?
+      Loving the people, guiding the state,
+      Can you do so without knowing their fate?
+
+      Open and close the gates of heaven's might,
+      Can you be passive, letting things take flight?
+      Seeing all directions, in clarity and glow,
+      Can you act without knowing, just letting it flow?
+
+      Nourish and care, let things grow wild and free,
+      Have without possessing, let everything just be.
+      Lead without controlling, let nature have its due,
+      This is the mystic virtue, always true.
     `,
   },
   {
     title: "11",
     original: `
-      "三十辐，共一毂，当其无，有车之用。埏埴以为器，当其无，有器之用。凿户牖以为室，当其无，有室之用。故有之以为利，无之以为用。",
+      三十辐，共一毂，当其无，有车之用。
+      埏埴以为器，当其无，有器之用。
+      凿户牖以为室，当其无，有室之用。
+      故有之以为利，无之以为用。
     `,
     english: `
+      Thirty spokes share one hub's embrace,
+      It's the empty space that gives the wheel grace.
+      Clay is shaped to form a vessel's frame,
+      It's the space within that gives it a name.
+
+      Doors and windows cut in walls standing tall,
+      It's the void they create that's useful to all.
+      Thus what is there gives us the means to thrive,
+      But the nothingness within gives everything life.
     `,
   },
   {
     title: "12",
     original: `
-      "五色令人目盲；五音令人耳聋；五味令人口爽；驰骋田猎，令人心发狂；难得之货，令人行妨。是以圣人为腹不为目，故去彼取此。",
+      五色令人目盲;
+      五音令人耳聋;
+      五味令人口爽;
+      驰骋田猎，令人心发狂;
+      难得之货，令人行妨。
+      是以圣人为腹不为目，故去彼取此。
     `,
     english: `
+      Five colors can blind a person's sight,
+      Five sounds make the hearing not quite right.
+      Five flavors can overwhelm the taste,
+      Hunting and chasing, a crazy waste.
+
+      Rare treasures lead to harmful deeds,
+      For they plant in hearts those greedy seeds.
+      Thus the sage keeps to the core,
+      Leaves the superficial, seeks something more.
+
+      For the belly, not the eyes, is where they aim,
+      Letting go of that, this they claim.
     `,
   },
   {
     title: "13",
     original: `
-      "宠辱若惊，贵大患若身。何谓宠辱若惊？宠为下，得之若惊，失之若惊，是谓宠辱若惊。何谓贵大患若身？吾所以有大患者，为吾有身，及吾无身，吾有何患？故贵以身为天下，若可寄天下；爱以身为天下，若可托天下。",
+      宠辱若惊，贵大患若身。
+      何谓宠辱若惊。
+      宠为下，得之若惊，失之若惊，是谓宠辱若惊。
+      何谓贵大患若身。
+      吾所以有大患者，为吾有身，
+      及吾无身，吾有何患。
+      故贵以身为天下，若可寄天下；
+      爱以身为天下，若可托天下。
     `,
     english: `
+      Praise or scorn, like a shock, they can stun,
+      Great trouble is like to ourselves, weighing a ton.
+      What's this about praise or disgrace being shocking?
+      Praise puts you down low, its coming and going quite rocking.
+
+      And as for the troubles as big as our form,
+      It's because we have selves that we weather the storm.
+      Without a self, what trouble is there?
+      No more than a leaf floating in air.
+
+      To treasure our self as if the world it could hold,
+      Is to trust it with more than it can, if we're bold.
+      To love our self as if through it all things we care,
+      Is to offer it up, our world to share.
     `,
   },
   {
     title: "14",
     original: `
-      "视之不见，名曰夷；听之不闻，名曰希；搏之不得，名曰微。此三者不可致诘，故混而为一。其上不皦，其下不昧。绳绳不可名，复归于无物。是谓无状之状，无物之象，是谓惚恍。迎之不见其首，随之不见其后。执古之道，以御今之有。能知古始，是谓道纪。",
+      视之不见，名曰夷；
+      听之不闻，名曰希；
+      搏之不得，名曰微。
+      此三者不可致诘，故混而为一。
+      其上不皦，其下不昧。
+      绳绳不可名，复归于无物。
+      是谓无状之状，无物之象，是谓惚恍。
+      迎之不见其首，随之不见其后。
+      执古之道，以御今之有。
+      能知古始，是谓道纪。
     `,
     english: `
+      See it, yet it hides, call it the elusive sight,
+      Hear it, yet it's silent, the quiet takes flight.
+      Grasp it, but it's gone, like a wisp in the breeze,
+      These three are mysterious, blending with ease.
+
+      Neither bright above, nor dark down below,
+      It's continuous, unnamable, in its gentle flow.
+      Returning to the realm of the unseen and unknown,
+      This form without form, image all on its own.
+
+      Approach, and its start remains out of view,
+      Follow, and its end, slips away too.
+      Embrace ancient ways, in today's bustling spree,
+      To understand beginnings, is the Dao's decree.
     `,
   },
   {
