@@ -11,6 +11,13 @@ export default function Home() {
       className={`${font.className} h-screen overflow-y-scroll overflow-x-hidden bg-amber-50`}
       style={{ perspective: "10px" }}
     >
+      <a
+        href="https://dj.theory-a.com/"
+        target="_blank"
+        className="absolute right-0 top-0 pr-4 pt-1 text-[#c5a20a] hover:underline"
+      >
+        About
+      </a>
       <header
         className="relative flex flex-col items-center justify-center h-full"
         style={{ transformStyle: "preserve-3d", zIndex: -1 }}
@@ -42,28 +49,31 @@ export default function Home() {
           priority
         />
         <div
-          className="text-white text-6xl z-10 text-center px-16"
+          className="text-white text-6xl z-10 text-center mx-16 p-4 bg-stone-200/50 rounded"
           style={{
-            textShadow: "2px 2px 2px #027780",
+            textShadow: "4px 4px 2px #027780",
             transform: "translateZ(2px) scale(0.8)",
           }}
         >
           A Casual Dao De Jing
         </div>
       </header>
-      <section className="md:px-48">
+      <section className="md:px-48 flex flex-col items-center">
         {content.map((e, i) => (
           <div
+            id={e.title}
             key={e.title}
-            className="bg-white p-2 m-2 md:p-8 md:m-8 rounded-xl shadow whitespace-pre-wrap bg-white/70"
+            className="bg-white p-2 m-2 md:p-8 md:m-8 rounded-xl shadow whitespace-pre-wrap bg-white/70 max-w-[500px]"
           >
-            <div className="text-yellow-600 text-2xl">{e.title}</div>
+            <div className="text-yellow-600 text-2xl">
+              <a href={`/#${e.title}`}>{e.title}</a>
+            </div>
             <div
-              className={`${chineseFont.className} text-sm md:text-base text-stone-600/50 tracking-wide`}
+              className={`${chineseFont.className} text-sm md:text-base text-stone-600/50 tracking-wide -ml-5`}
             >
               {e.original}
             </div>
-            <div className="leading-7 text-sm md:text-base tracking-wide text-stone-700">
+            <div className="leading-7 text-sm md:text-base tracking-wider text-stone-700 -ml-5">
               {e.english}
             </div>
           </div>
