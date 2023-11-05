@@ -63,7 +63,7 @@ export default function Home() {
           <div
             id={e.title}
             key={e.title}
-            className="bg-white p-4 m-1 w-11/12 md:p-8 md:m-8 rounded-xl shadow whitespace-pre bg-white/70"
+            className="bg-white p-4 m-1 w-11/12 md:w-auto md:p-8 md:m-8 rounded-xl shadow whitespace-pre bg-white/70"
           >
             <div className="text-yellow-600 text-2xl">
               <a href={`/#${e.title}`}>{e.title}</a>

@@ -737,180 +737,594 @@ const content = [
       虽智大迷，是谓要妙。
     `,
     english: `
+      Good deeds leave no tracks, good words have no flaws,
+      Good counting needs no tally, and good locks need no bars.
+      Good knots need no rope but cannot be undone,
+      Thus, the sage always saves people, and abandons none.
+
+      He aids all beings, and casts none away,
+      This is called grasping the light of day.
+      The good are teachers of the not-so-fine,
+      The bad, for the good, are a resource, a sign.
+
+      Who does not honor their teacher, nor care for their asset,
+      Even in wisdom they'll falter, in confusion they'll be set.
+      This mystery, so subtle, is profoundly deep,
+      In its essence, it's the secret that we all keep.
     `,
   },
   {
     title: "28",
     original: `
-      "知其雄，守其雌，为天下溪。为天下溪，常德不离，复归于婴儿。知其白，守其黑，为天下式。为天下式，常德不忒，复归于无极。知其荣，守其辱，为天下谷。为天下谷，常德乃足，复归于朴。朴散则为器，圣人用之，则为官长，故大制不割。",
+      知其雄，守其雌，为天下溪。
+      为天下溪，常德不离，复归于婴儿。
+      知其白，守其黑，为天下式。
+      为天下式，常德不忒，复归于无极。
+      知其荣，守其辱，为天下谷。
+      为天下谷，常德乃足，复归于朴。
+      朴散则为器，圣人用之，
+      则为官长，故大制不割。
     `,
     english: `
+      In a world so vast and wide,
+      Know the strong, yet stand by the bride.
+      By the stream, where all things glide,
+      Return to the babe, with arms open wide.
+
+      In a world that's black and white,
+      Know the day, yet stand by the night.
+      Patterns form, shining so bright,
+      Return to boundless, out of sight.
+
+      In a world where valleys lie,
+      Know the fame, but humility, don't deny.
+      Where virtue stands tall, reaching the sky,
+      Return to simplicity, giving it a try.
+
+      When the simple turns to tools,
+      The wise sage, he never fools.
+      He leads and sets the rules,
+      But never cuts, for that's the jewel!
     `,
   },
   {
     title: "29",
     original: `
-      "将欲取天下而为之，吾见其不得已。天下神器，不可为也，为者败之，执者失之。故物或行或随；或歔或吹；或强或羸；或挫或隳。是以圣人去甚，去奢，去泰。",
+      将欲取天下而为之，吾见其不得已。
+      天下神器，不可为也，
+      为者败之，执者失之。
+      故物或行或随；或歔或吹；
+      或强或羸；或挫或隳。
+      是以圣人去甚，去奢，去泰。
     `,
     english: `
+      To grasp the world and control its way,
+      I've seen such efforts lead men astray.
+      The world's a sacred vessel, not to command,
+      For those who force it, it slips from the hand.
+
+      Some things lead, while others will follow,
+      Some breathe out, others swallow.
+      Some are strong, and some are weak,
+      Some will peak, while others bleak.
+
+      Thus, the sage avoids extremes, and excess in his stride,
+      He lets go of luxury, and set aside pride.
     `,
   },
   {
     title: "30",
     original: `
-      "以道佐人主者，不以兵强天下。其事好还。师之所处，荆棘生焉。大军之后，必有凶年。善有果而已，不敢以取强。果而勿矜，果而勿伐，果而勿骄。果而不得已，果而勿强。物壮则老，是谓不道，不道早已。",
+      以道佐人主者，不以兵强天下。
+      其事好还。
+      师之所处，荆棘生焉。
+      大军之后，必有凶年。
+      善有果而已，不敢以取强。
+      果而勿矜，果而勿伐，果而勿骄。
+      果而不得已，果而勿强。
+      物壮则老，是谓不道，不道早已。
     `,
     english: `
+      With the Dao to guide a ruler's reign,
+      Not by force will the world be tamed.
+      For every act, there's a price returned,
+      Where armies go, thorns and brambles are earned.
+
+      After a war, bad years are near,
+      The wise achieve but don't show off their gear.
+      They bear fruit but don't boast with pride,
+      They succeed humbly, with ego set aside.
+
+      When things peak, they start to wane,
+      This isn't the Dao, and will cause much pain.
+      For those who oppose the Dao won't last long,
+      They'll fade away, for their path is wrong.
     `,
   },
   {
     title: "31",
     original: `
-      "夫佳兵者，不祥之器，物或恶之，故有道者不处。君子居则贵左，用兵则贵右。兵者不祥之器，非君子之器，不得已而用之，恬淡为上。胜而不美，而美之者，是乐杀人。夫乐杀人者，则不可以得志于天下矣。吉事尚左，凶事尚右。偏将军居左，上将军居右，言以丧礼处之。杀人之衆，以哀悲泣之，战胜以丧礼处之。",
+      夫佳兵者，不祥之器，
+      物或恶之，故有道者不处。
+      君子居则贵左，用兵则贵右。
+      兵者不祥之器，非君子之器，
+      不得已而用之，恬淡为上。
+      胜而不美，而美之者，是乐杀人。
+      夫乐杀人者，则不可以得志于天下矣。
+      吉事尚左，凶事尚右。
+      偏将军居左，上将军居右，言以丧礼处之。
+      杀人之衆，以哀悲泣之，战胜以丧礼处之。
     `,
     english: `
+      The finest weapons, omens of despair,
+      Shunned by the wise, they won't go there.
+      Noble folks, in peace value the left,
+      In war, the right, with a deft heft.
+
+      Weapons aren't tools for the wise to wield,
+      But if they must, they won't let it yield.
+      Victory without pride is the way to be,
+      For those who enjoy killing, can't truly see.
+
+      Joy in death won't rule the land,
+      Good favors left, while bad takes a right hand stand.
+      Generals on the left, the chief on the right,
+      In mourning rituals, they cite their plight.
+
+      When many die, tears flow like rain,
+      In victory, mourn, for it's paired with pain.
     `,
   },
   {
     title: "32",
     original: `
-      "道常无名。\n朴虽小，1天下莫能臣也。侯王若能守之，万物将自宾。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦将知止，知止所以不殆。譬道之在天下，犹川谷之与江海。",
+      道常无名。
+      虽小, 天下莫能臣。
+      侯王若能守之，万物将自宾。
+      天地相合，以降甘露，民莫之令而自均。
+      始制有名，名亦既有，
+      夫亦将知止，知止所以不殆。
+      譬道之在天下，犹川谷之与江海。
     `,
     english: `
+      The eternal Tao holds no fame,
+      Yet it's mighty, beyond a name.
+      Even the smallest glimpse, none can tame,
+      If lords and kings uphold its frame,
+      All things come to them, as guests claim.
+
+      Heaven and Earth unite, sweet dew descends,
+      No commands needed, equality never ends.
+      Once the forms are named from the shapeless molds,
+      The wise see the end, their caution holds.
+
+      Just as streams and valleys into rivers flow,
+      The Tao in the world, silently bestows.
     `,
   },
   {
     title: "33",
     original: `
-      "知人者智，自知者明。胜人者有力，自胜者强。知足者富。强行者有志。不失其所者久。死而不亡者寿。",
+      知人者智，自知者明。
+      胜人者有力，自胜者强。
+      知足者富。
+      强行者有志。
+      不失其所者久。
+      死而不亡者寿。
     `,
     english: `
+      To know others is intelligence, self-knowledge is true insight.
+      To best others might show power, but self-mastery is might.
+      Contentment is wealth untold.
+      A will that's strong defies the cold.
+      Those who do not lose their place endure.
+      And who in death cease not, their lives are sure.
     `,
   },
   {
     title: "34",
     original: `
-      "大道泛兮，其可左右。万物恃之而生而不辞，功成不名有。衣养万物而不为主，常无欲，可名于小；万物归焉，而不为主，可名为大。以其终不自为大，故能成其大。",
+      大道泛兮，其可左右。
+      万物恃之而生而不辞，功成不名有。
+      衣养万物而不为主，可名于小；
+      万物归焉而不为主，可名为大。
+      以其终不自为大，故能成其大。
     `,
     english: `
+      The Great Way is broad, spanning left and right,
+      All life depends on it and grows without spite,
+      It completes its work but does not take the limelight,
+      Nourishes multitudes, yet does not dominate the sight.
+
+      It's fine to be known as lesser, as it does not rule,
+      To it all things return, yet it does not act the fool.
+      Not claiming greatness, it achieves it as a tool,
+      Its humility and ends make it truly rule.
     `,
   },
   {
     title: "35",
     original: `
-      "执大象，天下往。往而不害，安平大。乐与饵，过客止。道之出口，淡乎其无味，视之不足见，听之不足闻，用之不足既。",
+      执大象，天下往。
+      往而不害，安平大。
+      乐与饵，过客止。
+      道之出口，淡乎其无味，
+      视之不足见，听之不足闻，用之不足既。
     `,
     english: `
+      Grasping the great image, the world is drawn,
+      Coming without harm, in peace, they are fond.
+      Music and food make passersby pause for a song,
+      Yet the Tao when expressed, mild, seems not strong.
+
+      In its blandness, its taste cannot be sensed,
+      Invisible, inaudible, yet its use is immense.
+      Tao's essence when used is never dense,
+      Ever present, its subtlety is immense.
     `,
   },
   {
     title: "36",
     original: `
-      "将欲歙之，必固张之；将欲弱之，必固强之；将欲废之，必固兴之；将欲夺之，必固与之。是谓微明。柔弱胜刚强。鱼不可脱于渊，国之利器不可以示人。",
+      将欲歙之，必固张之；
+      将欲弱之，必固强之；
+      将欲废之，必固兴之；将
+      欲夺之，必固与之。
+      是谓微明。
+      柔弱胜刚强。
+      鱼不可脱于渊，国之利器不可以示人。
     `,
     english: `
+      If you wish to shrink it, you must first stretch it out;
+      To weaken it, you must first make it stout.
+      To end it, you must first raise it high;
+      And to take it, you must first comply.
+      This is called subtle clarity,
+      Soft overcomes the hard, this is the reality.
+
+      Like fish that in deep waters thrive,
+      State's secrets from the crowd you must hide.
+      Keep your tools of power from public view,
+      Lest they lose their edge and strength anew.
     `,
   },
   {
     title: "37",
     original: `
-      "道常无为而无不为。侯王若能守之，万物将自化。化而欲作，吾将镇之以无名之朴。无名之朴，夫亦将无欲。不欲以静，天下将自定。",
+      道常无为而无不为。
+      侯王若能守之，万物将自化。
+      化而欲作，吾将镇之以无名之朴。
+      无名之朴，夫亦将无欲。
+      不欲以静，天下将自定。
     `,
     english: `
+      The Way does nothing, yet leaves nothing undone.
+      If leaders could hold it, their problems would be none.
+      All things transform, and if desires arise,
+      I'd quell them with simplicity, that has no guise.
+
+      Simplicity unnamed, desire will be stilled.
+      Without want, there's peace, and all will be fulfilled.
+      The world would settle, in stillness, we'd find
+      A calm that would govern all humankind.
     `,
   },
   {
     title: "38",
     original: `
-      "上德不德，是以有德；下德不失德，是以无德。上德无为而无以为；下德为之而有以为。上仁为之而无以为；上义为之而有以为。上礼为之而莫之应，则攘臂而扔之。故失道而后德，失德而后仁，失仁而后义，失义而后礼。夫礼者，忠信之薄，而乱之首。前识者，道之华，而愚之始。是以大丈夫处其厚，不居其薄；处其实，不居其华。故去彼取此。",
+      上德不德，是以有德；
+      下德不失德，是以无德。
+      上德无为而无以为；
+      下德为之而有以为。
+      上仁为之而无以为；
+      上义为之而有以为。
+      上礼为之而莫之应，
+      则攘臂而扔之。
+      故失道而后德，失德而后仁，
+      失仁而后义，失义而后礼。
+      夫礼者，忠信之薄，而乱之首。
+      前识者，道之华，而愚之始。
+      是以大丈夫处其厚，不居其薄；
+      处其实，不居其华。故去彼取此。
     `,
     english: `
+      In a land up top, virtue's not quite true,
+      So it holds to virtue, as virtuous folks do.
+      Down below, they cling to what they know,
+      Acting with intent, putting on a show.
+
+      Up high, kind acts are just a part,
+      With no thought to them, straight from the heart.
+      Justice up high might come with a plan,
+      While higher rites get no applause from a man.
+
+      When they're ignored, arms raise in dismay,
+      Throwing it all, in disdain, far away.
+      First we lose the Way, then virtue's gone,
+      Lose kindness, then justice, and the list goes on.
+
+      Rites are but thin, a facade that's quite frail,
+      The start of disorder, where societies fail.
+      Surface knowledge, it seems, is the bloom of the Way,
+      But it's also where foolishness begins to play.
+
+      So, the wise and the grand, in the thick they reside,
+      Not in the thin, not on the surface wide.
+      They live in the real, not the glitz and the gleam,
+      Leaving behind what's not as it seems.
     `,
   },
   {
     title: "39",
     original: `
-      "昔之得一者：天得一以清；地得一以宁；神得一以灵；谷得一以盈；万物得一以生；侯王得一以为天下贞。其致之，天无以清，将恐裂；地无以宁，将恐发；神无以灵，将恐歇；谷无以盈，将恐竭；万物无以生，将恐灭；侯王无以贵高将恐蹶。故贵以贱为本，高以下为基。是以侯王自称孤、寡、不谷。此非以贱为本耶。非乎。故致数誉无誉。不欲琭琭如玉，珞珞如石。",
+      昔之得一者：
+      天得一以清；
+      地得一以宁；
+      神得一以灵；
+      谷得一以盈；
+      万物得一以生；
+      侯王得一以为天下贞。
+      其致之，天无以清，将恐裂；
+      地无以宁，将恐发；
+      神无以灵，将恐歇；
+      谷无以盈，将恐竭；
+      万物无以生，将恐灭；
+      侯王无以贵高将恐蹶。
+      故贵以贱为本，高以下为基。
+      是以侯王自称孤、寡、不谷。
+      此非以贱为本耶。非乎。故致数誉无誉。
+      不欲琭琭如玉，珞珞如石。
     `,
     english: `
+      Once upon a time, with oneness they'd align:
+      The sky was clear, with oneness so fine.
+      The earth was calm, its peace was prime,
+      The spirits were lively, in their oneness they'd chime.
+      Valleys were full, not a space did they find,
+      All creatures thrived, to oneness they'd bind.
+      Kings and lords, with oneness they'd sign,
+      To rule the land, with a line so fine.
+
+      But without that one, the sky might crack,
+      The earth might quake, and off its track.
+      Spirits might fade, lose their knack,
+      Valleys run dry, miss what they lack.
+      Creatures might perish, fall through the crack,
+      Kings might stumble, lose their pack.
+
+      So the high rely on the low, you see,
+      The mighty stand firm, with humility.
+      Kings call themselves lonely, plain as can be,
+      Not because they're low, but it's strategy.
+      They don't seek praise, or a grand spree,
+      Rather be plain, like a stone, not shiny.
     `,
   },
   {
     title: "40",
     original: `
-    "反者道之动；弱者道之用。天下万物生于有，有生于无。"
+      反者道之动；弱者道之用。
+      天下万物生于有，有生于无。
     `,
     english: `
+      To reverse is the movement of the Way,
+      And to yield is how the Dao will play.
+      In the world, all things from presence arise,
+      But presence itself comes from the empty skies.
     `,
   },
   {
     title: "41",
     original: `
-      "上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之。不笑不足以为道。故建言有之：明道若昧；进道若退；夷道若纇；上德若谷；太白若辱；广德若不足；建德若偷；质真若渝；大方无隅；大器晚成；大音希声；大象无形；道隐无名。夫唯道，善贷且成。",
+      上士闻道，勤而行之；
+      中士闻道，若存若亡；
+      下士闻道，大笑之。
+      不笑不足以为道。
+      故建言有之：
+      明道若昧；
+      进道若退；
+      夷道若纇；
+      上德若谷；
+      太白若辱；
+      广德若不足；
+      建德若偷；
+      质真若渝；
+      大方无隅；
+      大器晚成；
+      大音希声；
+      大象无形；
+      道隐无名。
+      夫唯道，善贷且成。
     `,
     english: `
+      The noble ones hear the Dao and work with zest,
+      While average minds hold it close, at best.
+      The lesser ones hear it and laugh with scorn,
+      For without laughter, the Dao's unborn.
+
+      Hence the old sayings do often speak:
+      The clearest path will seem to hide and sneak;
+      The greatest progress seems like a retreat;
+      To level ways, the crooked seems to compete.
+
+      The highest virtue is like a valley deep,
+      The purest white will seem a stain to keep;
+      The broadest virtue might look insufficient,
+      The firmest virtue like it's non-existent.
+
+      The truest substance seems to change and shift,
+      The biggest square has no corners to gift;
+      The greatest vessel is the last to be done,
+      The deepest sound is the hardest to come.
+
+      The largest image has no shape to chase,
+      The Dao is hidden and has no face.
+      Only the Dao, both lends and brings to end,
+      Good at giving and making all things blend.
     `,
   },
   {
     title: "42",
     original: `
-      "道生一，一生二，二生三，三生万物。万物负阴而抱阳，冲气以为和。人之所恶，唯孤、寡、不谷，而王公以为称。故物或损之而益，或益之而损。人之所教，我亦教之。强梁者不得其死，吾将以为教父。",
+      道生一，一生二，二生三，三生万物。
+      万物负阴而抱阳，冲气以为和。
+      人之所恶，唯孤、寡、不谷，而王公以为称。
+      故物或损之而益，或益之而损。
+      人之所教，我亦教之。
+      强梁者不得其死，吾将以为教父。
     `,
     english: `
+      In the land of Dao, one gave birth to two,
+      Two then made three, and from three, all things grew.
+      All things have shadows and embrace the light,
+      Balanced by the breath, making all just right.
+
+      People often dread being left alone,
+      Yet kings and lords sit high on their throne.
+      Some things may lessen but then they grow strong,
+      While others gain but then something goes wrong.
+
+      What people teach, I will also convey,
+      But those who force their way will lose their day.
+      For those who won't bend, won't meet a good end,
+      I'll use them as lessons, on that depend!
     `,
   },
   {
     title: "43",
     original: `
-      "天下之至柔，驰骋天下之至坚。无有入无间，吾是以知无为之有益。不言之教，无为之益，天下希及之。",
+      天下之至柔，驰骋天下之至坚。
+      无有入无间，吾是以知无为之有益。
+      不言之教，无为之益，天下希及之。
     `,
     english: `
+      The world's softest thing dashes against the hard,
+      Through spaces so tiny, it seems unscarred.
+      From nothingness comes the benefit clear,
+      The silent teaching, the doing that's sheer.
+
+      Actions without acting, a paradox,
+      A wordless doctrine that breaks all the locks.
+      Rarely reached by the many, known to few,
+      This path of non-doing that's ever true.
     `,
   },
   {
     title: "44",
     original: `
-      "名与身孰亲。身与货孰多。得与亡孰病。是故甚爱必大费；多藏必厚亡。知足不辱，知止不殆，可以长久。",
+      名与身孰亲。身与货孰多。得与亡孰病。
+      是故甚爱必大费；多藏必厚亡。
+      知足不辱，知止不殆，可以长久。
     `,
     english: `
+      Which is dearer, name or self?
+      Which holds more, wealth or health?
+      Gain or loss, which brings more pain?
+      Thus, we ponder again and again.
+
+      Thus, love deeply, count the cost.
+      Hoarding riches, much is lost.
+      Contentment shields from shame's hard blow,
+      And knowing limits wards off woe.
+
+      Long-lasting then, can our lives be,
+      When we embrace sufficiency.
     `,
   },
   {
     title: "45",
     original: `
-      "大成若缺，其用不弊。大盈若冲，其用不穷。大直若屈，大巧若拙，大辩若讷。躁胜寒静胜热。清静为天下正。",
+      大成若缺，其用不弊。
+      大盈若冲，其用不穷。
+      大直若屈，大巧若拙，大辩若讷。
+      躁胜寒静胜热。清静为天下正。
     `,
     english: `
+      Great success seems at times incomplete,
+      Yet its function never depletes.
+      Overflowing like a void so wide,
+      Its usefulness never pushed aside.
+
+      The straightest line might curve to sight,
+      The greatest skill appears unright,
+      And eloquence, in simplicity caught,
+      Stammers like a child's first thought.
+
+      Restlessness may conquer the cold,
+      Stillness prevails against heat untold.
+      In quiet clarity, the world finds correction,
+      For serenity is nature's own perfection.
     `,
   },
   {
     title: "46",
     original: `
-      "天下有道，却走马以粪。天下无道，戎马生于郊。祸莫大于不知足；咎莫大于欲得。故知足之足，常足矣。",
+      天下有道，却走马以粪。
+      天下无道，戎马生于郊。
+      祸莫大于不知足；咎莫大于欲得。
+      故知足之足，常足矣。
     `,
     english: `
+      When the world knows the way, truly grand,
+      We'd retire our steeds to till the land.
+      When the world loses touch with its core,
+      Warhorses breed by the outskirts, ready for war.
+
+      No disaster greater than wanting more,
+      Fault lies in grasping for the unreachable shore.
+      Thus, he who knows when he has enough,
+      Will find that indeed, he has plenty of stuff.
     `,
   },
   {
     title: "47",
     original: `
-      "不出户知天下；不闚牖见天道。其出弥远，其知弥少。是以圣人不行而知，不见而名，不为而成。",
+      不出户知天下；不闚牖见天道。
+      其出弥远，其知弥少。
+      是以圣人不行而知，不见而名，不为而成。
     `,
     english: `
+      Without stepping out, know the world wide,
+      No need to peep through windows for the Way to abide.
+      The further you travel, the less you comprehend,
+      True knowing and seeing, in stillness they blend.
+
+      Thus, the sage without roaming can understand,
+      Without looking, can grasp the lay of the land.
+      With no effort, they achieve, let go to succeed,
+      In the art of doing nothing, they find all they need.
     `,
   },
   {
     title: "48",
     original: `
-      "为学日益，为道日损。损之又损，以至于无为。无为而无不为。取天下常以无事，及其有事，不足以取天下。",
+      为学日益，为道日损。
+      损之又损，以至于无为。
+      无为而无不为。
+      取天下常以无事，及其有事，不足以取天下。
     `,
     english: `
+      In learning, we add each and every day,
+      But seeking the Way, we must strip away.
+      Less and still less, until action is none,
+      And doing by not doing is how it's done.
+
+      The master by quiet, the world does he win,
+      When busyness beckons, he does not begin.
+      For in the realm of less is the power to sway,
+      And with no ado, the world will obey.
     `,
   },
   {
     title: "49",
     original: `
-      "圣人无常心，以百姓心为心。善者，吾善之；不善者，吾亦善之；德善。信者，吾信之；不信者，吾亦信之；德信。圣人在天下，歙歙为天下浑其心，百姓皆注其耳目，圣人皆孩之。",
+      圣人无常心，以百姓心为心。
+      善者，吾善之；
+      不善者，吾亦善之；德善。
+      信者，吾信之；
+      不信者，吾亦信之；德信。
+      圣人在天下，歙歙为天下浑其心，
+      百姓皆注其耳目，圣人皆孩之。
     `,
     english: `
     `,
@@ -918,7 +1332,15 @@ const content = [
   {
     title: "50",
     original: `
-      "出生入死。生之徒，十有三；死之徒，十有三；人之生，动之死地，十有三。夫何故。以其生，生之厚。盖闻善摄生者，陆行不遇兕虎，入军不被甲兵；兕无所投其角，虎无所措其爪，兵无所容其刃。夫何故。以其无死地。",
+      出生入死。
+      生之徒，十有三；
+      死之徒，十有三；
+      人之生，动之死地，十有三。
+      夫何故。
+      以其生，生之厚。
+      盖闻善摄生者，陆行不遇兕虎，入军不被甲兵；
+      兕无所投其角，虎无所措其爪，兵无所容其刃。
+      夫何故。以其无死地。
     `,
     english: `
     `,
