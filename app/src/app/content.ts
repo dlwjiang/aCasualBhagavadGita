@@ -1,6 +1,6 @@
 const content = [
   {
-    title: "1",
+    title: "The Nature of the Way",
     original: `
       道可道，非常道。
       名可名，非常名。
@@ -11,20 +11,22 @@ const content = [
       玄之又玄, 衆妙之门。
     `,
     english: `
-      In a world where the way is often sought,
-      The truest way cannot be caught.
+      Where the Way is often sought,
+      The truest Way cannot be caught.
+
       Names we give, but they won't last long,
       Yet naming is how things belong.
       From nothingness, the world did start,
       Naming gives each thing its part.
-      Desireless, we see the wonder's core,
-      With desire, we always seek more.
+
+      Desireless, we see wonder's core,
+      Otherwise, we always seek more.
       Two paths, different names they bear,
       Both mysterious, beyond compare.
     `,
   },
   {
-    title: "2",
+    title: "The Polarity of Existence",
     original: `
       天下皆知美之为美，
       斯恶已。皆知善之为善，
@@ -39,9 +41,10 @@ const content = [
     english: `
       When all see beauty and call it so,
       Ugliness begins its show.
-      When all know good and label it right,
+      When all know good and label it Right,
       Wrong then steps into the light.
-      Opposites, they give each other birth,
+
+      Opposites give each other birth,
       Easy-hard, short-long, heaven-earth.
       Sounds harmonize, and sequences flow,
       Thus, the wise let go of the show.
@@ -50,7 +53,7 @@ const content = [
     `,
   },
   {
-    title: "3",
+    title: "Cultivating Effortless Action",
     original: `
       不尚贤, 使民不争;
       不贵难得之货, 使民不为盗;
@@ -63,21 +66,21 @@ const content = [
     english: `
       Value not just the wise and bright,
       So people won't compete with might.
-      Don't prize rare treasures or gold,
+      Don't prize rare treasures or heavy gold,
       Or theft will in the hearts take hold.
       Hide desires, clear the mind's view,
       So the heart remains pure and true.
 
       The wise leader, with this creed,
       Fulfills needs, not just greed.
-      Strengthens bones, weakens the pride,
+      Strengthens bones and weakens pride,
       Lets wisdom quietly reside.
       By acting without a forceful hand,
-      All is right in the land.
+      All is right within the land.
     `,
   },
   {
-    title: "4",
+    title: "The Fathomless Source",
     original: `
       道冲, 而用之或不盈。
       渊兮, 似万物之宗。
@@ -86,11 +89,12 @@ const content = [
       吾不知谁之子，象帝之先。
     `,
     english: `
-      The way is vast, yet never fills,
+      The Way is vast, yet never fills,
       Deep as a gorge, atop the hills.
       It's the root, from which all springs,
       Softens the sharp, untangles strings.
       Blends the light, with dust it binds,
+
       Deep and clear, in all it winds.
       Seems eternal, never ends,
       Whose child it is, none comprehends.
@@ -99,7 +103,7 @@ const content = [
     `,
   },
   {
-    title: "5",
+    title: "The Neutral Process",
     original: `
       天地不仁，以万物为刍狗;
       圣人不仁，以百姓为刍狗。
@@ -109,9 +113,10 @@ const content = [
     `,
     english: `
       The sky and earth, they do not care,
-      For all below, it's just air.
+      For all below, it is just air.
       Wise folks too, may seem unkind,
       But for the greater good, they're aligned.
+
       Between sky and earth, it's like a bellows' song,
       Empty yet strong, moving all along.
       Talk too much, and words will end,
@@ -119,7 +124,7 @@ const content = [
     `,
   },
   {
-    title: "6",
+    title: "The Spirit of the Valley",
     original: `
       谷神不死，是谓玄牝。
       玄牝之门，是谓天地根。
@@ -134,11 +139,11 @@ const content = [
       Continuous, it seems to be,
       Use it well, and never weary.
       It's there without a fuss or fight,
-      Enduring, with gentle might.
+      Enduring with a gentle might.
     `,
   },
   {
-    title: "7",
+    title: "The Virtue of Humility",
     original: `
       天长地久。
       天地所以能长且久者，
@@ -156,16 +161,16 @@ const content = [
       Thus the sage, in wisdom's seat,
       Puts herself last, a feat so neat.
       Forgets herself, but finds she's found,
-      In this way, her presence is profound.
+      In this way, her presence profound.
 
       Is it not because she's selfless, true,
       That her own self comes shining through?
       By setting herself aside, so clever,
-      She finds her place, and lives forever.
+      She finds her place, and lives on forever.
     `,
   },
   {
-    title: "8",
+    title: "The Path of Least Resistance",
     original: `
       上善若水。
       水善利万物而不争，
@@ -175,12 +180,12 @@ const content = [
       动善时。夫唯不争，故无尤。
     `,
     english: `
-      The highest good's like flowing stream,
+      The highest good's like a flowing stream,
       Water benefits all, in every dream.
       Never fighting, just goes with the flow,
       Stays where others might not go.
 
-      It's close to the way, in its gentle glide,
+      It's close to the Way, in its gentle glide,
       Lives in good places, with pride set aside.
       Heart as deep as the ocean's own bend,
       Kindness in actions, a true-hearted friend.
@@ -192,7 +197,7 @@ const content = [
     `,
   },
   {
-    title: "9",
+    title: "Containment of Fulfillment",
     original: `
       持而盈之, 不如其已;
       揣而锐之, 不可长保。
@@ -212,13 +217,13 @@ const content = [
       It's the way of the world, the same for all.
 
       Accomplishments done, step back, that's the key,
-      This is the way of heaven, naturally.
+      The way of heaven, naturally.
       For in stepping back when the work is through,
       Space is made for the new to brew.
     `,
   },
   {
-    title: "10",
+    title: "Embracing the One",
     original: `
       载营魄抱一, 能无离乎。
       专气致柔, 能婴儿乎。
@@ -251,7 +256,7 @@ const content = [
     `,
   },
   {
-    title: "11",
+    title: "The Utility of Emptiness",
     original: `
       三十辐，共一毂，当其无，有车之用。
       埏埴以为器，当其无，有器之用。
@@ -271,7 +276,7 @@ const content = [
     `,
   },
   {
-    title: "12",
+    title: "The Temptation of the Senses",
     original: `
       五色令人目盲;
       五音令人耳聋;
@@ -296,7 +301,7 @@ const content = [
     `,
   },
   {
-    title: "13",
+    title: "Accepting Disgrace Willingly",
     original: `
       宠辱若惊，贵大患若身。
       何谓宠辱若惊。
@@ -308,24 +313,24 @@ const content = [
       爱以身为天下，若可托天下。
     `,
     english: `
-      Praise or scorn, like a shock, they can stun,
-      Great trouble is like to ourselves, weighing a ton.
-      What's this about praise or disgrace being shocking?
-      Praise puts you down low, its coming and going quite rocking.
+      If fame or shame comes knocking at your door,
+      React with surprise, as if never before.
+      Why do we treat these guests with such a start?
+      Fame puts us high, its loss tears us apart.
 
-      And as for the troubles as big as our form,
-      It's because we have selves that we weather the storm.
-      Without a self, what trouble is there?
-      No more than a leaf floating in air.
+      And why is great trouble like our own flesh?
+      For troubles come when we mesh and we mesh.
+      Without a self, what trouble can truly be?
+      So if you hold your self too dear, you'll never be free.
 
-      To treasure our self as if the world it could hold,
-      Is to trust it with more than it can, if we're bold.
-      To love our self as if through it all things we care,
-      Is to offer it up, our world to share.
+      If you value your body as if the world it could hold,
+      You might be trusted with riches untold.
+      If you love with a heart that's as wide as the sea,
+      Perhaps the world itself, in your hands could be.
     `,
   },
   {
-    title: "14",
+    title: "Observing the Mysterious",
     original: `
       视之不见，名曰夷；
       听之不闻，名曰希；
@@ -356,7 +361,7 @@ const content = [
     `,
   },
   {
-    title: "15",
+    title: "The Manifestation of Clarity",
     original: `
       古之善为士者，微妙玄通，深不可识。
       夫唯不可识，故强为之容。
@@ -378,24 +383,24 @@ const content = [
       So profound and complex, they elude our perception,
       Their demeanor, a force, commanding respect without question.
 
-      Cautious as one crossing streams in the chill,
-      Gentle as though neighbors might wish them ill.
-      Solemn as guests, their composure they keep,
-      Scattered like ice on the verge of the seep.
+      Cautious as one who crosses streams in winter's chill,
+      Reserved as if surrounded by attention that might kill.
+      Solemn as a guest, with every gesture measured right,
+      Dissolving like the ice that meets the morning light.
 
-      Simple as uncarved blocks of wood,
-      Hollow like valleys, as open they stood.
-      Muddled like murky waters, their clarity hidden,
-      Who can, through stillness, find clarity unbidden?
+      Simple as uncarved blocks of wood, they'd appear,
+      Spacious as valleys, hollow and clear.
+      Muddled as murky waters, yet calm inside,
+      Few can remain still and let the murk subside?
 
-      Who can remain so still, till life stirs anew?
-      To guard this way, one must not overdo.
-      For only by not overflowing their cup,
-      Can they renew, without being used up.
+      Those who keep to this Way do not seek to be full,
+      For only by being empty can they be ever pull,
+      Renewal without end, an eternal spring,
+      Their vessels void, so the universe within can sing.
     `,
   },
   {
-    title: "16",
+    title: "Returning to the Source",
     original: `
       致虚极，守静笃。
       万物并作，吾以观复。
@@ -410,13 +415,13 @@ const content = [
     english: `
       Embrace the void, hold fast to quietude,
       As all things rise, we watch their multitude.
-      Each thing in flux, yet to its root returns,
-      In returning to the root, tranquility is learned.
+      Each being in the world, in tumult it thrives,
+      But each to its root, eventually arrives.
 
       This return to peace, a destiny fulfilled,
       To accept this fate is to be constant, skilled.
       In constancy lies insight, and with insight, light,
-      Ignorance of this constancy breeds acts that blight.
+      Ignorance of this constancy breeds acts of blight.
 
       To know and keep to constancy is to be tolerant,
       Tolerance leads to impartiality, a virtue most gallant,
@@ -428,7 +433,7 @@ const content = [
     `,
   },
   {
-    title: "17",
+    title: "The Subtle Art of Leadership",
     original: `
       太上，下知有之；
       其次，亲而誉之；
@@ -455,7 +460,7 @@ const content = [
     `,
   },
   {
-    title: "18",
+    title: "When the Great Way is Forgotten",
     original: `
       大道废，有仁义；智慧出，有大伪；
       六亲不和，有孝慈；国家昏乱，有忠臣。
@@ -473,7 +478,7 @@ const content = [
     `,
   },
   {
-    title: "19",
+    title: "Returning to Simplicity",
     original: `
       绝圣弃智，民利百倍；
       绝仁弃义，民复孝慈；
@@ -485,19 +490,19 @@ const content = [
       Let go of the sage, abandon the wise,
       The people will thrive, to no one's surprise.
       Let go of kindness, let justice be gone,
-      Folks turn to love, and tenderly dawn.
+      Folks return to love, and tend to the dawn.
 
       Let go of craft, and profit forsake,
       No thieves will there be, no mischief to make.
       These teachings, though, are not enough,
-      A simpler path is less rough.
+      A simpler path is rarely less rough.
 
       See simplicity, embrace what's plain,
       With lesser desires, much more to gain.
     `,
   },
   {
-    title: "20",
+    title: "The Differentiation of Ordinary and Extraordinary",
     original: `
       绝学无忧，唯之与阿，相去几何。
       善之与恶，相去若何。
@@ -543,7 +548,7 @@ const content = [
     `,
   },
   {
-    title: "21",
+    title: "The Essence of the Mystery",
     original: `
       孔德之容，唯道是从。
       道之为物，唯恍唯惚。
@@ -575,7 +580,7 @@ const content = [
     `,
   },
   {
-    title: "22",
+    title: "Yield and Remain Whole",
     original: `
       曲则全，枉则直，洼则盈，
       弊则新，少则得，多则惑。
@@ -608,7 +613,7 @@ const content = [
     `,
   },
   {
-    title: "23",
+    title: "Sparse Speech",
     original: `
       希言自然，
       故飘风不终朝，骤雨不终日。
@@ -642,7 +647,7 @@ const content = [
     `,
   },
   {
-    title: "24",
+    title: "The Warning Against Self-Importance",
     original: `
       企者不立；跨者不行；
       自见者不明；自是者不彰；
@@ -663,7 +668,7 @@ const content = [
     `,
   },
   {
-    title: "25",
+    title: "The Similitude of the Way",
     original: `
       有物混成，先天地生。
       寂兮寥兮，独立不改，
@@ -697,7 +702,7 @@ const content = [
     `,
   },
   {
-    title: "26",
+    title: "The Weight of Stability",
     original: `
       重为轻根，静为躁君。
       是以圣人终日行不离辎重。
@@ -723,7 +728,7 @@ const content = [
     `,
   },
   {
-    title: "27",
+    title: "Skillful Practice",
     original: `
       善行无辙迹，善言无瑕讁；
       善数不用筹策；善闭无关楗而不可开，
@@ -754,7 +759,7 @@ const content = [
     `,
   },
   {
-    title: "28",
+    title: "Knowing the Eternal Standard",
     original: `
       知其雄，守其雌，为天下溪。
       为天下溪，常德不离，复归于婴儿。
@@ -788,7 +793,7 @@ const content = [
     `,
   },
   {
-    title: "29",
+    title: "Warning Against Control",
     original: `
       将欲取天下而为之，吾见其不得已。
       天下神器，不可为也，
@@ -813,7 +818,7 @@ const content = [
     `,
   },
   {
-    title: "30",
+    title: "The No-Blame Approach in Leadership",
     original: `
       以道佐人主者，不以兵强天下。
       其事好还。
@@ -842,7 +847,7 @@ const content = [
     `,
   },
   {
-    title: "31",
+    title: "The Weapons of Misfortune",
     original: `
       夫佳兵者，不祥之器，
       物或恶之，故有道者不处。
@@ -876,7 +881,7 @@ const content = [
     `,
   },
   {
-    title: "32",
+    title: "The Way is Ineffable",
     original: `
       道常无名。
       虽小, 天下莫能臣。
@@ -903,7 +908,7 @@ const content = [
     `,
   },
   {
-    title: "33",
+    title: "The Virtue of Self-Knowledge",
     original: `
       知人者智，自知者明。
       胜人者有力，自胜者强。
@@ -922,7 +927,7 @@ const content = [
     `,
   },
   {
-    title: "34",
+    title: "The Great Tao Flows Everywhere",
     original: `
       大道泛兮，其可左右。
       万物恃之而生而不辞，功成不名有。
@@ -943,7 +948,7 @@ const content = [
     `,
   },
   {
-    title: "35",
+    title: "Holding the Great Image",
     original: `
       执大象，天下往。
       往而不害，安平大。
@@ -964,7 +969,7 @@ const content = [
     `,
   },
   {
-    title: "36",
+    title: "The Soft Overcomes the Hard",
     original: `
       将欲歙之，必固张之；
       将欲弱之，必固强之；
@@ -989,7 +994,7 @@ const content = [
     `,
   },
   {
-    title: "37",
+    title: "The Practice of Non-Action",
     original: `
       道常无为而无不为。
       侯王若能守之，万物将自化。
@@ -1010,7 +1015,7 @@ const content = [
     `,
   },
   {
-    title: "38",
+    title: "The Paradox of Virtue",
     original: `
       上德不德，是以有德；
       下德不失德，是以无德。
@@ -1055,7 +1060,7 @@ const content = [
     `,
   },
   {
-    title: "39",
+    title: "The Unity of the Whole",
     original: `
       昔之得一者：
       天得一以清；
@@ -1101,7 +1106,7 @@ const content = [
     `,
   },
   {
-    title: "40",
+    title: "Returning to the Source",
     original: `
       反者道之动；弱者道之用。
       天下万物生于有，有生于无。
@@ -1114,7 +1119,7 @@ const content = [
     `,
   },
   {
-    title: "41",
+    title: "The Symptom of Knowledge",
     original: `
       上士闻道，勤而行之；
       中士闻道，若存若亡；
@@ -1164,7 +1169,7 @@ const content = [
     `,
   },
   {
-    title: "42",
+    title: "The Principles of the Dao",
     original: `
       道生一，一生二，二生三，三生万物。
       万物负阴而抱阳，冲气以为和。
@@ -1191,7 +1196,7 @@ const content = [
     `,
   },
   {
-    title: "43",
+    title: "The Overcoming of Hardness by Softness",
     original: `
       天下之至柔，驰骋天下之至坚。
       无有入无间，吾是以知无为之有益。
@@ -1210,7 +1215,7 @@ const content = [
     `,
   },
   {
-    title: "44",
+    title: "The Measure of Success",
     original: `
       名与身孰亲。身与货孰多。得与亡孰病。
       是故甚爱必大费；多藏必厚亡。
@@ -1232,7 +1237,7 @@ const content = [
     `,
   },
   {
-    title: "45",
+    title: "The Completion of Imperfection",
     original: `
       大成若缺，其用不弊。
       大盈若冲，其用不穷。
@@ -1257,7 +1262,7 @@ const content = [
     `,
   },
   {
-    title: "46",
+    title: "The Contentment of Simplicity",
     original: `
       天下有道，却走马以粪。
       天下无道，戎马生于郊。
@@ -1277,7 +1282,7 @@ const content = [
     `,
   },
   {
-    title: "47",
+    title: "The Understanding Without Seeing",
     original: `
       不出户知天下；不闚牖见天道。
       其出弥远，其知弥少。
@@ -1296,7 +1301,7 @@ const content = [
     `,
   },
   {
-    title: "48",
+    title: "The Pursuit of Learning",
     original: `
       为学日益，为道日损。
       损之又损，以至于无为。
@@ -1316,7 +1321,7 @@ const content = [
     `,
   },
   {
-    title: "49",
+    title: "The Mirror of the Heart",
     original: `
       圣人无常心，以百姓心为心。
       善者，吾善之；
@@ -1344,7 +1349,7 @@ const content = [
     `,
   },
   {
-    title: "50",
+    title: "The Mystery of Life and Death",
     original: `
       出生入死。
       生之徒，十有三；
@@ -1379,7 +1384,7 @@ const content = [
     `,
   },
   {
-    title: "51",
+    title: "The Nurturing of the Way",
     original: `
       道生之，德畜之，物形之，势成之。
       是以万物莫不尊道而贵德。
@@ -1407,7 +1412,7 @@ const content = [
     `,
   },
   {
-    title: "52",
+    title: "Returning to the Mother",
     original: `
       天下有始, 以为天下母。
       既得其母, 以知其子,
@@ -1439,7 +1444,7 @@ const content = [
     `,
   },
   {
-    title: "53",
+    title: "The Insight of the Great Path",
     original: `
       使我介然有知，行于大道，唯施是畏。
       大道甚夷，而民好径。
@@ -1466,7 +1471,7 @@ const content = [
     `,
   },
   {
-    title: "54",
+    title: "The Cultivation of Intuition",
     original: `
       善建者不拔，
       善抱者不脱，子孙以祭祀不辍。
@@ -1498,7 +1503,7 @@ const content = [
     `,
   },
   {
-    title: "55",
+    title: "The Embodiment of Harmony",
     original: `
       含德之厚，比于赤子。
       蜂虿虺蛇不螫，猛兽不据，攫鸟不搏。
@@ -1533,7 +1538,7 @@ const content = [
     `,
   },
   {
-    title: "56",
+    title: "The Knowing of the Mystic",
     original: `
       知者不言，言者不知。
       塞其兑，闭其门，挫其锐，解其分，和其光，
@@ -1555,7 +1560,7 @@ const content = [
     `,
   },
   {
-    title: "57",
+    title: "Governing with Simplicity",
     original: `
       以正治国，以奇用兵，以无事取天下。
       吾何以知其然哉。以此：
@@ -1587,7 +1592,7 @@ const content = [
     `,
   },
   {
-    title: "58",
+    title: "The Joy in Simplicity",
     original: `
       其政闷闷，其民淳淳；
       其政察察，其民缺缺。
@@ -1615,7 +1620,7 @@ const content = [
     `,
   },
   {
-    title: "59",
+    title: "Guarding the Te",
     original: `
       治人事天莫若啬。
       夫唯啬，是谓早服；
@@ -1638,7 +1643,7 @@ const content = [
     `,
   },
   {
-    title: "60",
+    title: "Governing Large Countries",
     original: `
       治大国若烹小鲜。
       以道莅天下，其鬼不神；
@@ -1656,7 +1661,7 @@ const content = [
     `,
   },
   {
-    title: "61",
+    title: "The Virtue of Humility in States",
     original: `
       大国者下流，天下之交，
       天下之牝。
@@ -1683,7 +1688,7 @@ const content = [
     `,
   },
   {
-    title: "62",
+    title: "The Sanctuary of the Dao",
     original: `
       道者万物之奥。善人之宝，不善人之所保。
       美言可以市，尊行可以加人。
@@ -1712,7 +1717,7 @@ const content = [
     `,
   },
   {
-    title: "63",
+    title: "Action through Inaction",
     original: `
       为无为，事无事，味无味。
       大小多少，报怨以德。
@@ -1744,7 +1749,7 @@ const content = [
     `,
   },
   {
-    title: "64",
+    title: "The Caution of Beginning",
     original: `
       其安易持，其未兆易谋。
       其脆易泮，其微易散。
@@ -1782,7 +1787,7 @@ const content = [
     `,
   },
   {
-    title: "65",
+    title: "The Ancient Goodness",
     original: `
       古之善为道者，非以明民，将以愚之。
       民之难治，以其智多。
@@ -1825,7 +1830,7 @@ const content = [
     `,
   },
   {
-    title: "66",
+    title: "The Importance of Humility",
     original: `
       江海所以能为百谷王者，
       以其善下之，故能为百谷王。
@@ -1858,7 +1863,7 @@ const content = [
     `,
   },
   {
-    title: "67",
+    title: "The Three Treasures",
     original: `
       天下皆谓我道大，似不肖。
       夫唯大，故似不肖。
@@ -1902,7 +1907,7 @@ const content = [
     `,
   },
   {
-    title: "68",
+    title: "The Compliance with Heaven",
     original: `
       善为士者，不武；
       善战者，不怒；
@@ -1925,7 +1930,7 @@ const content = [
     `,
   },
   {
-    title: "69",
+    title: "The Use of the Mysterious",
     original: `
       用兵有言：
       吾不敢为主，而为客；
@@ -1953,7 +1958,7 @@ const content = [
     `,
   },
   {
-    title: "70",
+    title: "The Difficulty in Being Known",
     original: `
       吾言甚易知，甚易行。
       天下莫能知，莫能行。
@@ -1980,7 +1985,7 @@ const content = [
     `,
   },
   {
-    title: "71",
+    title: "The Sickness of Knowledge",
     original: `
       知不知上；不知知病。
       夫唯病病，是以不病。
@@ -1993,7 +1998,7 @@ const content = [
     `,
   },
   {
-    title: "72",
+    title: "The Liberation from Fear",
     original: `
       民不畏威，
       则大威至。
@@ -2023,7 +2028,7 @@ const content = [
     `,
   },
   {
-    title: "73",
+    title: "The Practice of Courage",
     original: `
       勇于敢则杀，勇于不敢则活。
       此两者，或利或害。
@@ -2049,7 +2054,7 @@ const content = [
     `,
   },
   {
-    title: "74",
+    title: "The Detachment from Life and Death",
     original: `
       民不畏死，奈何以死惧之。
       若使民常畏死，而为奇者，
@@ -2076,7 +2081,7 @@ const content = [
     `,
   },
   {
-    title: "75",
+    title: "The Folly of Greed",
     original: `
       民之饥，以其上食税之多，是以饥。
       民之难治，以其上之有为，是以难治。
@@ -2101,7 +2106,7 @@ const content = [
     `,
   },
   {
-    title: "76",
+    title: "The Stiffness of Death",
     original: `
       人之生也柔弱，其死也坚强。
       万物草木之生也柔脆，其死也枯槁。
@@ -2127,7 +2132,7 @@ const content = [
     `,
   },
   {
-    title: "77",
+    title: "The Way of Heaven",
     original: `
       天之道，其犹张弓与。
       高者抑之，下者举之；
@@ -2158,7 +2163,7 @@ const content = [
     `,
   },
   {
-    title: "78",
+    title: "The Strength of Water",
     original: `
       天下莫柔弱于水，而攻坚强者莫之能胜，其无以易之。
       弱之胜强，柔之胜刚，
@@ -2189,7 +2194,7 @@ const content = [
     `,
   },
   {
-    title: "79",
+    title: "The Resolution of Grievances",
     original: `
       和大怨，必有馀怨；
       安可以为善。
@@ -2210,7 +2215,7 @@ const content = [
     `,
   },
   {
-    title: "80",
+    title: "The Value of Contentment",
     original: `
       小国寡民。
       使有什伯之器而不用；
@@ -2240,7 +2245,7 @@ const content = [
     `,
   },
   {
-    title: "81",
+    title: "The Simplicity of the Return",
     original: `
       信言不美，美言不信。
       善者不辩，辩者不善。

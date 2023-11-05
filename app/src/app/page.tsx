@@ -70,7 +70,9 @@ export default function Home() {
             className="bg-white p-4 m-1 w-11/12 md:w-auto md:p-8 md:m-8 rounded-xl shadow whitespace-pre bg-white/70"
           >
             <div className="text-yellow-600 text-2xl">
-              <a href={`/#${e.title}`}>{e.title}</a>
+              <a href={`/#${e.title}`}>
+                {i + 1} - {e.title}
+              </a>
             </div>
             <div
               className={`${chineseFont.className} text-sm md:text-base text-stone-600/50 tracking-wide -ml-5 overflow-auto`}
