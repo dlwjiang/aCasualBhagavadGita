@@ -34,7 +34,7 @@ export default function Home() {
         <Image
           src="/background.png"
           alt="Fun Background"
-          className="h-full w-full absolute object-cover opacity-80"
+          className="h-full w-full absolute object-cover opacity-50"
           style={{ transform: "translateZ(-5px) scale(1.5)" }}
           width={1200}
           height={400}
