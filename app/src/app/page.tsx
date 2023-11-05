@@ -1,6 +1,7 @@
 import Image from "next/image";
-import { Fredoka, Ma_Shan_Zheng, ZCOOL_KuaiLe } from "next/font/google";
+import { Fredoka, ZCOOL_KuaiLe } from "next/font/google";
 import content from "./content";
+import ChapterSelect from "./ChapterSelect";
 
 const font = Fredoka({ weight: "400", subsets: [] });
 const chineseFont = ZCOOL_KuaiLe({ weight: "400", subsets: [] });
@@ -59,6 +60,9 @@ export default function Home() {
         </div>
       </header>
       <section className="flex flex-col items-center">
+        <div className="self-baseline sticky ml-4 top-4 ">
+          <ChapterSelect content={content} />
+        </div>
         {content.map((e, i) => (
           <div
             id={e.title}

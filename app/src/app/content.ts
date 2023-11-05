@@ -1390,6 +1390,20 @@ const content = [
       长而不宰，是谓玄德。
     `,
     english: `
+      The Dao gives birth, virtue will keep,
+      Forming all things, its power so deep.
+      All of creation, both near and wide,
+      Honors the Dao, with virtue beside.
+
+      Respect for the Dao, virtue held high,
+      Given by nature, no need to try.
+      The Dao brings to life, virtue will raise,
+      Nurtures and protects, all of its days.
+
+      Leading without claim, acting with ease,
+      Growing without rule, like a soft breeze.
+      Having without hold, working so free,
+      This is the magic of mystery.
     `,
   },
   {
@@ -1819,7 +1833,7 @@ const content = [
       圣人不积，既以为人己愈有，
       既以与人己愈多。
       天之道，利而不害；
-      圣人之道，为而不争。",
+      圣人之道，为而不争。
     `,
     english: `
     `,
