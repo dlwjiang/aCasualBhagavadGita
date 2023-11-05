@@ -214,10 +214,10 @@ const content = [
       Rooms full of treasure, gold and jade,
       No one can guard them, they'll surely fade.
       Wealth and pride lead to a fall,
-      It's the way of the world, the same for all.
+      It's the Way of the world, the same for all.
 
       Accomplishments done, step back, that's the key,
-      The way of heaven, naturally.
+      The Way of heaven, naturally.
       For in stepping back when the work is through,
       Space is made for the new to brew.
     `,
@@ -662,7 +662,7 @@ const content = [
       Self-righteous souls aren't seen in the light.
 
       Conceit cuts your journey, you won't get very far,
-      In the way of the Dao, such acts are bizarre.
+      In the Way of the Dao, such acts are bizarre.
       Like leftover food or lumps in one's path,
       The wise avoid these, to steer clear of wrath.
     `,
@@ -1142,30 +1142,28 @@ const content = [
       夫唯道，善贷且成。
     `,
     english: `
-      The noble ones hear the Dao and work with zest,
-      While average minds hold it close, at best.
-      The lesser ones hear it and laugh with scorn,
-      For without laughter, the Dao's unborn.
+      In wisdom's path, the great ones tread,
+      The middling doubt, the small ones dread.
+      Laughter rings where wisdom leads,
+      No jest? The path of insight recedes.
 
-      Hence the old sayings do often speak:
-      The clearest path will seem to hide and sneak;
-      The greatest progress seems like a retreat;
-      To level ways, the crooked seems to compete.
+      Ancient words, a riddle's thread:
+      Clear as mud, the Way ahead.
+      Gain by loss, step back to lead,
+      Simplicity's challenge, the wise concede.
 
-      The highest virtue is like a valley deep,
-      The purest white will seem a stain to keep;
-      The broadest virtue might look insufficient,
-      The firmest virtue like it's non-existent.
+      High virtue low, a valley's creed,
+      Purest stain, the colors bleed.
+      Wide virtue's narrow, needs exceed,
+      Solid truth, the heart to plead.
 
-      The truest substance seems to change and shift,
-      The biggest square has no corners to gift;
-      The greatest vessel is the last to be done,
-      The deepest sound is the hardest to come.
+      Boundless square, no edge to heed,
+      Great work's slow, its time we seed.
+      Silent sound, the quiet's breed,
+      Formless shape, the Way's deed.
 
-      The largest image has no shape to chase,
-      The Dao is hidden and has no face.
-      Only the Dao, both lends and brings to end,
-      Good at giving and making all things blend.
+      Hidden Way, without a name,
+      Gives and shapes, without claim.
     `,
   },
   {
@@ -1190,7 +1188,7 @@ const content = [
       While others gain but then something goes wrong.
 
       What people teach, I will also convey,
-      But those who force their way will lose their day.
+      But those who force their Way will lose their day.
       For those who won't bend, won't meet a good end,
       I'll use them as lessons, on that depend!
     `,
@@ -1206,10 +1204,10 @@ const content = [
       The world's softest thing dashes against the hard,
       Through spaces so tiny, it seems unscarred.
       From nothingness comes the benefit clear,
-      The silent teaching, the doing that's sheer.
+      The silent teaching, a doing that's sheer.
 
       Actions without acting, a paradox,
-      A wordless doctrine that breaks all the locks.
+      A wordless doctrine that breaks all locks.
       Rarely reached by the many, known to few,
       This path of non-doing that's ever true.
     `,
@@ -1233,7 +1231,7 @@ const content = [
       And knowing limits wards off woe.
 
       Long-lasting then, can our lives be,
-      When we embrace sufficiency.
+      When we embrace, sufficiency.
     `,
   },
   {
@@ -1270,15 +1268,15 @@ const content = [
       故知足之足，常足矣。
     `,
     english: `
-      When the world knows the way, truly grand,
-      We'd retire our steeds to till the land.
-      When the world loses touch with its core,
-      Warhorses breed by the outskirts, ready for war.
+      When the world knows the Way, calm is the scene,
+      Horses retire to farm, fields turn green.
+      In a world without Way, war horses breed,
+      On the borders they stand, spurred by greed.
 
-      No disaster greater than wanting more,
-      Fault lies in grasping for the unreachable shore.
-      Thus, he who knows when he has enough,
-      Will find that indeed, he has plenty of stuff.
+      Disaster looms large when contentment is scant,
+      The greatest of faults is the endless want.
+      Thus he who knows 'enough' will always have plenty,
+      For in sufficiency lies heart's true serenity.
     `,
   },
   {
@@ -1289,14 +1287,14 @@ const content = [
       是以圣人不行而知，不见而名，不为而成。
     `,
     english: `
-      Without stepping out, know the world wide,
-      No need to peep through windows for the Way to abide.
-      The further you travel, the less you comprehend,
-      True knowing and seeing, in stillness they blend.
+      Without stepping out, the world you can see,
+      No need to peer out, to know the Way free.
+      The further you wander, the less you will know,
+      Stay put and observe, let wisdom just grow.
 
       Thus, the sage without roaming can understand,
-      Without looking, can grasp the lay of the land.
-      With no effort, they achieve, let go to succeed,
+      Without looking can grasp the lay of the land.
+      With no effort, they achieve, letting go to succeed,
       In the art of doing nothing, they find all they need.
     `,
   },
@@ -1309,7 +1307,7 @@ const content = [
       取天下常以无事，及其有事，不足以取天下。
     `,
     english: `
-      In learning, we add each and every day,
+      In learning, we add to each and every day,
       But seeking the Way, we must strip away.
       Less and still less, until action is none,
       And doing by not doing is how it's done.
@@ -1372,7 +1370,7 @@ const content = [
       Why does this happen? What's the cause?
       It's life's excess that breaks its laws.
 
-      Yet, those who life can deftly hold,
+      Yet, those who live can deftly hold,
       Walk unharmed where tigers stroll,
       In battles, they escape unscathed,
       By horns untouched, by claws ungraved.
@@ -1439,7 +1437,7 @@ const content = [
       Use your light, return to your source so true,
       No harm will touch you, that's what you'll do.
 
-      This is the way of the constant sage,
+      This is the Way of the constant sage,
       In harmony with the Dao, they engage.
     `,
   },
@@ -1454,24 +1452,22 @@ const content = [
       非道也哉！
     `,
     english: `
-      To gain knowledge and wisdom profound,
-      Walk the great Dao, let it astound.
-      Only fear to deviate from this way,
-      For the great Dao is simple, they say.
+      Grant me the wisdom, calm and profound,
+      To walk the great Way where true fears are found.
+      The great Way is smooth, yet folks love the twists,
+      Favor shortcuts through valleys, and up the high mists.
 
-      People love shortcuts, it's a common desire,
-      Clear the morning and fields, let nothing transpire.
-      Empty the barns and wear fancy attire,
-      Love wealth and possessions, never tire.
+      Courtyards scrubbed clean, yet fields overgrown,
+      Granaries empty, through negligence shown.
+      Adorned in fine robes, sharp swords at their sides,
+      Feasting to excess while true need abides.
 
-      Wearing ornate clothes and brandishing swords,
-      Indulging in excess, enjoying rewards.
-      This is what they call boasting and pride,
-      It strays from the Dao, the true guide.
+      This isn't the Way, indeed, it's astray!
+      A path not of virtue, but pride on display.
     `,
   },
   {
-    title: "The Cultivation of Intuition",
+    title: "Cultivation",
     original: `
       善建者不拔，
       善抱者不脱，子孙以祭祀不辍。
@@ -1486,20 +1482,23 @@ const content = [
       吾何以知天下然哉。以此。
     `,
     english: `
-      Good builders don't demolish,
-      Good embracers don't let go, their legacy they polish.
-      Generations offer sacrifices, a continuous flow,
-      In themselves, the virtue truly does grow.
+      Good builders don't yank,
+      Good holders won't drop,
+      Ancestral rites go on non-stop.
 
-      In the family, it's abundant, a surplus you'll find,
-      In the community, it flourishes, enduring and kind.
-      In the nation, it's rich, an abundance it brings,
-      In the world, it spreads, like the song every heart sings.
+      Tend to yourself, your virtue is key,
+      Tend to your kin, it'll multiply freely.
+      Tend to your town, it grows mightily,
+      Tend to your state, it prospers widely,
+      Tend to the world, it spreads broadly.
 
-      So, observe yourself to understand the way,
-      Observe your family, your town, your nation, don't sway,
-      For in these reflections, the truth you'll see,
-      This is how you know the world, it's the key.
+      Judge yourself and learn what's true,
+      Judge your home to see what's due,
+      Judge your town, their actions cue,
+      Judge your land, their state review,
+      Judge the world, their overview.
+
+      The world shows the world, forevermore.
     `,
   },
   {
@@ -1526,13 +1525,13 @@ const content = [
       Crying all day without getting hoarse,
       This is the ultimate, the harmonious force.
 
-      Understanding harmony is to know the way,
-      Knowing the way is to see the light of day.
+      Understanding harmony is to know the Way,
+      Knowing the Way is to see the light of day.
       Beneficial growth, a sign of auspicious flow,
-      When the heart guides the breath, strength does grow.
+      Where the heart guides the breath, strength does grow.
 
       When things are too strong, they age and decay,
-      That's what they call not following the way, they say.
+      That's what they call not following the way,
       But if you understand harmony, you'll see the right,
       And the path of virtue will shine ever bright.
     `,
@@ -1577,13 +1576,13 @@ const content = [
     english: `
       To govern with virtue, employ the plain and true,
       To use the art of war, be strategic, not askew.
-      To conquer without conflict, that's the way to go,
+      To conquer without conflict, that's the Way to go,
       How do I know this to be so? I'll tell you so:
 
       The world is full of taboos, and the people grow poor,
       Many tools bring darkness to the nation's core.
       People are cunning, strange inventions they devise,
-      Laws proliferate, and thieves and rogues arise.
+      Laws proliferate and so thieves and rogues arise.
 
       So the sage declares, "I do nothing, and the people transform,
       I seek peace, and righteousness becomes the norm.
@@ -1620,7 +1619,7 @@ const content = [
     `,
   },
   {
-    title: "Guarding the Te",
+    title: "Guarding the Morality",
     original: `
       治人事天莫若啬。
       夫唯啬，是谓早服；
@@ -1638,7 +1637,7 @@ const content = [
       No bounds to your power, no limits in place.
       Not knowing your limits, you'll rule a great land,
       The mother of nations, forever to stand.
-      This is the way to endure and to thrive,
+      This is the Way to endure and to thrive,
       With deep-rooted strength, long-lasting alive.
     `,
   },
@@ -1880,7 +1879,7 @@ const content = [
       天将救之，以慈卫之。
     `,
     english: `
-      The world thinks my way is large and strange,
+      The world thinks my Way is large and strange,
       It doesn't seem to fit in their range.
       But being vast, it looks out of place,
       As nuances are lost in its wide-open space.
@@ -1902,7 +1901,7 @@ const content = [
 
       For with compassion, in battle, you'll win,
       And in defense, an unbreakable skin.
-      Heaven saves those who this way begin,
+      Heaven saves those who this Way begin,
       With a compassionate shield, you're sure to grin.
     `,
   },
@@ -2045,7 +2044,7 @@ const content = [
       What heaven abhors, is cause for alarm.
 
       Even sages find this tough to know,
-      Heaven's way is a subtle flow.
+      Heaven's Way is a subtle flow.
       It wins without fighting, answers without talk,
       Arrives unbidden, plans without balk.
 
@@ -2146,11 +2145,11 @@ const content = [
       The Way of heaven, is it not like a bow?
       What's high is brought low, what's low shall grow.
       Excess is lessened, and scarcity filled,
-      In this balance, heaven's way is willed.
+      In this balance, heaven's Way is willed.
 
       Heaven takes from those who have too much,
       To help those who lack, with a gentle touch.
-      But man's way is different, it's sad but true,
+      But man's Way is different, it's sad but true,
       They take from the poor to give to the few.
 
       Who can afford to serve the world with their excess?
@@ -2264,7 +2263,7 @@ const content = [
       The more they help others, the more they gain in kind,
       The more they give, the more they find.
       The Way of Heaven benefits but doesn't harm,
-      The sage's way is to help, without causing alarm.
+      The sage's Way is to help, without causing alarm.
 
       They act without contention, with peace in every stride,
       Walking through life, with the Dao by their side.
