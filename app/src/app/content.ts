@@ -597,7 +597,7 @@ const content = [
       When bent, you're whole, when twisted, you're straight,
       When dipped, you're full, renew when you're out-of-date.
       In less, you find, too much leads you astray,
-      So the wise one embraces 'one' as the way.
+      So the wise one embraces 'One' as the way.
 
       Not focused on self, so they shine so bright,
       Not claiming they're right, they're a brilliant light.
@@ -607,8 +607,7 @@ const content = [
       They don't fight or quarrel, no conflicts they see,
       For the world can't contend, in their peaceful spree.
       The old saying goes, "When curved, you're complete,"
-      It's not just mere words, it's truth so neat!
-
+      It's not just mere words, it's a truth so neat!
       Indeed, they are whole, and to this, they retreat.
     `,
   },
@@ -627,23 +626,24 @@ const content = [
       信不足，焉有不信焉。
     `,
     english: `
-      Nature speaks in whispers clear,
-      Where winds can't blow all the year,
-      And sudden rains soon disappear,
+      Nature whispers softly, without a claim,
+      Stormy winds and sudden rains can't always remain.
       Who does all this, my dear?
       It's Earth and Sky that we revere.
 
       Yet even they can't always last,
       Their mighty times will be surpassed.
-      So when in Dao, one's lot is cast,
-      With Dao, they're matched, steadfast.
-      With virtue, they're tied to the mast.
+      So those who with the Dao choose to engage,
+      Are one with the Dao, and its eternal page.
+      Those who in virtue share their heart's intent,
+      Are one with virtue, in joyful ascent.
 
       But if they're lost and go astray,
-      Loss too finds its rightful way.
+      Loss too finds its frightful way.
       In Dao or virtue if you stay,
       Joy comes to those who don't betray.
-      But doubt makes trust decay away.
+
+      But doubt makes trust decay away...
     `,
   },
   {
@@ -656,15 +656,15 @@ const content = [
       物或恶之，故有道者不处。
     `,
     english: `
-      Those who strive don't stand; step wide, you won't go;
-      Those who self-behold, their light won't show;
-      Those who self-promote, their works won't float;
-      Self-pride cuts the string, won't let you cling.
+      Those who stand on tiptoes don't stand firm;
+      Those who stride cannot maintain their term.
+      Those who show off will not shine in sight;
+      Self-righteous souls aren't seen in the light.
 
-      In Dao's gentle flow, such acts just blow
-      Like surplus food, excess of the brood.
-      The world may resist, hence the sage won't insist,
-      In Dao's path, they softly fade, no wrath.
+      Conceit cuts your journey, you won't get very far,
+      In the way of the Dao, such acts are bizarre.
+      Like leftover food or lumps in one's path,
+      The wise avoid these, to steer clear of wrath.
     `,
   },
   {
@@ -690,13 +690,13 @@ const content = [
       Great means passing, going far and wide,
       Great means returning, to this we abide.
 
-      Thus, the Way is great, so is the sky,
-      The earth is great, and so am I.
-      Among all greatness, four there be,
-      And a king is one, in this quartet's sea.
+      Great is the Dao and the sky's vast blue,
+      Great is the Earth, and kings are too.
+      But in the realm, of the greats we view,
+      Only one king stands among the few.
 
       Men follow earth, as earth tracks the skies,
-      Heaven follows the Way, as the Way simply lies
+      Heaven follows the Way, as the Way simply lies.
       In its own nature, so clear and so plain,
       In effortless being, its eternal domain.
     `,
@@ -716,10 +716,10 @@ const content = [
       Thus, the sage travels all day long,
       Yet never departs from his wagon strong.
 
-      Though splendid sights might beckon him,
-      Above it all, his peace not dim.
-      How can the lord of thousands dare
-      To treat lightly what they bear?
+      Though sights and sounds may allure them near,
+      They're calm and detached, showing no fear.
+      How can one lead, with the world so vast,
+      But make themselves light, forgetting the past?
 
       For in lightness, the root is lost,
       In haste, the mastery's cost.
@@ -742,20 +742,20 @@ const content = [
       虽智大迷，是谓要妙。
     `,
     english: `
-      Good deeds leave no tracks, good words have no flaws,
-      Good counting needs no tally, and good locks need no bars.
-      Good knots need no rope but cannot be undone,
-      Thus, the sage always saves people, and abandons none.
+      Good deeds leave no tracks, good words bear no cracks,
+      No counters need count when one's good with the facts.
+      A good lock needs no bolt, yet it can't be undone,
+      A good knot needs no rope, yet it can't be outdone.
 
-      He aids all beings, and casts none away,
-      This is called grasping the light of day.
-      The good are teachers of the not-so-fine,
-      The bad, for the good, are a resource, a sign.
+      Thus the sage saves all people, never to forsake,
+      Holds all things with care, for compassion's own sake.
+      This is the essence of enlightening ways,
+      Where the good lead the lost, through the world's maze.
 
-      Who does not honor their teacher, nor care for their asset,
-      Even in wisdom they'll falter, in confusion they'll be set.
-      This mystery, so subtle, is profoundly deep,
-      In its essence, it's the secret that we all keep.
+      The good are the teachers for those who have slipped,
+      The errant provide for the good a script.
+      Disregard the mentor, dismiss the lesson's part,
+      Even the wise will stumble, missing the art.
     `,
   },
   {
@@ -776,20 +776,20 @@ const content = [
       By the stream, where all things glide,
       Return to the babe, with arms open wide.
 
-      In a world that's black and white,
-      Know the day, yet stand by the night.
-      Patterns form, shining so bright,
-      Return to boundless, out of sight.
+      Acknowledge the light but keep the dark close beside,
+      Be the standard by which all things are tried.
+      With virtue steadfast, take it in stride,
+      You'll return to the boundless, where all is untried.
 
-      In a world where valleys lie,
-      Know the fame, but humility, don't deny.
-      Where virtue stands tall, reaching the sky,
-      Return to simplicity, giving it a try.
+      Embrace the fame, but also the shame,
+      Be the valley, in life's great game.
+      With enough virtue to stake your claim,
+      Back to simplicity, you'll always aim.
 
-      When the simple turns to tools,
-      The wise sage, he never fools.
-      He leads and sets the rules,
-      But never cuts, for that's the jewel!
+      From the simple, tools are cast,
+      Wise folks use them, making moments last.
+      They lead without cutting, without taking a side,
+      For the greatest of leaders in non-action abide.
     `,
   },
   {
@@ -804,7 +804,7 @@ const content = [
     `,
     english: `
       To grasp the world and control its way,
-      I've seen such efforts lead men astray.
+      Often such efforts lead men astray.
       The world's a sacred vessel, not to command,
       For those who force it, it slips from the hand.
 
@@ -813,7 +813,7 @@ const content = [
       Some are strong, and some are weak,
       Some will peak, while others bleak.
 
-      Thus, the sage avoids extremes, and excess in his stride,
+      Thus, the sage avoids excess in his stride,
       He lets go of luxury, and set aside pride.
     `,
   },
@@ -830,20 +830,20 @@ const content = [
       物壮则老，是谓不道，不道早已。
     `,
     english: `
-      With the Dao to guide a ruler's reign,
-      Not by force will the world be tamed.
-      For every act, there's a price returned,
-      Where armies go, thorns and brambles are earned.
+      When leading with Dao, put the weapons away,
+      For force will just bring resistance into play.
+      Where troops camp, thorns will grow day by day,
+      And after great battles, bad years will hold sway.
 
-      After a war, bad years are near,
-      The wise achieve but don't show off their gear.
-      They bear fruit but don't boast with pride,
-      They succeed humbly, with ego set aside.
+      The wise lead by following, content in their way,
+      Not daring to take by force or display.
+      With outcomes achieved, they don't boast or betray,
+      Nor take pride in conquest, nor force their sway.
 
-      When things peak, they start to wane,
-      This isn't the Dao, and will cause much pain.
-      For those who oppose the Dao won't last long,
-      They'll fade away, for their path is wrong.
+      What grows strong and tall will soon decay,
+      This is not the Dao; it leads you astray.
+      What's not of the Dao will fade away,
+      For against nature's course, there's a price to pay.
     `,
   },
   {
@@ -861,23 +861,20 @@ const content = [
       杀人之衆，以哀悲泣之，战胜以丧礼处之。
     `,
     english: `
-      The finest weapons, omens of despair,
-      Shunned by the wise, they won't go there.
-      Noble folks, in peace value the left,
-      In war, the right, with a deft heft.
+      The finest of weapons are tools of ill fate,
+      Loathed by creation, by the wise they debate.
+      In peace, the noble value the just,
+      In war, it's the fierce that earn trust.
 
-      Weapons aren't tools for the wise to wield,
-      But if they must, they won't let it yield.
-      Victory without pride is the way to be,
-      For those who enjoy killing, can't truly see.
+      Weapons are cursed, not the sage's desire,
+      Used only in need, with reluctance, not ire.
+      To win without pride is the noble's decree,
+      Not to find joy in death's wild spree,
 
-      Joy in death won't rule the land,
-      Good favors left, while bad takes a right hand stand.
-      Generals on the left, the chief on the right,
-      In mourning rituals, they cite their plight.
-
-      When many die, tears flow like rain,
-      In victory, mourn, for it's paired with pain.
+      For good, turn to kindness; for ill, turn to might,
+      The generals stand so, as if in twilight's last light.
+      The multitude killed, mourned with sorrow and tear,
+      In victory, the somber rites shall appear.
     `,
   },
   {
@@ -892,19 +889,23 @@ const content = [
       譬道之在天下，犹川谷之与江海。
     `,
     english: `
-      The eternal Dao holds no fame,
-      Yet it's mighty, beyond a name.
-      Even the smallest glimpse, none can tame,
-      If lords and kings uphold its frame,
-      All things come to them, as guests claim.
+      The Dao, it seems, has no name to tout,
+      Yet it's tiny and mighty, there's no doubt.
+      Kings and lords, if they hold it near,
+      All the creatures to them will cheer.
 
-      Heaven and Earth unite, sweet dew descends,
-      No commands needed, equality never ends.
-      Once the forms are named from the shapeless molds,
-      The wise see the end, their caution holds.
+      Heaven and Earth, in a grand embrace,
+      Shower sweet dew on the human race.
+      No command needed, things balance, it's true,
+      Nature knows just what to do.
 
-      Just as streams and valleys into rivers flow,
-      The Dao in the world, silently bestows.
+      Once you name it, the game begins,
+      But with naming, trouble spins.
+      To know when to stop, that's the key,
+      For in balance and calm, all troubles flee.
+
+      Think of the Dao, spread far and wide,
+      Like rivers and valleys, to the sea they glide.
     `,
   },
   {
@@ -927,7 +928,7 @@ const content = [
     `,
   },
   {
-    title: "The Great Tao Flows Everywhere",
+    title: "The Great Dao Flows Everywhere",
     original: `
       大道泛兮，其可左右。
       万物恃之而生而不辞，功成不名有。
@@ -936,15 +937,15 @@ const content = [
       以其终不自为大，故能成其大。
     `,
     english: `
-      The Great Way is broad, spanning left and right,
-      All life depends on it and grows without spite,
-      It completes its work but does not take the limelight,
-      Nourishes multitudes, yet does not dominate the sight.
+      The Great Way's broad, beyond just left or right,
+      All life depends on it, from day to night.
+      It works its magic, silent, without claim,
+      Feeds life abundant, yet not seeking fame.
 
-      It's fine to be known as lesser, as it does not rule,
-      To it all things return, yet it does not act the fool.
-      Not claiming greatness, it achieves it as a tool,
-      Its humility and ends make it truly rule.
+      The smallest name it might accept, it's true,
+      Yet to the greatest title, it's due.
+      It does not ever boast or claim its might,
+      That's why its greatness reaches such a height.
     `,
   },
   {
@@ -957,15 +958,15 @@ const content = [
       视之不足见，听之不足闻，用之不足既。
     `,
     english: `
-      Grasping the great image, the world is drawn,
-      Coming without harm, in peace, they are fond.
-      Music and food make passersby pause for a song,
-      Yet the Dao when expressed, mild, seems not strong.
+      Grasp the great image, the world will go forth,
+      Harmoniously heading, South, West, East, North.
+      With joy as their bait, the travelers rest,
+      For where the Tao speaks, simplicity's best.
 
-      In its blandness, its taste cannot be sensed,
-      Invisible, inaudible, yet its use is immense.
-      Dao's essence when used is never dense,
-      Ever present, its subtlety is immense.
+      Its flavor, though mild, will quench any thirst,
+      To look or to listen, it won't seem the first.
+      But use it, oh use it, and you will find soon,
+      Its well never empties, by night or by noon.
     `,
   },
   {
@@ -980,17 +981,17 @@ const content = [
       鱼不可脱于渊，国之利器不可以示人。
     `,
     english: `
-      If you wish to shrink it, you must first stretch it out;
+      To shrink it, you must first stretch it out;
       To weaken it, you must first make it stout.
       To end it, you must first raise it high;
       And to take it, you must first comply.
-      This is called subtle clarity,
-      Soft overcomes the hard, this is the reality.
+      This is the subtle clarity,
+      Soft overcomes the hard, tis reality.
 
       Like fish that in deep waters thrive,
       State's secrets from the crowd you must hide.
       Keep your tools of power from public view,
-      Lest they lose their edge and strength anew.
+      For in mystery lies the rule, ever true.
     `,
   },
   {
@@ -1006,12 +1007,12 @@ const content = [
       The Way does nothing, yet leaves nothing undone.
       If leaders could hold it, their problems would be none.
       All things transform, and if desires arise,
-      I'd quell them with simplicity, that has no guise.
+      Quell them with simplicity, that has no guise.
 
       Simplicity unnamed, desire will be stilled.
-      Without want, there's peace, and all will be fulfilled.
+      Without want, there's peace, and all is fulfilled.
       The world would settle, in stillness, we'd find
-      A calm that would govern all humankind.
+      A calm that would govern, all of mankind.
     `,
   },
   {
@@ -1033,30 +1034,25 @@ const content = [
       处其实，不居其华。故去彼取此。
     `,
     english: `
-      In a land up top, virtue's not quite true,
-      So it holds to virtue, as virtuous folks do.
-      Down below, they cling to what they know,
-      Acting with intent, putting on a show.
+      When virtue's high, it's not about the deed,
+      For truest virtue's got no need to plead.
+      The highest good is done without a fuss,
+      While lesser good can't help but make a muss.
 
-      Up high, kind acts are just a part,
-      With no thought to them, straight from the heart.
-      Justice up high might come with a plan,
-      While higher rites get no applause from a man.
+      When kindness acts with no thought of reward,
+      While lesser hearts would seek to strike a chord.
+      Justice done just for the praise it might bring,
+      And ritual without heart is an empty thing.
 
-      When they're ignored, arms raise in dismay,
-      Throwing it all, in disdain, far away.
-      First we lose the Way, then virtue's gone,
-      Lose kindness, then justice, and the list goes on.
+      Thus, when the Way is lost, virtue takes flight,
+      And when virtue's gone, kindness hides from sight,
+      Justice fails, and rituals lose their meaning,
+      Leading to the chaos that they're breeding.
 
-      Rites are but thin, a facade that's quite frail,
-      The start of disorder, where societies fail.
-      Surface knowledge, it seems, is the bloom of the Way,
-      But it's also where foolishness begins to play.
-
-      So, the wise and the grand, in the thick they reside,
-      Not in the thin, not on the surface wide.
-      They live in the real, not the glitz and the gleam,
-      Leaving behind what's not as it seems.
+      Ritual's the thinning veil of loyalty,
+      The herald of confusion's royalty.
+      The wise man dwells in depth, not in sheen,
+      Foregoing frills, true substance he gleans.
     `,
   },
   {
@@ -1081,28 +1077,32 @@ const content = [
       不欲琭琭如玉，珞珞如石。
     `,
     english: `
-      Once upon a time, with oneness they'd align:
-      The sky was clear, with oneness so fine.
-      The earth was calm, its peace was prime,
-      The spirits were lively, in their oneness they'd chime.
-      Valleys were full, not a space did they find,
-      All creatures thrived, to oneness they'd bind.
-      Kings and lords, with oneness they'd sign,
-      To rule the land, with a line so fine.
+      In days of old, when One was the key:
+      The sky had One, and clear it'd be;
+      The earth had One, and still it'd stay;
+      The spirits One, to light the way;
+      Valleys had One, and they were full;
+      All living things, One made them whole;
+      Kings and lords, with One rule true,
+      kept their realms in line and view.
 
-      But without that one, the sky might crack,
-      The earth might quake, and off its track.
-      Spirits might fade, lose their knack,
-      Valleys run dry, miss what they lack.
-      Creatures might perish, fall through the crack,
-      Kings might stumble, lose their pack.
+      Yet without that One, oh, what's to do?
+      The sky might crack, no longer blue;
+      The earth might quake, its calmness gone;
+      The spirits fade, as night from dawn;
+      Valleys dry, their fullness sapped;
+      All life might end, its vigor zapped;
+      Kings might fall, from their high throne,
+      left to wander and bemoan.
 
-      So the high rely on the low, you see,
-      The mighty stand firm, with humility.
-      Kings call themselves lonely, plain as can be,
-      Not because they're low, but it's strategy.
-      They don't seek praise, or a grand spree,
-      Rather be plain, like a stone, not shiny.
+      So, in their might, the great do see:
+      the lowly are the base of thee.
+      High's foundation is the low,
+      this truth all wise leaders know.
+      They call themselves alone, sparse, and humble,
+      a stance not so high but ready to tumble.
+      They wish not for luster, like gemstones shone,
+      Not shining like jade, but simple, like stone.
     `,
   },
   {
