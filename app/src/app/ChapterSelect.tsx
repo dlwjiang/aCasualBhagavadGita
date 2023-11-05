@@ -15,7 +15,7 @@ const ChapterSelect = ({ content }: any) => {
       <option value="" disabled>
         Select a Chapter
       </option>
-      {content.map((e: any, i) => (
+      {content.map((e: any, i: number) => (
         <option value={e.title} key={e.title}>
           Chapter: {e.title}
         </option>
