@@ -1419,6 +1419,23 @@ const content = [
       是为习常。
     `,
     english: `
+      The world began with a hidden birth,
+      The mother of all, the source of our worth.
+      To know the child, embrace the mother's grace,
+      Protect her well, and find a lasting place.
+
+      Seal the gaps, close the door with care,
+      No need to labor, you'll be free from wear and tear.
+      Open the gates, let your actions flow,
+      No need for rescue, your life will glow.
+
+      See the small, call it bright and clear,
+      Embrace gentleness, and strength will appear.
+      Use your light, return to your source so true,
+      No harm will touch you, that's what you'll do.
+
+      This is the way of the constant sage,
+      In harmony with the Tao, they engage.
     `,
   },
   {
@@ -1432,6 +1449,20 @@ const content = [
       非道也哉！
     `,
     english: `
+      To gain knowledge and wisdom profound,
+      Walk the great Dao, let it astound.
+      Only fear to deviate from this way,
+      For the great Dao is simple, they say.
+
+      People love shortcuts, it's a common desire,
+      Clear the morning and fields, let nothing transpire.
+      Empty the barns and wear fancy attire,
+      Love wealth and possessions, never tire.
+
+      Wearing ornate clothes and brandishing swords,
+      Indulging in excess, enjoying rewards.
+      This is what they call boasting and pride,
+      It strays from the Dao, the true guide.
     `,
   },
   {
@@ -1450,6 +1481,20 @@ const content = [
       吾何以知天下然哉。以此。
     `,
     english: `
+      Good builders don't demolish,
+      Good embracers don't let go, their legacy they polish.
+      Generations offer sacrifices, a continuous flow,
+      In themselves, the virtue truly does grow.
+
+      In the family, it's abundant, a surplus you'll find,
+      In the community, it flourishes, enduring and kind.
+      In the nation, it's rich, an abundance it brings,
+      In the world, it spreads, like the song every heart sings.
+
+      So, observe yourself to understand the way,
+      Observe your family, your town, your nation, don't sway,
+      For in these reflections, the truth you'll see,
+      This is how you know the world, it's the key.
     `,
   },
   {
@@ -1466,6 +1511,25 @@ const content = [
       物壮则老，谓之不道，不道早已。
     `,
     english: `
+      With virtue as deep as an infant's grace,
+      Even bees and serpents won't sting in the chase.
+      Ferocious beasts won't seize or bite,
+      And birds in your hand won't take flight.
+
+      Weak bones, tender sinews, yet a firm hold,
+      The unity of the feminine and masculine, bold.
+      Crying all day without getting hoarse,
+      This is the ultimate, the harmonious force.
+
+      Understanding harmony is to know the way,
+      Knowing the way is to see the light of day.
+      Beneficial growth, a sign of auspicious flow,
+      When the heart guides the breath, strength does grow.
+
+      When things are too strong, they age and decay,
+      That's what they call not following the way, they say.
+      But if you understand harmony, you'll see the right,
+      And the path of virtue will shine ever bright.
     `,
   },
   {
@@ -1479,6 +1543,15 @@ const content = [
       不可得而贵，不可得而贱。故为天下贵。
     `,
     english: `
+      Those who know don't speak, those who speak don't know,
+      Close the gates and silence the flow.
+      Dull the sharpness, untangle the threads,
+      Blend the light, walk where the dust treads.
+
+      You can't get close, nor can you estrange,
+      Can't seek gain, can't provoke change.
+      Can't be esteemed, can't be disdained,
+      That's why the Tao is forever maintained.
     `,
   },
   {
@@ -1497,6 +1570,20 @@ const content = [
       我无欲，而民自朴。
     `,
     english: `
+      To govern with virtue, employ the plain and true,
+      To use the art of war, be strategic, not askew.
+      To conquer without conflict, that's the way to go,
+      How do I know this to be so? I'll tell you so:
+
+      The world is full of taboos, and the people grow poor,
+      Many tools bring darkness to the nation's core.
+      People are cunning, strange inventions they devise,
+      Laws proliferate, and thieves and rogues arise.
+
+      So the sage declares, "I do nothing, and the people transform,
+      I seek peace, and righteousness becomes the norm.
+      I interfere not, and the people prosper more,
+      I desire less, and simplicity they explore."
     `,
   },
   {
