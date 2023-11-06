@@ -197,7 +197,7 @@ const content = [
     `,
   },
   {
-    title: "Containment of Fulfillment",
+    title: "Moderation",
     original: `
       持而盈之, 不如其已;
       揣而锐之, 不可长保。
@@ -502,7 +502,7 @@ const content = [
     `,
   },
   {
-    title: "The Differentiation of Ordinary and Extraordinary",
+    title: "Ordinary and Extraordinary",
     original: `
       绝学无忧，唯之与阿，相去几何。
       善之与恶，相去若何。
@@ -647,7 +647,7 @@ const content = [
     `,
   },
   {
-    title: "The Warning Against Self-Importance",
+    title: "Against Self-Importance",
     original: `
       企者不立；跨者不行；
       自见者不明；自是者不彰；
@@ -668,7 +668,7 @@ const content = [
     `,
   },
   {
-    title: "The Similitude of the Way",
+    title: "Naming the Unnamed",
     original: `
       有物混成，先天地生。
       寂兮寥兮，独立不改，
@@ -702,7 +702,7 @@ const content = [
     `,
   },
   {
-    title: "The Weight of Stability",
+    title: "The Weight of Lightness",
     original: `
       重为轻根，静为躁君。
       是以圣人终日行不离辎重。
@@ -793,7 +793,7 @@ const content = [
     `,
   },
   {
-    title: "Warning Against Control",
+    title: "Against Control",
     original: `
       将欲取天下而为之，吾见其不得已。
       天下神器，不可为也，
@@ -818,7 +818,7 @@ const content = [
     `,
   },
   {
-    title: "The No-Blame Approach in Leadership",
+    title: "Lead Without Force",
     original: `
       以道佐人主者，不以兵强天下。
       其事好还。
@@ -847,7 +847,7 @@ const content = [
     `,
   },
   {
-    title: "The Weapons of Misfortune",
+    title: "Weapons of Misfortune",
     original: `
       夫佳兵者，不祥之器，
       物或恶之，故有道者不处。
@@ -1167,7 +1167,7 @@ const content = [
     `,
   },
   {
-    title: "The Principles of the Dao",
+    title: "The Origin of the Dao",
     original: `
       道生一，一生二，二生三，三生万物。
       万物负阴而抱阳，冲气以为和。
@@ -1194,7 +1194,7 @@ const content = [
     `,
   },
   {
-    title: "The Overcoming of Hardness by Softness",
+    title: "Softness Overcomes Hardness",
     original: `
       天下之至柔，驰骋天下之至坚。
       无有入无间，吾是以知无为之有益。
@@ -1280,7 +1280,7 @@ const content = [
     `,
   },
   {
-    title: "The Understanding Without Seeing",
+    title: "Understanding Without Seeing",
     original: `
       不出户知天下；不闚牖见天道。
       其出弥远，其知弥少。
@@ -1537,7 +1537,7 @@ const content = [
     `,
   },
   {
-    title: "The Knowing of the Mystic",
+    title: "Knowing",
     original: `
       知者不言，言者不知。
       塞其兑，闭其门，挫其锐，解其分，和其光，
@@ -1603,23 +1603,22 @@ const content = [
       直而不肆，光而不耀。
     `,
     english: `
-      Their rule is obscure, their people sincere,
-      Their rule is meticulous, their people insincere.
-      Misfortune hides within fortune's embrace,
-      And fortune hides in misfortune's own place.
-      Who knows where it leads, this cycle so grand?
-      There's no true perfection, it's ever unplanned.
-      What's right turns to strange, what's good may turn ill,
-      People in their confusion, stay lost still.
+      When the government's quiet, the people are pure,
+      When it's prying and tight, their woes are sure.
+      Calamity rests where blessings secure,
+      Fortune's deep where misfortunes endure.
+      Who can tell where one ends or begins?
+      In such chaos, who loses, who wins?
 
-      So the sage stays modest, not cutting too deep,
-      Integrity intact, in simplicity's keep.
-      Upright but not arrogant, shining with grace,
-      Balanced and humble, not blinding the space.
+      Right turns strange, good turns to mischief,
+      Amidst confusion, they float and drift.
+      Thus the sage is sharp but not stabbing,
+      Straight but not rigid, bright but not blinding,
+      Guiding the lost their way back to finding.
     `,
   },
   {
-    title: "Guarding the Morality",
+    title: "Guarding Morality",
     original: `
       治人事天莫若啬。
       夫唯啬，是谓早服；
@@ -1633,12 +1632,14 @@ const content = [
       Nothing is as vital as being frugal each day.
       Being frugal means starting early and true,
       Accumulating virtues in all that you do.
+
       With virtues well gathered, there's naught you can't face,
       No bounds to your power, no limits in place.
       Not knowing your limits, you'll rule a great land,
       The mother of nations, forever to stand.
+
       This is the Way to endure and to thrive,
-      With deep-rooted strength, long-lasting alive.
+      With deep-rooted strength, long-lasting life.
     `,
   },
   {
@@ -1651,16 +1652,22 @@ const content = [
       夫两不相伤，故德交归焉。
     `,
     english: `
-      To govern a great nation, it's like cooking a meal,
-      With the Dao as your guide, all's in an even keel.
-      No ghosts or spirits will cause any harm,
-      When harmony reigns, there's no need for alarm.
-      The wise don't harm others, it's a truth they embrace,
-      In this virtuous circle, all find their place.
+      Rule the lands as wide as the seas,
+      Like cooking small fish with gentle ease.
+      Use Dao to guide the worldly spin,
+      No spirit's spark will dare begin.
+
+      If spirits lose their ghastly flight,
+      Such cursed ones will do no spite.
+      For neither gods nor saints will harm,
+      When kept at bay by Dao's soothing charm.
+
+      So with care and grace, the land is led,
+      And in this realm, no fear is spread.
     `,
   },
   {
-    title: "The Virtue of Humility in States",
+    title: "Big and Small Lands",
     original: `
       大国者下流，天下之交，
       天下之牝。
@@ -1672,18 +1679,23 @@ const content = [
       夫两者各得其所欲，大者宜为下。
     `,
     english: `
-      The great nation is like a river's downstream flow,
-      The world's meeting point, where exchanges grow.
-      It's the feminine, receptive, in a tranquil state,
-      With calmness, it prevails, in a lower rate.
+      A great land, like a river's flow,
+      Is where all streams of the world go.
+      The world's womb, receptive, still,
+      In stillness, wins as nature's will.
 
-      So when the great nation engages the small,
-      It takes what it needs, it's not above all.
-      When the small nation deals with the great,
-      It takes its chances, it's a mutual rate.
+      A big land stooping low to see,
+      Embraces small with harmony.
+      The small, in turn, looks up to bond,
+      And in their dance, they both respond.
 
-      Each seeks its desires, both large and small,
-      Harmonious exchange, the best for all.
+      Some bow to give, some bow to take,
+      Big lands care, for people's sake.
+      Small lands serve, with aims so true,
+      Both find their wants, and their due.
+
+      The greatest lands must serve the most,
+      In humble grace, they hold their post.
     `,
   },
   {
@@ -1699,24 +1711,24 @@ const content = [
       不曰：以求得，有罪以免耶。故为天下贵。
     `,
     english: `
-      The Dao is the treasure of all that exists,
-      For the virtuous, it guides and persists.
-      With kind words, one can trade and thrive,
-      Honorable deeds can make souls revive.
+      The Dao is deep, to all a key,
+      To good, a treasure, a sanctuary.
+      Fine words can trade, respect can add,
+      Yet what of those whose deeds are bad?
 
-      Even those who are not virtuous, don't discard,
-      For in the Dao, all can find their regard.
-      Kings and ministers, though they hold high rank,
-      The Dao surpasses them, it's the ultimate bank.
+      Why cast them off, when Dao can guide?
+      When kings are crowned, and lords abide,
+      Though jewels shine and horses race,
+      The Dao's path holds higher grace.
 
-      Why was it prized in ancient days of yore?
-      Not for selfish gain or to settle a score.
-      It's because the Dao is cherished by all,
-      A treasure of the world, standing tall.
+      Why prize this path from ancient lore?
+      It grants the seekers evermore.
+      Finds the lost, and clears the blamed,
+      This across the world it's famed.
     `,
   },
   {
-    title: "Action through Inaction",
+    title: "Ease of Action",
     original: `
       为无为，事无事，味无味。
       大小多少，报怨以德。
@@ -1728,27 +1740,27 @@ const content = [
       是以圣人犹难之，故终无难矣。
     `,
     english: `
-      To act without acting, to do without doing,
-      Taste without taste, in the Dao we're pursuing.
-      In matters of size, whether large or petite,
-      Repay grievances with kindness, make it complete.
+      Do by not doing, tasks unfold,
+      Taste the tasteless, break the mold.
+      Big or small, less or more,
+      Meet spite with grace, open the door.
 
-      The difficult is found within the easy's embrace,
-      The great starts with small, it's a timeless grace.
-      In the world's challenges, we begin with the simple,
-      To achieve the grand, we refine each wrinkle.
+      Solve the hard when it's still easy,
+      Do the big in steps that are breezy.
+      All hard tasks start with a simple part,
+      All great acts come from a tiny start.
 
-      The wise don't rush into vast undertakings,
-      They start with the small, their wisdom never falters.
-      For hasty promises lead to little trust,
-      Many changes bring trouble, so in simplicity we must.
+      Thus the sage, by staying small,
+      Achieves the greatest feat of all.
+      Light promises will often fade,
+      And hasty easiness will barricade.
 
-      The sage treads carefully, avoiding haste,
-      In the end, there's no difficulty, they've embraced.
+      The sage knows this, keeps trouble far,
+      And without striving, raises the bar.
     `,
   },
   {
-    title: "The Caution of Beginning",
+    title: "Act Before Acting",
     original: `
       其安易持，其未兆易谋。
       其脆易泮，其微易散。
@@ -1764,29 +1776,34 @@ const content = [
       以辅万物之自然，而不敢为。
     `,
     english: `
-      In stillness, it's easy to find stability,
-      In the unmanifested, planning with tranquility.
-      In fragility, there's simplicity,
-      In the subtle, a tendency to disperse free.
+      Easy to hold when it's still at peace,
+      Easy to plan for before its crease.
+      Fragile it breaks, just like thin ice,
+      Scattered with ease, like tiny mice.
 
-      Act before it emerges, govern before it's confused,
-      A mighty tree from a tiny seed's produced.
-      A tower of nine levels from layers of earth,
-      A thousand-mile journey begins with the first step's worth.
+      Start it all before it grows,
+      Fix it up before chaos shows.
+      The mightiest tree from a sprout it's born,
+      A tower of nine from earth is torn.
 
-      To act is to risk failure, to grasp is to lose,
-      The sage remains effortless, they never choose.
-      People's endeavors often fail near the end,
-      But the sage, like the start, ensures success, my friend.
+      A journey of miles starts at your feet,
+      Doers will fail, met with defeat.
+      Graspers lose grip on what they sought,
+      Thus the wise do nothing, and lose naught.
 
-      Desiring without desire, they treasure not the rare,
-      Learning without learning, they avoid the snare.
-      They assist the natural flow of all things,
-      Without daring to interfere, the Dao it brings.
+      Folks often fail when the end's in sight,
+      Careful to end as they start, just right.
+      Thus the wise crave not, they just trust,
+      Valuing not what's rare, but just.
+
+      They learn, unlearn, from others' faults,
+      Helping all without assaults.
+      Never daring only to do,
+      They simply follow nature's cue.
     `,
   },
   {
-    title: "The Ancient Goodness",
+    title: "Enlightened Ignorance",
     original: `
       古之善为道者，非以明民，将以愚之。
       民之难治，以其智多。
@@ -1797,39 +1814,24 @@ const content = [
       玄德深矣，远矣，与物反矣，然后乃至大顺。
     `,
     english: `
-      In ancient times, the sages spun,
-      Not to outshine, but simplify for everyone.
-      The people are hard to lead, they knew,
-      For with their wisdom, troubles grew.
+      Ancient sages, wise and true,
+      Didn't enlighten folks, but kept things askew.
+      People hard to lead, because they think they know,
+      Too many ideas, in all directions they go.
 
-      Governing with smarts, you invite theft,
-      Without it, a nation's fortune is left.
-      To know these truths is to see the way,
-      Grasping the mystery day by day.
+      Rule with smarts, and you'll make a mess,
+      Rule with heart, and you'll find success.
+      To know these two, is the golden rule,
+      Grasping this balance, makes one no fool.
 
-      Deep is the virtue of the mystic path,
-      Far-reaching, against the grain, it hath
-      A twist, a turn, the grand align,
-      Leading to harmony, purely divine.
-
-      Here, in the realm of rhyme, we see
-      A sage's lesson from the Dao De Jing:
-      Enlighten not with intellect's glare,
-      But by simplifying, showing care.
-
-      With less wisdom on display,
-      Less chaos will come your way.
-      Smart rule invites cunning foes,
-      Simple governance nurtures, grows.
-
-      In knowing both, balance is found,
-      With virtue deep and tightly wound.
-      It's profound, so vast, it circles back,
-      In great harmony, there's nothing you lack.
+      This deep wisdom, profound and vast,
+      Goes against the flow, but it will last.
+      With this mysterious virtue in hand,
+      In harmony with the world, you'll stand.
     `,
   },
   {
-    title: "The Importance of Humility",
+    title: "Leading with Humility",
     original: `
       江海所以能为百谷王者，
       以其善下之，故能为百谷王。
@@ -1840,25 +1842,20 @@ const content = [
       以其不争，故天下莫能与之争。
     `,
     english: `
-      The river and sea, so grand and wide,
-      Rule all the valleys because they're humble inside.
-      They lie below, so all streams to them glide,
-      And that's how they lead, with a quiet pride.
+      The river and sea, leaders of all streams below,
+      Because they lie low, they let all waters flow.
+      So the sage to lead, speaks gently, don't you see?
+      To be in front, they step back, let others be.
 
-      The wise, if they wish to lift folks high,
-      Must speak in soft tones, not command the sky.
-      And if they would lead, with the crowd comply,
-      Walk behind them all, and their trust solidify.
+      Thus the sage stands above, and none feel oppressed,
+      Stands in front, yet no harm comes to the rest.
+      The world cheers them on, without a single sigh,
+      For they do not contend, and none can vie.
 
-      So the sage above, the people feel light,
-      In front, yet no harm comes in sight.
-      Thus, the world cheers, without any spite,
-      For one who leads, not by might, but by being polite.
-
-      Without a contest, no challenge they bring,
-      And no one can fight, for they grapple with nothing.
-      In yielding, in stillness, they're the valley king,
-      With a gentle hand, they attach every string.
+      With no strife in their heart, they set the tone,
+      In a world full of push, they stand alone.
+      Because they don't compete, don't boast or brag,
+      Not a soul in the world can pull their flag.
     `,
   },
   {
@@ -1880,7 +1877,7 @@ const content = [
     `,
     english: `
       The world thinks my Way is large and strange,
-      It doesn't seem to fit in their range.
+      It doesn't seem to fit within their range.
       But being vast, it looks out of place,
       As nuances are lost in its wide-open space.
 
@@ -1901,12 +1898,12 @@ const content = [
 
       For with compassion, in battle, you'll win,
       And in defense, an unbreakable skin.
-      Heaven saves those who this Way begin,
-      With a compassionate shield, you're sure to grin.
+      Heaven saves those who this Way begins,
+      With a compassionate shield, you smile within.
     `,
   },
   {
-    title: "The Compliance with Heaven",
+    title: "Fight Without Might",
     original: `
       善为士者，不武；
       善战者，不怒；
@@ -1917,19 +1914,19 @@ const content = [
       是谓配天古之极。
     `,
     english: `
-      A master of men does not fight,
-      Nor does a good warrior ignite the spite.
-      Besting an enemy, they avoid the fray,
-      And to manage folks well, they themselves lay.
+      A good soldier fights not with might,
+      A skilled warrior keeps anger out of sight.
+      To conquer foes, you don't join the fight,
+      Leading people well, you stand not in height.
 
       This is the virtue of non-contention,
-      Harnessing others' strengths with good intention.
-      Such is the peak of ancient accord,
-      Aligned with the heavens, in silent accord.
+      The power to lead without pretension.
+      It's the way to match the ancient heaven's intention,
+      The ultimate art, the sage's convention.
     `,
   },
   {
-    title: "The Use of the Mysterious",
+    title: "The Price of Conflict",
     original: `
       用兵有言：
       吾不敢为主，而为客；
@@ -1945,15 +1942,18 @@ const content = [
       Instead of advancing, take a step back,
       Such moves show strength where others might lack.
 
-      This is called action without a deed,
-      Seizing without arms, indeed.
-      Throwing without foes, capturing without a raid,
-      In these paradoxes, real strength is displayed.
-
-      No folly greater than underestimating the other,
-      Such oversight can cost you, brother.
-      When armies clash and tensions mount,
-      The side that mourns less has the true count.
+      To grapple without arms, to throw without foe,
+      To hold without weapons, letting all tensions go.
+      No greater disaster than underestimating the fight,
+      For by taking it light, you may lose the night.
+      Thus, when armies collide, and the struggle is tight,
+      The one who mourns first, will conquer the fight.
+    `,
+    explanation: `
+      This is passage is about the true cost of War,
+      the lives and emotional cost of war.
+      It is a warning to those who would take war lightly,
+      and a reminder that the true cost of war is the lives lost.
     `,
   },
   {
@@ -1991,9 +1991,15 @@ const content = [
       圣人不病，以其病病，是以不病。
     `,
     english: `
-      知不知上；不知知病。
-      夫唯病病，是以不病。
-      圣人不病，以其病病，是以不病。
+      To know what is not known is best,
+      Not knowing this, it's sickness, jest.
+      For only when we see our plight,
+      Can we step from dark to light.
+
+      The sage within is never ill,
+      Because they see beyond the hill.
+      Acknowledging this common ache,
+      They heal, for wisdom's very sake.
     `,
   },
   {
@@ -2039,17 +2045,19 @@ const content = [
     `,
     english: `
       Dare to be bold, and risk the end,
-      Dare not, and life may around the bend extend.
-      Both paths may bring gain or invite harm,
-      What heaven abhors, is cause for alarm.
+      Dare not, and life may just extend.
+      These two paths, one harms, one mends,
+      Which one's disliked, on context depends.
 
-      Even sages find this tough to know,
-      Heaven's Way is a subtle flow.
-      It wins without fighting, answers without talk,
-      Arrives unbidden, plans without balk.
+      Thus, the wise are wary, you see,
+      Of the ways of heaven's decree.
+      The way of Dao does effortlessly win,
+      No need for talk, it draws all in.
 
-      Heaven's net is vast, missing nothing in its sweep,
-      Loose and wide, it captures all in the deep.
+      Without a call, it comes around,
+      In simple ways, it's wisdom found.
+      The net of heaven is vast and wide,
+      Though loose, it lets nothing aside.
     `,
   },
   {
@@ -2063,20 +2071,20 @@ const content = [
       夫代大匠斫者，希有不伤其手矣。
     `,
     english: `
-      If folks aren't afraid to die,
-      What's the use of threatening to fry?
-      But if people lived in fear of death's day,
-      I could grab the odd ones and take them away.
+      If folks don't fear the grip of death,
+      How can death be a threat in breath?
+      If people lived in dread of dying,
+      And oddballs rose, defying, vying,
 
-      Yet there's always one appointed to kill,
-      Like a master carpenter using his skill.
-      But anyone who takes the carpenter's place,
+      I'd catch and in the fray, they'd fall,
+      But who would dare to face that call?
+      For there's always one to wield the kill,
+      The master carver, skilled with will.
+
+      Yet he who takes the carver's place,
       Rarely escapes without a trace.
-
-      Yes, he who would the master's tool wield,
-      Often finds his own hand unhealed.
-      For tampering with life's delicate thread,
-      Can bring harm to the meddler's head.
+      For in the act of dealing blows,
+      It's tough to save one's hands from woes.
     `,
   },
   {
@@ -2088,7 +2096,7 @@ const content = [
       夫唯无以生为者，是贤于贵生。
     `,
     english: `
-      When folks are hungry, it’s often told,
+      When folks are hungry, it's often told,
       It's because their rulers take too much gold.
       Taxing their food, while the people strive,
       Leaves bellies empty, hard to thrive.
@@ -2096,7 +2104,7 @@ const content = [
       Hard to govern, when rulers always intervene,
       Their constant actions make the scene unclean.
       When people view death lightly, it's because life's cost is high,
-      In pursuit of living, they’re more ready to die.
+      In pursuit of living, they're more ready to die.
 
       Only those who don't cling to life with zest,
       Truly understand how to live the best.
@@ -2114,20 +2122,20 @@ const content = [
       强大处下，柔弱处上。
     `,
     english: `
-      When we're born, we're tender and slight,
-      But in death, we're rigid, no longer light.
-      All things, plants and trees in their prime,
-      Are soft and fragile, but with time,
+      When we're born, we're soft and weak,
+      In death, we're rigid, strength at peak.
+      All things like grass and trees start tender,
+      In death, they're stiff, no longer slender.
 
-      They become brittle, dried and rough,
-      Showing that strength isn't always enough.
-      For strength in life leads to the grave's door,
-      While the soft and yielding have so much more.
+      Thus, what is hard will fall in strife,
+      What's soft and yielding clings to life.
+      So armies strong may not prevail,
+      And rigid trees in storms will fail.
 
-      The mightiest armies can't always win,
-      Just as stiff trees often break in the wind.
-      Strength and power might lie below,
-      But softness and weakness, they rise and grow.
+      Great strength may fall and meet its doom,
+      The soft ascend, they find their room.
+      For in the nature of our lot,
+      It's gentle strength that ties the knot.
     `,
   },
   {
@@ -2142,23 +2150,20 @@ const content = [
       是以圣人为而不恃，功成而不处，其不欲见贤。
     `,
     english: `
-      The Way of heaven, is it not like a bow?
-      What's high is brought low, what's low shall grow.
-      Excess is lessened, and scarcity filled,
-      In this balance, heaven's Way is willed.
+      The way of heaven's like drawing a bow,
+      Lower the high, the low you raise, just so.
+      Take from the full, to the lacking give,
+      Balance it thus, how the heavens live.
 
-      Heaven takes from those who have too much,
-      To help those who lack, with a gentle touch.
-      But man's Way is different, it's sad but true,
-      They take from the poor to give to the few.
+      But human ways do invert the rule,
+      Starving the poor to feed the rich as fuel.
+      Who can serve all under the sky?
+      Only those in the Dao comply.
 
-      Who can afford to serve the world with their excess?
-      Only those who follow the Dao, I must confess.
-      Thus, the sage acts but doesn't flaunt,
-      Completes their work but doesn't take the haunt.
-
-      They don't wish their virtues to shine like the sun,
-      Content in the shadows, their ego weighs none.
+      Thus the sage acts but doesn't take pride,
+      Success is achieved, but he doesn't reside.
+      He wishes not to show his worth so vast,
+      For his will is to make his virtues last.
     `,
   },
   {
@@ -2173,23 +2178,18 @@ const content = [
       正言若反。
     `,
     english: `
-      There's nothing on earth as weak as water's flow,
-      Yet for conquering the strong, it's the best we know.
-      Hard and rigid can't withstand its way,
-      Its softness and fluidity make them sway.
+      Nothing in the world's as soft as the tide,
+      Yet against the hard and strong, it won't subside.
+      There's naught that can its gentle power replace,
+      Soft overcomes hard, flex beats the rigid in grace.
 
-      Weak overcomes the strong, soft beats the hard,
-      This is known the world over, yet is often barred.
-      Many know it, but few can truly act,
-      Upon this principle, a well-known fact.
+      The world knows this, yet can't follow through,
+      But the sage proclaims it, and his words ring true:
+      "He who takes the nation's grime becomes its shrine,
+      He who takes its ill luck is called divine."
 
-      Thus the sage has said, in words quite clear:
-      "Take on a country's dirt, and its leadership is near.
-      Accept its misfortune, and you’ll reign supreme,
-      As the world's true king, in this dream."
-
-      Straightforward words might seem reversed,
-      In Dao's wisdom, truths are first rehearsed.
+      Truthful words often seem inversely spun,
+      For in their paradox, wisdom is won.
     `,
   },
   {
@@ -2202,15 +2202,20 @@ const content = [
       天道无亲，常与善人。
     `,
     english: `
-      Settle a great grievance, some resentment will remain;
-      How can this be good, or just, or plain?
-      Thus, the sage holds the left tally stick,
-      Not blaming others, no matter how thick.
+      When great hatred is appeased in our days,
+      Some resentment, like a shadow, stays.
+      How can we then sow seeds of good cheer?
+      The wise have a way, and it's quite clear.
 
-      Those with virtue take charge of contracts and trust,
-      Without it, there's only dismissal and disgust.
-      Heaven's Way doesn't play favorites or kin,
-      It's always with the good, through thick and through thin.
+      The sage holds not to the blame nor the fight,
+      But to the promise of peace, keeping to what is right.
+      He grasps the covenant gently, without demand,
+      Doesn't fault others, extending a helping hand.
+
+      Those with virtue manage the mending,
+      While those without, bring only ending.
+      Heaven's way plays no favorites, stays no kin,
+      Yet always aligns with the good within.
     `,
   },
   {
@@ -2227,20 +2232,20 @@ const content = [
       民至老死，不相往来。
     `,
     english: `
-      A small country, with people few,
-      Tools of war they have, but shun their use.
-      They regard death with weight, so stay where skies are blue,
-      Boats and chariots unused, no journey to induce.
+      In a small town, folks are few,
+      Tools aplenty, but none they use.
+      Life is cherished, no need to roam,
+      Even with ships, they stay at home.
 
-      No need for armor or a march to drill,
-      Simple knots mark their deals, their old ways thrill.
-      Sweet is their food, their clothes please the sight,
-      They sleep secure, their customs fit just right.
+      Armor and chariots, left on the shelf,
+      For peace is their wealth, not defending oneself.
+      They tie with a rope, in a simple old style,
+      Food is so sweet, and clothes bring a smile.
 
-      Neighboring states within each other's sight,
-      Where dogs' barks and roosters' calls bridge the night.
+      Homes are a comfort, traditions are fun,
+      Neighbor's dog barks, but harm there is none.
       Through life to death, content, they stay,
-      Without wandering far away.
+      No need to wander far away.
     `,
   },
   {
@@ -2255,18 +2260,20 @@ const content = [
       圣人之道，为而不争。
     `,
     english: `
-      Truthful words aren't always pretty, pretty words aren't always true,
-      The good don't argue, those who argue aren't the virtuous few.
-      The wise aren't showy, those who show off don't truly know,
-      The sage doesn't hoard, gives to others, and their riches grow.
+      Truthful words aren't always so neat,
+      Pretty words may just deceive.
+      The truly good don't argue so,
+      Those who argue, goodness they don't know.
 
-      The more they help others, the more they gain in kind,
-      The more they give, the more they find.
-      The Way of Heaven benefits but doesn't harm,
-      The sage's Way is to help, without causing alarm.
+      The wise don't show off all their lore,
+      Boasters often know much less, not more.
+      The sage accumulates no pile,
+      Yet for others, they'll go the extra mile.
 
-      They act without contention, with peace in every stride,
-      Walking through life, with the Dao by their side.
+      The more they give, the more they gain,
+      For selflessness is the sage's main aim.
+      Nature's way, is to aid, never harm,
+      The sage's path, is calm without alarm.
     `,
   },
 ] as Content[];
@@ -2275,6 +2282,7 @@ interface Content {
   title: string;
   english: string;
   original: string;
+  explanation?: string;
 }
 
 export default content;
