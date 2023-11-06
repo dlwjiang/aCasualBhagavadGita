@@ -108,11 +108,6 @@ export const metadata: Metadata = {
     "Daoist Philosophy",
   ],
   creator: "David Jiang",
-  formatDetection: {
-    email: false,
-    address: false,
-    telephone: false,
-  },
   metadataBase: new URL("https://a-casual-dao.theory-a.com"),
   openGraph: {
     images: "/fullSun.png",
