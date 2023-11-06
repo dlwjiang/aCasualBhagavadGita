@@ -2,6 +2,7 @@ import Image from "next/image";
 import { Fredoka, ZCOOL_KuaiLe } from "next/font/google";
 import content from "./content";
 import ChapterSelect from "./ChapterSelect";
+import type { Metadata } from "next";
 
 const font = Fredoka({ weight: "400", subsets: [] });
 const chineseFont = ZCOOL_KuaiLe({ weight: "400", subsets: [] });
@@ -88,3 +89,32 @@ export default function Home() {
     </main>
   );
 }
+
+export const metadata: Metadata = {
+  generator: "Next.js",
+  applicationName: "A Casual Dao De Jing",
+  referrer: "origin-when-cross-origin",
+  keywords: [
+    "A Casual Tao Te Ching",
+    "A Casual Dao De Ching",
+    "A Casual Interpretation of Dao De Jing",
+    "A Casual Interpretation of Tao Te Ching",
+    "A Casual Guide to the Dao De Jing",
+    "A Casual Guide to the Tao Te Ching",
+    "Dao De Jing",
+    "Tao Te Ching",
+    "Laozi",
+    "Taoism",
+    "Daoist Philosophy",
+  ],
+  creator: "David Jiang",
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  metadataBase: new URL("https://a-casual-dao.theory-a.com"),
+  openGraph: {
+    images: "/fullSun.png",
+  },
+};
