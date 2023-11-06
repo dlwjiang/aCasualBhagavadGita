@@ -1,5 +1,6 @@
 const content = [
   {
+    chapter: 1,
     title: "The Nature of the Way",
     original: `
       道可道，非常道。
@@ -26,6 +27,7 @@ const content = [
     `,
   },
   {
+    chapter: 2,
     title: "The Polarity of Existence",
     original: `
       天下皆知美之为美，
@@ -53,7 +55,8 @@ const content = [
     `,
   },
   {
-    title: "Cultivating Effortless Action",
+    chapter: 3,
+    title: "Quiet Values",
     original: `
       不尚贤, 使民不争;
       不贵难得之货, 使民不为盗;
@@ -80,6 +83,7 @@ const content = [
     `,
   },
   {
+    chapter: 4,
     title: "The Fathomless Source",
     original: `
       道冲, 而用之或不盈。
@@ -103,7 +107,8 @@ const content = [
     `,
   },
   {
-    title: "The Neutral Process",
+    chapter: 5,
+    title: "True Neutrality",
     original: `
       天地不仁，以万物为刍狗;
       圣人不仁，以百姓为刍狗。
@@ -124,6 +129,7 @@ const content = [
     `,
   },
   {
+    chapter: 6,
     title: "The Spirit of the Valley",
     original: `
       谷神不死，是谓玄牝。
@@ -143,7 +149,8 @@ const content = [
     `,
   },
   {
-    title: "The Virtue of Humility",
+    chapter: 7,
+    title: "Immortality through Humility",
     original: `
       天长地久。
       天地所以能长且久者，
@@ -170,6 +177,7 @@ const content = [
     `,
   },
   {
+    chapter: 8,
     title: "The Path of Least Resistance",
     original: `
       上善若水。
@@ -197,6 +205,7 @@ const content = [
     `,
   },
   {
+    chapter: 9,
     title: "Moderation",
     original: `
       持而盈之, 不如其已;
@@ -223,7 +232,8 @@ const content = [
     `,
   },
   {
-    title: "Embracing the One",
+    chapter: 10,
+    title: "Have Without Possessing",
     original: `
       载营魄抱一, 能无离乎。
       专气致柔, 能婴儿乎。
@@ -256,7 +266,8 @@ const content = [
     `,
   },
   {
-    title: "The Utility of Emptiness",
+    chapter: 11,
+    title: "The Uses of Emptiness",
     original: `
       三十辐，共一毂，当其无，有车之用。
       埏埴以为器，当其无，有器之用。
@@ -276,7 +287,8 @@ const content = [
     `,
   },
   {
-    title: "The Temptation of the Senses",
+    chapter: 12,
+    title: "Blinding Sensations",
     original: `
       五色令人目盲;
       五音令人耳聋;
@@ -301,7 +313,8 @@ const content = [
     `,
   },
   {
-    title: "Accepting Disgrace Willingly",
+    chapter: 13,
+    title: "Willingly Accepting Shame",
     original: `
       宠辱若惊，贵大患若身。
       何谓宠辱若惊。
@@ -330,7 +343,8 @@ const content = [
     `,
   },
   {
-    title: "Observing the Mysterious",
+    chapter: 14,
+    title: "Observing the Unobservable",
     original: `
       视之不见，名曰夷；
       听之不闻，名曰希；
@@ -361,7 +375,8 @@ const content = [
     `,
   },
   {
-    title: "The Manifestation of Clarity",
+    chapter: 15,
+    title: "Exist Without Existing",
     original: `
       古之善为士者，微妙玄通，深不可识。
       夫唯不可识，故强为之容。
@@ -400,6 +415,7 @@ const content = [
     `,
   },
   {
+    chapter: 16,
     title: "Returning to the Source",
     original: `
       致虚极，守静笃。
@@ -433,7 +449,8 @@ const content = [
     `,
   },
   {
-    title: "The Subtle Art of Leadership",
+    chapter: 17,
+    title: "Hidden Leadership",
     original: `
       太上，下知有之；
       其次，亲而誉之；
@@ -460,24 +477,26 @@ const content = [
     `,
   },
   {
-    title: "When the Great Way is Forgotten",
+    chapter: 18,
+    title: "Forgetting to Remember",
     original: `
       大道废，有仁义；智慧出，有大伪；
       六亲不和，有孝慈；国家昏乱，有忠臣。
     `,
     english: `
       When the Great Way falls out of sight,
-      Comes righteousness, holding its light.
+      Comes self-righteousness, holding its light.
       Where wisdom's dawn brings on the day,
       Great pretense, too, begins to play.
 
-      With kin not in accord or peace,
+      But with kin not in accord or subtle peace,
       Piety and filial love increase.
-      In a state where confusion reigns,
-      Loyal ministers work through the strains.
+      And in a state where confusion reigns,
+      Loyal friends work through the strains.
     `,
   },
   {
+    chapter: 19,
     title: "Returning to Simplicity",
     original: `
       绝圣弃智，民利百倍；
@@ -502,7 +521,8 @@ const content = [
     `,
   },
   {
-    title: "Ordinary and Extraordinary",
+    chapter: 20,
+    title: "Understanding Non-Understanding",
     original: `
       绝学无忧，唯之与阿，相去几何。
       善之与恶，相去若何。
@@ -548,6 +568,7 @@ const content = [
     `,
   },
   {
+    chapter: 21,
     title: "The Essence of the Mystery",
     original: `
       孔德之容，唯道是从。
@@ -580,6 +601,7 @@ const content = [
     `,
   },
   {
+    chapter: 22,
     title: "Yield and Remain Whole",
     original: `
       曲则全，枉则直，洼则盈，
@@ -612,6 +634,7 @@ const content = [
     `,
   },
   {
+    chapter: 23,
     title: "Sparse Speech",
     original: `
       希言自然，
@@ -647,6 +670,7 @@ const content = [
     `,
   },
   {
+    chapter: 24,
     title: "Against Self-Importance",
     original: `
       企者不立；跨者不行；
@@ -668,6 +692,7 @@ const content = [
     `,
   },
   {
+    chapter: 25,
     title: "Naming the Unnamed",
     original: `
       有物混成，先天地生。
@@ -702,6 +727,7 @@ const content = [
     `,
   },
   {
+    chapter: 26,
     title: "The Weight of Lightness",
     original: `
       重为轻根，静为躁君。
@@ -728,7 +754,8 @@ const content = [
     `,
   },
   {
-    title: "Skillful Practice",
+    chapter: 27,
+    title: "A Light Presence",
     original: `
       善行无辙迹，善言无瑕讁；
       善数不用筹策；善闭无关楗而不可开，
@@ -754,11 +781,12 @@ const content = [
 
       The good are the teachers for those who have slipped,
       The errant provide for the good a script.
-      Disregard the mentor, dismiss the lesson's part,
+      Disregard the mentor, or dismiss the student's part,
       Even the wise will stumble, missing the art.
     `,
   },
   {
+    chapter: 28,
     title: "Knowing the Eternal Standard",
     original: `
       知其雄，守其雌，为天下溪。
@@ -793,6 +821,7 @@ const content = [
     `,
   },
   {
+    chapter: 29,
     title: "Against Control",
     original: `
       将欲取天下而为之，吾见其不得已。
@@ -818,6 +847,7 @@ const content = [
     `,
   },
   {
+    chapter: 30,
     title: "Lead Without Force",
     original: `
       以道佐人主者，不以兵强天下。
@@ -847,7 +877,8 @@ const content = [
     `,
   },
   {
-    title: "Weapons of Misfortune",
+    chapter: 31,
+    title: "Weapons are Misfortune",
     original: `
       夫佳兵者，不祥之器，
       物或恶之，故有道者不处。
@@ -878,7 +909,8 @@ const content = [
     `,
   },
   {
-    title: "The Way is Ineffable",
+    chapter: 32,
+    title: "The Way Cannot Be Named",
     original: `
       道常无名。
       虽小, 天下莫能臣。
@@ -909,6 +941,7 @@ const content = [
     `,
   },
   {
+    chapter: 33,
     title: "The Virtue of Self-Knowledge",
     original: `
       知人者智，自知者明。
@@ -928,6 +961,7 @@ const content = [
     `,
   },
   {
+    chapter: 34,
     title: "The Great Dao Flows Everywhere",
     original: `
       大道泛兮，其可左右。
@@ -949,6 +983,7 @@ const content = [
     `,
   },
   {
+    chapter: 35,
     title: "Holding the Great Image",
     original: `
       执大象，天下往。
@@ -970,6 +1005,7 @@ const content = [
     `,
   },
   {
+    chapter: 36,
     title: "The Soft Overcomes the Hard",
     original: `
       将欲歙之，必固张之；
@@ -995,6 +1031,7 @@ const content = [
     `,
   },
   {
+    chapter: 37,
     title: "The Practice of Non-Action",
     original: `
       道常无为而无不为。
@@ -1016,6 +1053,7 @@ const content = [
     `,
   },
   {
+    chapter: 38,
     title: "The Paradox of Virtue",
     original: `
       上德不德，是以有德；
@@ -1056,6 +1094,7 @@ const content = [
     `,
   },
   {
+    chapter: 39,
     title: "The Unity of the Whole",
     original: `
       昔之得一者：
@@ -1106,6 +1145,7 @@ const content = [
     `,
   },
   {
+    chapter: 40,
     title: "Returning to the Source",
     original: `
       反者道之动；弱者道之用。
@@ -1119,6 +1159,7 @@ const content = [
     `,
   },
   {
+    chapter: 41,
     title: "The Symptom of Knowledge",
     original: `
       上士闻道，勤而行之；
@@ -1167,6 +1208,7 @@ const content = [
     `,
   },
   {
+    chapter: 42,
     title: "The Origin of the Dao",
     original: `
       道生一，一生二，二生三，三生万物。
@@ -1194,6 +1236,7 @@ const content = [
     `,
   },
   {
+    chapter: 43,
     title: "Softness Overcomes Hardness",
     original: `
       天下之至柔，驰骋天下之至坚。
@@ -1213,6 +1256,7 @@ const content = [
     `,
   },
   {
+    chapter: 44,
     title: "The Measure of Success",
     original: `
       名与身孰亲。身与货孰多。得与亡孰病。
@@ -1235,6 +1279,7 @@ const content = [
     `,
   },
   {
+    chapter: 45,
     title: "The Completion of Imperfection",
     original: `
       大成若缺，其用不弊。
@@ -1260,6 +1305,7 @@ const content = [
     `,
   },
   {
+    chapter: 46,
     title: "The Contentment of Simplicity",
     original: `
       天下有道，却走马以粪。
@@ -1280,6 +1326,7 @@ const content = [
     `,
   },
   {
+    chapter: 47,
     title: "Understanding Without Seeing",
     original: `
       不出户知天下；不闚牖见天道。
@@ -1299,6 +1346,7 @@ const content = [
     `,
   },
   {
+    chapter: 48,
     title: "The Pursuit of Learning",
     original: `
       为学日益，为道日损。
@@ -1319,6 +1367,7 @@ const content = [
     `,
   },
   {
+    chapter: 49,
     title: "The Mirror of the Heart",
     original: `
       圣人无常心，以百姓心为心。
@@ -1347,6 +1396,7 @@ const content = [
     `,
   },
   {
+    chapter: 50,
     title: "The Mystery of Life and Death",
     original: `
       出生入死。
@@ -1382,6 +1432,7 @@ const content = [
     `,
   },
   {
+    chapter: 51,
     title: "The Nurturing of the Way",
     original: `
       道生之，德畜之，物形之，势成之。
@@ -1410,6 +1461,7 @@ const content = [
     `,
   },
   {
+    chapter: 52,
     title: "Returning to the Mother",
     original: `
       天下有始, 以为天下母。
@@ -1442,6 +1494,7 @@ const content = [
     `,
   },
   {
+    chapter: 53,
     title: "The Insight of the Great Path",
     original: `
       使我介然有知，行于大道，唯施是畏。
@@ -1467,6 +1520,7 @@ const content = [
     `,
   },
   {
+    chapter: 54,
     title: "Cultivation",
     original: `
       善建者不拔，
@@ -1502,6 +1556,7 @@ const content = [
     `,
   },
   {
+    chapter: 55,
     title: "The Embodiment of Harmony",
     original: `
       含德之厚，比于赤子。
@@ -1537,6 +1592,7 @@ const content = [
     `,
   },
   {
+    chapter: 56,
     title: "Knowing",
     original: `
       知者不言，言者不知。
@@ -1559,6 +1615,7 @@ const content = [
     `,
   },
   {
+    chapter: 57,
     title: "Governing with Simplicity",
     original: `
       以正治国，以奇用兵，以无事取天下。
@@ -1591,6 +1648,7 @@ const content = [
     `,
   },
   {
+    chapter: 58,
     title: "The Joy in Simplicity",
     original: `
       其政闷闷，其民淳淳；
@@ -1618,6 +1676,7 @@ const content = [
     `,
   },
   {
+    chapter: 59,
     title: "Guarding Morality",
     original: `
       治人事天莫若啬。
@@ -1643,6 +1702,7 @@ const content = [
     `,
   },
   {
+    chapter: 60,
     title: "Governing Large Countries",
     original: `
       治大国若烹小鲜。
@@ -1667,6 +1727,7 @@ const content = [
     `,
   },
   {
+    chapter: 61,
     title: "Big and Small Lands",
     original: `
       大国者下流，天下之交，
@@ -1699,6 +1760,7 @@ const content = [
     `,
   },
   {
+    chapter: 62,
     title: "The Sanctuary of the Dao",
     original: `
       道者万物之奥。善人之宝，不善人之所保。
@@ -1728,6 +1790,7 @@ const content = [
     `,
   },
   {
+    chapter: 63,
     title: "Ease of Action",
     original: `
       为无为，事无事，味无味。
@@ -1760,6 +1823,7 @@ const content = [
     `,
   },
   {
+    chapter: 64,
     title: "Act Before Acting",
     original: `
       其安易持，其未兆易谋。
@@ -1803,6 +1867,7 @@ const content = [
     `,
   },
   {
+    chapter: 65,
     title: "Enlightened Ignorance",
     original: `
       古之善为道者，非以明民，将以愚之。
@@ -1831,6 +1896,7 @@ const content = [
     `,
   },
   {
+    chapter: 66,
     title: "Leading with Humility",
     original: `
       江海所以能为百谷王者，
@@ -1859,6 +1925,7 @@ const content = [
     `,
   },
   {
+    chapter: 67,
     title: "The Three Treasures",
     original: `
       天下皆谓我道大，似不肖。
@@ -1903,6 +1970,7 @@ const content = [
     `,
   },
   {
+    chapter: 68,
     title: "Fight Without Might",
     original: `
       善为士者，不武；
@@ -1926,6 +1994,7 @@ const content = [
     `,
   },
   {
+    chapter: 69,
     title: "The Price of Conflict",
     original: `
       用兵有言：
@@ -1957,6 +2026,7 @@ const content = [
     `,
   },
   {
+    chapter: 70,
     title: "The Difficulty in Being Known",
     original: `
       吾言甚易知，甚易行。
@@ -1984,6 +2054,7 @@ const content = [
     `,
   },
   {
+    chapter: 71,
     title: "The Sickness of Knowledge",
     original: `
       知不知上；不知知病。
@@ -2003,6 +2074,7 @@ const content = [
     `,
   },
   {
+    chapter: 72,
     title: "The Liberation from Fear",
     original: `
       民不畏威，
@@ -2033,6 +2105,7 @@ const content = [
     `,
   },
   {
+    chapter: 73,
     title: "The Practice of Courage",
     original: `
       勇于敢则杀，勇于不敢则活。
@@ -2061,6 +2134,7 @@ const content = [
     `,
   },
   {
+    chapter: 74,
     title: "The Detachment from Life and Death",
     original: `
       民不畏死，奈何以死惧之。
@@ -2088,6 +2162,7 @@ const content = [
     `,
   },
   {
+    chapter: 75,
     title: "The Folly of Greed",
     original: `
       民之饥，以其上食税之多，是以饥。
@@ -2113,6 +2188,7 @@ const content = [
     `,
   },
   {
+    chapter: 76,
     title: "The Stiffness of Death",
     original: `
       人之生也柔弱，其死也坚强。
@@ -2139,6 +2215,7 @@ const content = [
     `,
   },
   {
+    chapter: 77,
     title: "The Way of Heaven",
     original: `
       天之道，其犹张弓与。
@@ -2167,6 +2244,7 @@ const content = [
     `,
   },
   {
+    chapter: 78,
     title: "The Strength of Water",
     original: `
       天下莫柔弱于水，而攻坚强者莫之能胜，其无以易之。
@@ -2193,6 +2271,7 @@ const content = [
     `,
   },
   {
+    chapter: 79,
     title: "The Resolution of Grievances",
     original: `
       和大怨，必有馀怨；
@@ -2219,6 +2298,7 @@ const content = [
     `,
   },
   {
+    chapter: 80,
     title: "The Value of Contentment",
     original: `
       小国寡民。
@@ -2249,6 +2329,7 @@ const content = [
     `,
   },
   {
+    chapter: 81,
     title: "The Simplicity of the Return",
     original: `
       信言不美，美言不信。
@@ -2279,6 +2360,7 @@ const content = [
 ] as Content[];
 
 interface Content {
+  chapter: number;
   title: string;
   english: string;
   original: string;
