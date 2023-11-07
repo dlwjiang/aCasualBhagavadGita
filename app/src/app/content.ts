@@ -25,6 +25,12 @@ const content = [
       Two paths, different names they bear,
       Both mysterious, beyond compare.
     `,
+    explanation: `
+      Knowing the name of something doesn't mean you know the thing.
+      Even if you know the name in 100 language you only know something about
+      people, what they call the thing. You can read all about snow
+      but you never really know it unless you see and touch it.
+    `,
   },
   {
     chapter: 2,
@@ -52,6 +58,13 @@ const content = [
       Thus, the wise let go of the show.
       They act without a fuss or claim,
       Achieve, but never seek the fame.
+    `,
+    explanation: `
+      Everything that we know we know through its opposite.
+      What's hot is hot only relative to a feeling of cold.
+      A hot cup of chocolate feels best when coming in from
+      a winter storm. The storm is not "bad" but creates
+      the contrast necessary to feel the warmth of the cup.
     `,
   },
   {
@@ -81,6 +94,11 @@ const content = [
       By acting without a forceful hand,
       All is right within the land.
     `,
+    explanation: `
+      The more you focus on others and what you don't have,
+      the more you will dislike yourself and the more
+      your life and heart becomes like that of a thief.
+    `,
   },
   {
     chapter: 4,
@@ -105,6 +123,10 @@ const content = [
       Perhaps before the great sky's span,
       It was there, before time began.
     `,
+    explanation: `
+      Here, the Dao is likened to "Existence" itself.
+      It is motherless, fatherless, and timeless.
+    `,
   },
   {
     chapter: 5,
@@ -127,6 +149,11 @@ const content = [
       Talk too much, and words will end,
       Better to stay centered, my friend.
     `,
+    explanation: `
+      Forces of nature are not good or bad, they just are.
+      To act in alignment with nature can sometimes feel
+      cruel or unkind when judged by human standards.
+    `,
   },
   {
     chapter: 6,
@@ -146,6 +173,12 @@ const content = [
       Use it well, and never weary.
       It's there without a fuss or fight,
       Enduring with a gentle might.
+    `,
+    explanation: `
+      It's better to ask "What don't I need?" rather than
+      "What more do I need?" when trying to navigate your way through life.
+      This is because great spirit and energy is always with you, you just
+      need to figure out what's blocking it.
     `,
   },
   {
@@ -175,6 +208,11 @@ const content = [
       By setting herself aside, so clever,
       She finds her place, and lives on forever.
     `,
+    explanation: `
+      People won't remember what you say or do, but they'll
+      remember how you made them feel. This is a longer
+      lasting "immortality" than trying to dazzle with deeds.
+    `,
   },
   {
     chapter: 8,
@@ -203,6 +241,12 @@ const content = [
       Adept in action, timely in deed,
       It's the lack of strife, that lets it succeed.
     `,
+    explanation: `
+      Surfers understand that you can't fight the ocean,
+      you just have to go with the flow. The same is true
+      in life. If you try to fight the current you'll just
+      end up tired and frustrated and eventually burn out.
+    `,
   },
   {
     chapter: 9,
@@ -229,6 +273,12 @@ const content = [
       The Way of heaven, naturally.
       For in stepping back when the work is through,
       Space is made for the new to brew.
+    `,
+    explanation: `
+      A lot of people want to be rich so they don't have to
+      think about money anymore. But ever notice that the very
+      rich spend their whole lives thinking about money?
+      Having "enough" is worth more than having billions.
     `,
   },
   {
@@ -264,6 +314,12 @@ const content = [
       Lead without controlling, let nature have its due,
       This is the mystic virtue, always true.
     `,
+    explanation: `
+      When you truly act in accordance with the Way, you
+      don't worry about whether or not your good deeds will be rewarded
+      or if other's bad deeds will be punished. You just do the thing
+      for the sake of doing the thing.
+=    `,
   },
   {
     chapter: 11,
@@ -284,6 +340,12 @@ const content = [
       It's the void they create that's useful to all.
       Thus what is there gives us the means to thrive,
       But the nothingness within gives everything life.
+    `,
+    explanation: `
+      Sometimes the something is there to emphasize the nothing.
+      Like how a shelf organizer gives you more space and organization.
+      Sometimes the nothing is there to emphasize the something.
+      Like how a blank canvas gives shape to your emotions.
     `,
   },
   {
@@ -310,6 +372,12 @@ const content = [
 
       For the belly, not the eyes, is where they aim,
       Letting go of that, this they claim.
+    `,
+    explanation: `
+      After you get 10 likes you need 100.
+      After 100 you need 1000. After 1000 you need 10 Thousand.
+      It never ends because you end up numb to the sensation.
+      You eat and eat and yet never fill full.
     `,
   },
   {
@@ -340,6 +408,12 @@ const content = [
       You might be trusted with riches untold.
       If you love with a heart that's as wide as the sea,
       Perhaps the world itself, in your hands could be.
+    `,
+    explanation: `
+      Being misunderstood is part of life, it's part of being
+      yourself. Don't waste time trying to make the world
+      understand you. Just be yourself and let the world
+      guide you to where you need to be.
     `,
   },
   {
@@ -372,6 +446,11 @@ const content = [
       Follow, and its end, slips away too.
       Embrace ancient ways, in today's bustling spree,
       To understand beginnings, is the Dao's decree.
+    `,
+    explanation: `
+      Just as you know the winds presence by the rustling of leaves,
+      the Dao is known by its effects. You can't see it, but you can
+      sense when it has passed through.
     `,
   },
   {
@@ -413,6 +492,11 @@ const content = [
       Renewal without end, an eternal spring,
       Their vessels void, so the universe within can sing.
     `,
+    explanation: `
+      To act as a force of nature means to act naturally.
+      To let nature speak through your requires you to be
+      very very silent because the ego is very very loud.
+    `,
   },
   {
     chapter: 16,
@@ -447,6 +531,12 @@ const content = [
       For he who embodies Dao, despite the worldly tides,
       Remains untouched by death, in the cosmic flow resides.
     `,
+    explanation: `
+      The "Circle of Life" is not all sunshine and roses.
+      It is a cycle of birth, growth, decay, and death.
+      Life can only be appreciated when we understand how
+      temporary it is.
+    `,
   },
   {
     chapter: 17,
@@ -475,10 +565,16 @@ const content = [
       It was the quiet work of the Dao, unseen,
       Guiding and flowing, ever serene.
     `,
+    explanation: `
+      The best teachers make the student feel like they are
+      capable of learning. The best therapists make their clients
+      feel like they are capable of conquering their life challenges.
+      True leaders do not seek to make others dependent on them.
+    `,
   },
   {
     chapter: 18,
-    title: "Forgetting to Remember",
+    title: "It is Dark Before Dawn",
     original: `
       大道废，有仁义；智慧出，有大伪；
       六亲不和，有孝慈；国家昏乱，有忠臣。
@@ -493,6 +589,11 @@ const content = [
       Piety and filial love increase.
       And in a state where confusion reigns,
       Loyal friends work through the strains.
+    `,
+    explanation: `
+      It's easy to be good to each other when times are
+      good. It when times are tough that we see
+      how people really are.
     `,
   },
   {
@@ -518,6 +619,12 @@ const content = [
 
       See simplicity, embrace what's plain,
       With lesser desires, much more to gain.
+    `,
+    explanation: `
+      The more we preach about how to be good,
+      the more easily we lose sight of what it means to be good.
+      And instead, we replace it with a lawyer's mess of
+      terms and conditions.
     `,
   },
   {
@@ -566,6 +673,13 @@ const content = [
       They have their ways, and I, my own,
       Cherishing the Mother, to me, it's shown.
     `,
+    explanation: `
+      Often the best in a field maintain their childlike
+      curiosity even as everyone around them has
+      stiffened into the unapproachable airs on an expert.
+      They know that they don't know, and so are always
+      capable of seeing something new.
+    `,
   },
   {
     chapter: 21,
@@ -599,6 +713,10 @@ const content = [
       How do I know of this grand old tale?
       By observing the Dao, without fail!
     `,
+    explanation: `
+      When you look at all the religions and spiritualities of the world,
+      do you feel that it seems like everyone is pointing to the same thing?
+    `,
   },
   {
     chapter: 22,
@@ -617,7 +735,7 @@ const content = [
     `,
     english: `
       When bent, you're whole, when twisted, you're straight,
-      When dipped, you're full, renew when you're out-of-date.
+      When dipped, you're full, renewed when out-of-date.
       In less, you find, too much leads you astray,
       So the wise one embraces 'One' as the way.
 
@@ -631,6 +749,13 @@ const content = [
       The old saying goes, "When curved, you're complete,"
       It's not just mere words, it's a truth so neat!
       Indeed, they are whole, and to this, they retreat.
+    `,
+    explanation: `
+      We are part of nature, not separate from it. The more
+      we focus on "Self" the more disconnected we become from
+      the world around us. We blunder into others like a bull in
+      china shop and think that this means we're taking a stand
+      for our existence. But we're really just making a mess of things.
     `,
   },
   {
@@ -668,6 +793,11 @@ const content = [
 
       But doubt makes trust decay away...
     `,
+    explanation: `
+      It's only when we stop talking that we can hear what nature has to say.
+      Silence. It's only when we stop talking that we can hear our heart has to say.
+      Also silence. They are one and the same.
+    `,
   },
   {
     chapter: 24,
@@ -689,6 +819,9 @@ const content = [
       In the Way of the Dao, such acts are bizarre.
       Like leftover food or lumps in one's path,
       The wise avoid these, to steer clear of wrath.
+    `,
+    explanation: `
+      "Hold my beer" is always the start of a bad idea.
     `,
   },
   {
@@ -725,6 +858,10 @@ const content = [
       In its own nature, so clear and so plain,
       In effortless being, its eternal domain.
     `,
+    explanation: `
+      Existence and consciousness are fundamental aspects of the universe.
+      You live in the universe. You know you exist. You are part of the universe.
+    `,
   },
   {
     chapter: 26,
@@ -752,6 +889,11 @@ const content = [
       A truth profound, on this depend:
       Lose your base, and meet your end.
     `,
+    explanation: `
+      Have you ever seen a master pianist's dance across a piano?
+      That lightness is rooted in the heaviness of thousands of hours of
+      practice. It's very hard to make something look so easy.
+    `,
   },
   {
     chapter: 27,
@@ -771,8 +913,8 @@ const content = [
     english: `
       Good deeds leave no tracks, good words bear no cracks,
       No counters need count when one's good with the facts.
-      A good lock needs no bolt, yet it can't be undone,
-      A good knot needs no rope, yet it can't be outdone.
+      A good lock needs no bolt, yet it can't be outdone,
+      A good knot needs no rope, yet it can't be undone.
 
       Thus the sage saves all people, never to forsake,
       Holds all things with care, for compassion's own sake.
@@ -783,6 +925,11 @@ const content = [
       The errant provide for the good a script.
       Disregard the mentor, or dismiss the student's part,
       Even the wise will stumble, missing the art.
+    `,
+    explanation: `
+      Eco conscious travelers hike without leaving a trace. It's the
+      same when dealing with others. Every interaction is a chance
+      to practice respecting the sacred within another.
     `,
   },
   {
@@ -819,6 +966,11 @@ const content = [
       They lead without cutting, without taking a side,
       For the greatest of leaders in non-action abide.
     `,
+    explanation: `
+      Understanding that all things give rise to each other
+      means that you cannot cut the world into pieces by judging
+      some parts to be good and others to be bad. Everything has its place.
+    `,
   },
   {
     chapter: 29,
@@ -844,6 +996,12 @@ const content = [
 
       Thus, the sage avoids excess in his stride,
       He lets go of luxury, and set aside pride.
+    `,
+    explanation: `
+      Imagine having to control your own heartbeat. It'd be such
+      a huge responsibility. Many people treat the world this way,
+      they want to have more control over it and and don't understand
+      what a burden such a responsibility would be.
     `,
   },
   {
@@ -874,6 +1032,9 @@ const content = [
       This is not the Dao; it leads you astray.
       What's not of the Dao will fade away,
       For against nature's course, there's a price to pay.
+    `,
+    explanation: `
+
     `,
   },
   {
