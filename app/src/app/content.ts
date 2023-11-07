@@ -942,7 +942,7 @@ const content = [
   },
   {
     chapter: 33,
-    title: "The Virtue of Self-Knowledge",
+    title: "Self-Knowledge",
     original: `
       知人者智，自知者明。
       胜人者有力，自胜者强。
@@ -1006,7 +1006,7 @@ const content = [
   },
   {
     chapter: 36,
-    title: "The Soft Overcomes the Hard",
+    title: "Yield to Overcome",
     original: `
       将欲歙之，必固张之；
       将欲弱之，必固强之；
@@ -1054,7 +1054,7 @@ const content = [
   },
   {
     chapter: 38,
-    title: "The Paradox of Virtue",
+    title: "Virtue is Not Virtuous",
     original: `
       上德不德，是以有德；
       下德不失德，是以无德。
@@ -1146,7 +1146,7 @@ const content = [
   },
   {
     chapter: 40,
-    title: "Returning to the Source",
+    title: "The Retrogression of the Dao",
     original: `
       反者道之动；弱者道之用。
       天下万物生于有，有生于无。
@@ -1209,7 +1209,7 @@ const content = [
   },
   {
     chapter: 42,
-    title: "The Origin of the Dao",
+    title: "The Birth of Origin",
     original: `
       道生一，一生二，二生三，三生万物。
       万物负阴而抱阳，冲气以为和。
@@ -1237,7 +1237,7 @@ const content = [
   },
   {
     chapter: 43,
-    title: "Softness Overcomes Hardness",
+    title: "Soft Overcomes Hard",
     original: `
       天下之至柔，驰骋天下之至坚。
       无有入无间，吾是以知无为之有益。
@@ -1306,7 +1306,7 @@ const content = [
   },
   {
     chapter: 46,
-    title: "The Contentment of Simplicity",
+    title: "Contentment",
     original: `
       天下有道，却走马以粪。
       天下无道，戎马生于郊。
@@ -1347,7 +1347,7 @@ const content = [
   },
   {
     chapter: 48,
-    title: "The Pursuit of Learning",
+    title: "Pursue Unlearning",
     original: `
       为学日益，为道日损。
       损之又损，以至于无为。
@@ -1368,7 +1368,7 @@ const content = [
   },
   {
     chapter: 49,
-    title: "The Mirror of the Heart",
+    title: "The Sage is a Mirror",
     original: `
       圣人无常心，以百姓心为心。
       善者，吾善之；
@@ -1433,7 +1433,7 @@ const content = [
   },
   {
     chapter: 51,
-    title: "The Nurturing of the Way",
+    title: "Naturally",
     original: `
       道生之，德畜之，物形之，势成之。
       是以万物莫不尊道而贵德。
@@ -1457,12 +1457,12 @@ const content = [
       Leading without claim, acting with ease,
       Growing without rule, like a soft breeze.
       Having without hold, working so free,
-      This is the magic of mystery.
+      This is the magic of nature's mystery.
     `,
   },
   {
     chapter: 52,
-    title: "Returning to the Mother",
+    title: "Remembering the Source",
     original: `
       天下有始, 以为天下母。
       既得其母, 以知其子,
@@ -1495,7 +1495,7 @@ const content = [
   },
   {
     chapter: 53,
-    title: "The Insight of the Great Path",
+    title: "Through Serenity is the Way",
     original: `
       使我介然有知，行于大道，唯施是畏。
       大道甚夷，而民好径。
@@ -1557,7 +1557,7 @@ const content = [
   },
   {
     chapter: 55,
-    title: "The Embodiment of Harmony",
+    title: "The Invincibility of Harmony",
     original: `
       含德之厚，比于赤子。
       蜂虿虺蛇不螫，猛兽不据，攫鸟不搏。
@@ -1649,7 +1649,7 @@ const content = [
   },
   {
     chapter: 58,
-    title: "The Joy in Simplicity",
+    title: "The Least Disturbance",
     original: `
       其政闷闷，其民淳淳；
       其政察察，其民缺缺。
@@ -1791,7 +1791,7 @@ const content = [
   },
   {
     chapter: 63,
-    title: "Ease of Action",
+    title: "The Practice of Non Doing",
     original: `
       为无为，事无事，味无味。
       大小多少，报怨以德。
@@ -1894,6 +1894,12 @@ const content = [
       With this mysterious virtue in hand,
       In harmony with the world, you'll stand.
     `,
+    explanation: `
+      This isn't about being purposely ignorant but about how overthinking is a lot more
+      common than underthinking. Just like an athlete might "choke" under pressure, many
+      of us spend our lives overthinking things that we constantly "choke" in our
+      relationships, careers, and lives.
+    `,
   },
   {
     chapter: 66,
@@ -1922,6 +1928,11 @@ const content = [
       In a world full of push, they stand alone.
       Because they don't compete, don't boast or brag,
       Not a soul in the world can pull their flag.
+    `,
+    explanation: `
+      A leader is defined not by smarts or strength but by the amount of willing followers.
+      We follow rivers and seas because they are an endless
+      source of bounty. We don't follow a perfectionist micromanager.
     `,
   },
   {
@@ -2020,9 +2031,10 @@ const content = [
     `,
     explanation: `
       This is passage is about the true cost of War,
-      the lives and emotional cost of war.
-      It is a warning to those who would take war lightly,
+      the lives and emotional cost. It is a warning to those who would take war lightly,
       and a reminder that the true cost of war is the lives lost.
+      For example, obnoxious aggressive know-it-alls are so toxic that they kill team morale,
+      even if they are more knowledgeable.
     `,
   },
   {
@@ -2103,6 +2115,13 @@ const content = [
       By valuing less, they're valued more,
       A paradox that opens every door.
     `,
+    explanation: `
+      Often times we give up too early on being loved and
+      go directly to trying to control others through fear.
+      Fear of being rejected, abandoned, forgotten.
+      It's only when we give up this crutch, that we can struggle
+      correctly with learning how to Love.
+    `,
   },
   {
     chapter: 73,
@@ -2132,10 +2151,20 @@ const content = [
       The net of heaven is vast and wide,
       Though loose, it lets nothing aside.
     `,
+    explanation: `
+      Bad news can often turn out to be goods news,
+      that turns out to be bad news, that turns out to be good news,
+      and so on. We'll never get an answer to whether or not
+      something was definitively good or bad because our universal
+      stories expand past our lifetimes. The courage to live
+      is to trust this process and not overly concern yourself
+      with the impossible tasks of determining wether or not
+      you live a good or a bad life.
+    `,
   },
   {
     chapter: 74,
-    title: "The Detachment from Life and Death",
+    title: "The Curse of the Executioner",
     original: `
       民不畏死，奈何以死惧之。
       若使民常畏死，而为奇者，
@@ -2160,6 +2189,12 @@ const content = [
       For in the act of dealing blows,
       It's tough to save one's hands from woes.
     `,
+    explanation: `
+      To execute someone to to pass an Ultimate Judgement.
+      Only "Nature" has the right to pass judgement and anyone
+      who tries to act as judge, jury, and executioner becomes
+      a pariah just like an executioner.
+    `,
   },
   {
     chapter: 75,
@@ -2178,7 +2213,7 @@ const content = [
 
       Hard to govern, when rulers always intervene,
       Their constant actions make the scene unclean.
-      When people view death lightly, it's because life's cost is high,
+      Life's cost is far too high high,
       In pursuit of living, they're more ready to die.
 
       Only those who don't cling to life with zest,
@@ -2189,7 +2224,7 @@ const content = [
   },
   {
     chapter: 76,
-    title: "The Stiffness of Death",
+    title: "Stiffness is Death",
     original: `
       人之生也柔弱，其死也坚强。
       万物草木之生也柔脆，其死也枯槁。
@@ -2241,6 +2276,13 @@ const content = [
       Success is achieved, but he doesn't reside.
       He wishes not to show his worth so vast,
       For his will is to make his virtues last.
+    `,
+    explanation: `
+      To live in accordance with the Dao is not to
+      worry about views, or likes, or number of followers
+      but to live in a way where you constantly restore
+      your own and other's faith in humanity and and faith
+      in the universe.
     `,
   },
   {
@@ -2299,7 +2341,7 @@ const content = [
   },
   {
     chapter: 80,
-    title: "The Value of Contentment",
+    title: "Peace",
     original: `
       小国寡民。
       使有什伯之器而不用；
@@ -2325,12 +2367,12 @@ const content = [
       Homes are a comfort, traditions are fun,
       Neighbor's dog barks, but harm there is none.
       Through life to death, content, they stay,
-      No need to wander far away.
+      There is no reason to wander far away.
     `,
   },
   {
     chapter: 81,
-    title: "The Simplicity of the Return",
+    title: "Everyone is Right",
     original: `
       信言不美，美言不信。
       善者不辩，辩者不善。
@@ -2355,6 +2397,13 @@ const content = [
       For selflessness is the sage's main aim.
       Nature's way, is to aid, never harm,
       The sage's path, is calm without alarm.
+    `,
+    explanation: `
+      "Everyone is Right" in their own way. True sages
+      understand that they are a snowflake uniquely qualified
+      for understanding the nature of snowflakes. It doesn't make them
+      more unique or more special. They Do without seeking to Outdo
+      and always seem somewhat embarrassed by their success.
     `,
   },
 ] as Content[];
