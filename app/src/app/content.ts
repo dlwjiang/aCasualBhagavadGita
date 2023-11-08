@@ -369,9 +369,6 @@ const content = [
       For they plant in hearts those greedy seeds.
       Thus the sage keeps to the core,
       Leaves the superficial, seeks something more.
-
-      For the belly, not the eyes, is where they aim,
-      Letting go of that, this they claim.
     `,
     explanation: `
       After you get 10 likes you need 100.
