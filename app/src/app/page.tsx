@@ -13,13 +13,22 @@ export default function Home() {
       className={`${font.className} h-screen overflow-y-scroll overflow-x-hidden bg-amber-50`}
       style={{ perspective: "10px" }}
     >
-      <a
-        href="https://dj.theory-a.com/"
-        target="_blank"
-        className="absolute right-0 top-0 pr-4 pt-1 text-[#c5a20a] hover:underline"
-      >
-        About
-      </a>
+      <div className="absolute right-0 top-0 pr-4 pt-1 flex items-center">
+        <a
+          href="https://www.youtube.com/@ACasualDaoDeJing"
+          target="_blank"
+          className="text-[#c5a20a] hover:underline mr-2"
+        >
+          <Image src="/youtube.png" width={20} height={20} alt="youtube icon" />
+        </a>
+        <a
+          href="https://dj.theory-a.com/"
+          target="_blank"
+          className="text-[#c5a20a] hover:underline"
+        >
+          About
+        </a>
+      </div>
       <header
         className="relative flex flex-col items-center justify-center h-full"
         style={{ transformStyle: "preserve-3d", zIndex: -1 }}
