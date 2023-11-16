@@ -548,7 +548,7 @@ const content = [
     `,
     english: `
       In the realm of the utmost, few know it's there,
-      A presence so subtle, like a whisper-thin air.
+      A presence so subtle, like a whisper-thin hair.
       Next in line, they'll praise it with cheer,
       Hold it dear, and keep it quite near.
 
@@ -992,7 +992,7 @@ const content = [
       Some will peak, while others bleak.
 
       Thus, the sage avoids excess in his stride,
-      He lets go of luxury, and set aside pride.
+      He lets go of luxury, and sets aside pride.
     `,
     explanation: `
       Imagine having to control your own heartbeat. It'd be such
