@@ -76,11 +76,11 @@ export default function Home() {
               </a>
             </div>
             <div
-              className={`${hindiFont.className} text-sm md:text-base text-amber-900/50 tracking-wide -ml-5 overflow-auto`}
+              className={`${hindiFont.className} text-sm md:text-base text-amber-900/50 tracking-wide -ml-5 overflow-x-auto overflow-y-hidden`}
             >
               {e.original}
             </div>
-            <div className="leading-7 text-sm md:text-base tracking-wider text-amber-900 -ml-5 overflow-auto">
+            <div className="leading-7 text-sm md:text-base tracking-wider text-amber-900 -ml-5 overflow-x-auto">
               {e.english}
             </div>
           </div>
