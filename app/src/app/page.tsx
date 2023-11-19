@@ -10,7 +10,7 @@ const chineseFont = ZCOOL_KuaiLe({ weight: "400", subsets: [] });
 export default function Home() {
   return (
     <main
-      className={`${font.className} h-screen overflow-y-scroll overflow-x-hidden bg-amber-50`}
+      className={`${font.className} h-screen overflow-y-scroll overflow-x-hidden bg-amber-900/10`}
       style={{ perspective: "10px" }}
     >
       <div className="absolute right-0 top-0 pr-4 pt-1 flex items-center">
@@ -34,19 +34,10 @@ export default function Home() {
         style={{ transformStyle: "preserve-3d", zIndex: -1 }}
       >
         <Image
-          src="/sun.png"
-          alt="Sun"
-          className="h-full w-full absolute object-cover"
-          style={{ transform: "translateZ(-10px) scale(2)" }}
-          width={1200}
-          height={400}
-          priority
-        />
-        <Image
           src="/background.png"
           alt="Fun Background"
-          className="h-full w-full absolute object-cover opacity-50"
-          style={{ transform: "translateZ(-5px) scale(1.5)" }}
+          className="h-full w-full absolute object-cover opacity-70"
+          style={{ transform: "translateZ(-1.5px) scale(1.15)" }}
           width={1200}
           height={400}
           priority
@@ -62,15 +53,15 @@ export default function Home() {
         <div
           className="text-white text-6xl z-10 text-center mx-16 p-4 bg-stone-200/50 rounded"
           style={{
-            textShadow: "4px 4px 2px #027780",
-            transform: "translateZ(2px) scale(0.8)",
+            textShadow: "4px 4px 2px #4b0b0d",
+            transform: "translateZ(1px) scale(0.9)",
           }}
         >
-          A Casual Dao De Jing
+          A Casual Bhagavad Gita
         </div>
       </header>
       <section className="flex flex-col items-center">
-        <div className="self-baseline sticky ml-4 top-4 ">
+        <div className="self-baseline sticky ml-4 mt-4 top-4">
           <ChapterSelect content={content} />
         </div>
         {content.map((e, i) => (
@@ -101,24 +92,9 @@ export default function Home() {
 
 export const metadata: Metadata = {
   generator: "Next.js",
-  applicationName: "A Casual Dao De Jing",
+  applicationName: "A Casual Bhagavad Gita",
   referrer: "origin-when-cross-origin",
-  keywords: [
-    "A Casual Tao Te Ching",
-    "A Casual Dao De Ching",
-    "A Casual Interpretation of Dao De Jing",
-    "A Casual Interpretation of Tao Te Ching",
-    "A Casual Guide to the Dao De Jing",
-    "A Casual Guide to the Tao Te Ching",
-    "Dao De Jing",
-    "Tao Te Ching",
-    "Laozi",
-    "Taoism",
-    "Daoist Philosophy",
-  ],
+  keywords: ["A Casual Bhagavad Gita", "Bhagavad Gita"],
   creator: "David Jiang",
-  metadataBase: new URL("https://a-casual-dao.theory-a.com"),
-  openGraph: {
-    images: "/fullSun.png",
-  },
+  // metadataBase: new URL("https://a-casual-dao.theory-a.com"),
 };

@@ -3,8 +3,8 @@ import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "A Casual Dao De Jing",
-  description: "A Casual Interpretation of the Dao De Jing",
+  title: "A Casual Bhagavad Gita",
+  description: "A Casual Interpretation of the Bhagavad Gita",
 };
 
 export default function RootLayout({
