@@ -1,11 +1,11 @@
 import Image from "next/image";
-import { Fredoka, ZCOOL_KuaiLe } from "next/font/google";
+import { Fredoka, Kalam } from "next/font/google";
 import content from "./content";
 import ChapterSelect from "./ChapterSelect";
 import type { Metadata } from "next";
 
 const font = Fredoka({ weight: "400", subsets: [] });
-const chineseFont = ZCOOL_KuaiLe({ weight: "400", subsets: [] });
+const hindiFont = Kalam({ weight: "400", subsets: [] });
 
 export default function Home() {
   return (
@@ -76,7 +76,7 @@ export default function Home() {
               </a>
             </div>
             <div
-              className={`${chineseFont.className} text-sm md:text-base text-amber-900/50 tracking-wide -ml-5 overflow-auto`}
+              className={`${hindiFont.className} text-sm md:text-base text-amber-900/50 tracking-wide -ml-5 overflow-auto`}
             >
               {e.original}
             </div>

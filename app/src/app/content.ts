@@ -1,7 +1,7 @@
 const content = [
   {
     chapter: 1,
-    title: "Observing the Armies",
+    title: "Observation",
     original: `
       धृतराष्ट्र ने पूछा ये, संजय से बड़े प्रेम से,
       "कुरुक्षेत्र में युद्ध भूमि पर, क्या कर रहे मेरे और पांडु के बेटे ये?"
@@ -68,7 +68,7 @@ const content = [
   },
   {
     chapter: 2,
-    title: "Arjuna's Doubt",
+    title: "Doubt",
     original: `
       वीर भूमि में खड़ा अर्जुन, आँखों में अश्रु भरा,
       धर्मयुद्ध की चिंता में, मन उसका डरा।
@@ -181,12 +181,282 @@ const content = [
       For in this cosmic, timeless dance,
       Each must play their part, take their chance.
       In the heart of the storm, find your peace,
-      In the midst of war, let your doubts cease.
+      In the midst of war, let your doubts cease."
 
       With wisdom deep, Krishna spoke,
       In Arjuna's heart, hope awoke.
       In the midst of war's fierce hour,
       He found his strength and found his power.
+    `,
+  },
+  {
+    chapter: 3,
+    title: "Action",
+    original: `
+      अर्जुन ने पूछा बड़े विचार से,
+      "हे कृष्ण, कर्म क्यों मेरा आधार रे?
+
+      आपके शब्द मेरे मन को घुमाते,
+      कृपया स्पष्ट मार्ग मुझे दिखाते।"
+
+      कृष्ण ने कहा, हल्के से मुस्काते,
+      "मानव जग में दो राहें बताते।
+      एक ज्ञान की, एक कर्म की बातें,
+      दोनों ही मुक्ति के रास्ते बताते।
+
+      कर्म ही कुंजी, अर्जुन, जान ले,
+      निष्क्रियता से मुक्ति नहीं मान ले।
+      हर क्रिया में, छोटे बड़े काम में,
+      कर्म ही तो परिभाषित करे आपके नाम को।
+
+      इन्द्रियों पर नियंत्रण, मन उजाला,
+      कर अपने कर्तव्य, बिना किसी भाला।
+      बिना आसक्ति, कर्तव्य का पालन,
+      यही से ऊपर उठता है जीवन।
+
+      प्राचीन ऋषि, कथाओं में बताए,
+      कर्मों से ही उन्होंने भाग्य सजाए।
+      जैसे वे चले, तुम भी चलो,
+      न्यायपूर्ण कर्मों में अपनी कला दिखलो।
+
+      प्रकृति की ताकतें, सब में बसी,
+      अज्ञानता, हां, हो सकती है कभी।
+      पर ज्ञानी वही, जो जाने खेल,
+      प्रकृति के नृत्य की, हर एक झलक महक।
+
+      इस विशाल जग में, विस्तार से,
+      न्यायपूर्ण कर्मों में हमें रहना है।
+      क्योंकि हर कर्म, एक श्रृंखला बनाता,
+      जिसमें हर घटना, लाभ या हानि का रास्ता।
+
+      तो अर्जुन, धनुष उठा, खड़े हो जा,
+      कर्तव्य की पुकार में, दृढ़ता से चला जा।
+      क्योंकि इस अनंत नृत्य में, जीवन
+    `,
+    english: `
+      In a world where duty calls,
+      Arjuna asks with walls and halls,
+      "O Krishna, wise, with knowledge vast,
+      Why in grim deeds am I cast?
+
+      Your words twist and turn in my mind,
+      Please, a clear path, help me find.
+      For clarity, I long and yearn,
+      Teach me the way, help me learn."
+
+      Krishna speaks with voice so calm,
+      "In human realm, two paths form a balm.
+      One of knowledge, one of deed,
+      Both paths to enlightenment lead.
+
+      Action, Arjuna, is the key,
+      Not by idleness, free you'll be.
+      In every breath, in every chore,
+      Actions define us, forevermore.
+
+      Controlling senses, mind so bright,
+      Perform your duties, with all your might.
+      For duty done without desire,
+      Lifts the soul ever higher.
+
+      Sages of old, in tales told,
+      Through actions, their destinies unfold.
+      As they led, so must you,
+      In actions just and duties true.
+
+      Nature's forces, in us all,
+      Ignorance can be a fall.
+      But wise are those who see the play,
+      Of nature's dance, day by day.
+
+      In this world, so vast and wide,
+      In actions just, we must abide.
+      For every deed sets forth a chain,
+      Of events, in loss or gain.
+
+      So, Arjuna, with bow in hand,
+      In duty's call, firmly stand.
+      For in this cosmic, endless dance,
+      Actions define life's romance."
+    `,
+  },
+  {
+    chapter: 4,
+    title: "Karma",
+    original: `
+    `,
+    english: `
+      In a land of mystic tales and light,
+      The ancient wisdom took its flight.
+      From sun to kings, it passed with care,
+      A yoga deep, beyond compare.
+
+      "Oh valiant one," the Lord did say,
+      "This yoga lost in time's decay.
+      But you, my friend, are chosen true,
+      To hear this secret, bright and new."
+
+      Arjuna puzzled, raised a brow,
+      "Your birth was recent, how tell me how,
+      Did you to sun, in ages past,
+      This yoga speak, so vast and vast?"
+
+      The Lord replied, "My births are many,
+      Yours too, but you recall not any.
+      I am unborn, undying, still,
+      Master of all, by my own will."
+
+      "When righteousness does fade, and wane,
+      In darkness, I return again.
+      To save the good, destroy the vile,
+      Restore the balance, for a while."
+
+      "Know this, Arjuna, my dear friend,
+      On me all beings do depend.
+      All paths they take, lead back to me,
+      In every act, my hand they see."
+
+      "The wise see action in inaction,
+      In stillness, find the truest action.
+      Free from desire, their work is pure,
+      In wisdom's fire, they're secure."
+
+      "Doing, not for reward or gain,
+      But as a duty, clear and plain.
+      Controlled in mind, in body too,
+      They act, but sin does not pursue."
+
+      "Content with what their actions yield,
+      Unmoved by hate, in battle's field.
+      They work, but are not bound by deeds,
+      In every act, no selfish needs."
+
+      "Thus, those who know the highest truth,
+      In wisdom's fire, renew their youth.
+      All actions in pure knowledge end,
+      In this path, true peace they find."
+
+      So Arjuna, with doubt in heart,
+      Learns that action plays a part,
+      In reaching truth, in breaking free,
+      From chains of birth, eternally.
+
+      "Stand up, Arjuna, take your bow,
+      With wisdom's sword, cut doubt and woe.
+      In balance act, and fearless be,
+      In yoga's path, you'll truly see."
+    `,
+  },
+  {
+    chapter: 5,
+    title: "5",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 6,
+    title: "6",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 7,
+    title: "7",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 8,
+    title: "8",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 9,
+    title: "9",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 10,
+    title: "10",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 11,
+    title: "11",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 12,
+    title: "12",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 13,
+    title: "13",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 14,
+    title: "14",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 15,
+    title: "15",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 16,
+    title: "16",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 17,
+    title: "17",
+    original: `
+    `,
+    english: `
+    `,
+  },
+  {
+    chapter: 18,
+    title: "18",
+    original: `
+    `,
+    english: `
     `,
   },
 ] as Content[];
