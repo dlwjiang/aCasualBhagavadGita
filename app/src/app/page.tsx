@@ -70,17 +70,17 @@ export default function Home() {
             key={e.title}
             className="bg-white p-4 m-1 w-11/12 md:w-auto md:p-8 md:m-8 rounded-xl shadow whitespace-pre bg-white/70"
           >
-            <div className="text-yellow-600 text-2xl">
+            <div className="text-amber-800 text-2xl">
               <a href={`/#${e.title}`}>
                 {i + 1} - {e.title}
               </a>
             </div>
             <div
-              className={`${chineseFont.className} text-sm md:text-base text-stone-600/50 tracking-wide -ml-5 overflow-auto`}
+              className={`${chineseFont.className} text-sm md:text-base text-amber-900/50 tracking-wide -ml-5 overflow-auto`}
             >
               {e.original}
             </div>
-            <div className="leading-7 text-sm md:text-base tracking-wider text-stone-700 -ml-5 overflow-auto">
+            <div className="leading-7 text-sm md:text-base tracking-wider text-amber-900 -ml-5 overflow-auto">
               {e.english}
             </div>
           </div>

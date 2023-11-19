@@ -8,7 +8,7 @@ const ChapterSelect = ({ content }: any) => {
     <select
       name="Chapter"
       id="chapter-select"
-      className="w-48 shadow rounded bg-amber-200 text-amber-800"
+      className="w-48 shadow rounded bg-amber-800 text-white"
       onChange={handleSelect}
       value=""
     >
