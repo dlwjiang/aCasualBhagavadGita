@@ -1140,10 +1140,88 @@ const content = [
   },
   {
     chapter: 12,
-    title: "12",
+    title: "Faith",
     original: `
+      विश्वास की विशाल धरा पर,
+      निष्ठा का पथ जहाँ दिल हमारा।
+      दो उपासना के मार्ग प्रखर,
+      एक में मूरत, दूजे में ज्योति अपार।
+
+      पहला मार्ग, जहाँ भक्ति भरी,
+      निरंतर चिंतन में, अनुग्रह धारी।
+      दूसरा, निराकार, विशाल, अदृश्य,
+      शांति में, गहराई में, सत्य वही।
+
+      पर निराकार की खोज में कष्ट,
+      मूर्तिरहित पथ कठिन, अत्यंत दुष्ट।
+      निष्ठावान, जिनका हृदय निर्मल,
+      मेरी शरण में, सुरक्षित वे सजल।
+
+      "मन को मुझमें लगा," मैं कहूँ,
+      "मुझमें ही तू पाएगा दिन सुनहूँ।
+      यदि स्थिर चिंतन दूर लगे,
+      अभ्यास से पथ मेरा तू सजे।"
+
+      यदि अभ्यास भी कठिन लगे,
+      कर्म में अपना पथ सुनहरा जगे।
+      और यदि कर्म में हो बंधन,
+      फल त्याग कर, शांति में मिले वरदान।
+
+      ज्ञानी, जो सबको एक समझें,
+      घृणा, हिंसा से मुक्त, उन्हें बचाएं।
+      सुख-दुःख, स्तुति-निंदा में समान,
+      मुझमें ही पाएं अपना स्थायी स्थान।
+
+      प्रेम में समान, दुख-सुख में नीरस,
+      विरक्त, शांत, भयरहित, उनकी नहीं परवाह।
+      ऐसे आत्मा, ज्ञान में स्थिर, सच्चे,
+      मुझे प्रिय हैं, जैसा मैं उन्हें प्यारे।
+
+      प्रेम का यह पथ, कोमल अनुग्रह से,
+      मेरे हृदय की ओर, एक पवित्र अभिलाषा।
+      तो पीयो यह अमृत, शुद्ध और मीठा,
+      प्रेम और श्रद्धा में, हम निश्चय मिलेंगे
     `,
     english: `
+      In a world of faith and views so wide,
+      Devotion's path, where hearts abide.
+      Two paths of worship, clear and bright,
+      One sees the form, the other, light.
+
+      The first with fervor, they embrace,
+      In constant thought, they seek the grace.
+      The second, formless, vast, unseen,
+      In stillness, depth, where truth has been.
+
+      Yet seekers of the unseen strain,
+      For formless paths are hard to gain.
+      The faithful, with their hearts so pure,
+      In my embrace, they are secure.
+
+      "Focus your mind, your heart," I say,
+      "In me, you'll find the brightest day.
+      If steady thought seems far from reach,
+      Let practice be the way I teach."
+
+      If practice too seems hard to hold,
+      In action find your path of gold.
+      And if in action you're confined,
+      Release your fruits, in peace, you'll find.
+
+      The wise, who see all life as one,
+      Beyond the hate, the harm, undone.
+      In joy and sorrow, praise and blame,
+      They find in me their lasting aim.
+
+      Equal in love, in pain and cheer,
+      Detached, serene, they hold no fear.
+      Such souls, in steady wisdom true,
+      Are dear to me, as I am to you.
+
+      This path of love, of gentle grace,
+      Leads to my heart, a sacred place.
+      So drink this nectar, pure and sweet,
+      In love and faith, we surely meet.
     `,
   },
   {
