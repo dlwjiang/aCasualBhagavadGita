@@ -1054,10 +1054,88 @@ const content = [
   },
   {
     chapter: 11,
-    title: "11",
+    title: "Destroyer of All",
     original: `
+      अर्जुन खड़ा, वीर और बलशाली,
+      पूछता रहस्य, पुरानी गाथाएं अनोखी।
+      "दिखाओ मुझे," उसने की विनती,
+      "सत्य की गहराई, वह प्राचीन कहानी।"
+
+      कृष्ण ने, मुस्कान लिए विशाल,
+      प्रकट किया ब्रह्मांड, जो था निहाल।
+      "देखो मेरे रूप, हजारों और अनेक,
+      रंगों में, आकारों में, नए अनुभव अनेक।"
+
+      "मुझसे ही जीवन का आरम्भ और अंत,
+      मेरे दर्शन में, विश्व करता है विचलित।
+      सूर्य समान नेत्र, और चेहरे अपार,
+      एक अद्भुत दृश्य, अकल्पनीय अपार।"
+
+      अर्जुन, दृश्य से विस्मित,
+      हृदय में उजाला, अनुभवित।
+      देखा संसार, एक ही झलक में,
+      कृष्ण के कॉस्मिक नृत्य में।
+
+      "तुम कौन हो, इस भयावह रूप में?"
+      पूछा अर्जुन, सहता आंधी की चाप में।
+      "मैं समय हूँ, सबका विनाशक,
+      मेरी उपस्थिति में, गिरते हैं महान।"
+
+      पर डरो नहीं, अर्जुन, यह तुम्हारा पथ है,
+      लड़ना युद्ध, पहुंचना लक्ष्य तक है।
+      इस नाटक में, तुम सिर्फ एक अंश,
+      महान डिजाइन में, कला का विशेष अंश।
+
+      धनुष और बाण हाथ में लिए,
+      अर्जुन ने समझा विशाल योजना को दिए।
+      कृष्ण की कृपा में, उसने पाया मार्ग,
+      युद्ध के लिए तैयार, नई शुरुआत का अर्ग।
+
+      यूँ चलती रही कहानी, छंद और पद्य में,
+      ब्रह्मांड की विशालता, विविध और अपार में।
+      कृष्ण की आंखों में, विश्व घूमता रहा,
+      साहस की कथा, अंतर में पाया जाहा।
     `,
     english: `
+      In a land far away, in a time untold,
+      Arjuna stood brave and bold.
+      "Reveal to me," he did implore,
+      "The secret truth, the ancient lore."
+
+      Lord Krishna, with a smile so wide,
+      Revealed the cosmos that resides inside.
+      "Behold my forms, a thousand and more,
+      In colors and shapes never seen before."
+
+      "From me, all life begins and ends,
+      In my vision, the universe bends.
+      With eyes like suns, and faces galore,
+      A spectacle of wonder, impossible to ignore."
+
+      Arjuna, awestruck by the sight,
+      Felt his heart filled with light.
+      He saw the world in just one glance,
+      Within Krishna's cosmic dance.
+
+      "Who are you, in this fearsome form?"
+      Asked Arjuna, weathering the storm.
+      "I am time, the destroyer of all,
+      In my presence, the mighty fall."
+
+      But fear not, Arjuna, for this is your role,
+      To fight the battle, to reach your goal.
+      For in this play, you're but a part,
+      In the grand design, a work of art.
+
+      With a bow and arrow in his hand,
+      Arjuna understood the grand plan.
+      In Krishna's grace, he found his way,
+      Ready to face the battle fray.
+
+      So the story goes, in rhyme and verse,
+      Of the universe, vast and diverse.
+      In Krishna's eyes, the world does spin,
+      A tale of courage, found within.
     `,
   },
   {
