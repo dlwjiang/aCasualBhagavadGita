@@ -730,8 +730,99 @@ const content = [
     chapter: 8,
     title: "8",
     original: `
+      अर्जुन पूछे सवाल यहाँ,
+      ब्रह्म क्या है, बताओ ना।
+      अध्यात्म का रहस्य क्या,
+      कर्म की बात सुनाओ ना।
+      अधिभूत क्या, अधिदैव कौन,
+      इस देह में क्या है बसौन?
+      अंत समय में, हे प्रभु, बता,
+      आत्मा कैसे तुम्हें पा जाता?
+
+      श्रीकृष्ण ने फिर कहा यहाँ,
+      ब्रह्म अनंत, सच्चाई का मान।
+      अध्यात्म, आत्मा का ज्ञान,
+      कर्म, मुक्ति का आधारभान।
+      अधिभूत, भौतिक जगत में,
+      अधिदैव, दिव्यता के संग में।
+      अधियज्ञ, मैं स्वयं यहाँ,
+      कर्मों में बसा हूँ वहाँ।
+
+      मृत्यु के काल में, जो मुझे याद करे,
+      मेरा स्वरूप उसे आजाद करे।
+      जैसा भाव, वैसा गंतव्य,
+      सोच समझ, चुनाव है अन्तव्य।
+      मेरा स्मरण, युद्ध में या शांति में,
+      बना रहो, न छूटे भक्ति में।
+      मेरे भक्त, स्थिर प्रेम से,
+      पहुँचते मेरे धाम में बसे।
+
+      ब्रह्मलोक, चक्र अनंत,
+      मेरे में आराम, प्रेम का कंठ।
+      ब्रह्मा का दिन, ब्रह्मा की रात,
+      सृष्टि जागे, फिर सो जात।
+      पर उससे परे, अदृश्य, अनंत,
+      मेरा धाम, आत्मा का संत।
+      प्रकाश, अंधकार के पथ,
+      चुनो सावधान, रहो संगठित।
+
+      जो जानता है, नहीं भूलता,
+      योग में रहो, नहीं घूमता।
+      सभी कर्मों से ऊपर,
+      मेरा धाम, ज्ञान का सोपान।
     `,
     english: `
+      In a land where questions rise,
+      Arjuna asks with open eyes:
+      "What is Brahman, can you tell?
+      What's Adhyatma, in us dwell?
+      Karma's secret, can you share?
+      Adhibhuta, what is there?
+      And Adhidaiva, please define,
+      In this body, where does it shine?
+      Adhiyajna, who might be,
+      Living inside, secretly?
+      In death's moment, how do you see,
+      Souls departing, where do they flee?"
+
+      Lord Krishna, in reply,
+      Spoke of truths that never die:
+      "Brahman is the endless quest,
+      Adhyatma, the soul's own zest.
+      Karma, the act that sets life free,
+      Adhibhuta, the physical we see.
+      Adhidaiva, the divine,
+      In your heart, it does entwine.
+      Adhiyajna, that's me indeed,
+      In your actions, in every deed.
+
+      At life's end, those who think of me,
+      Find my form, forever free.
+      What you ponder as you depart,
+      Shapes the journey, the new start.
+      So remember, in fight or peace,
+      Keep me in mind, never cease.
+      My devotees, with steadfast love,
+      Reach my abode, high above.
+
+      The realms of life, a cycle's spin,
+      But in my grace, transcendence begin.
+      A day of Brahma, a cosmic sweep,
+      A night as long, a time so deep.
+      Creation wakes, then fades away,
+      In Brahma's night, it cannot stay.
+
+      Yet beyond this, unseen, untold,
+      Lies the realm that does not fold.
+      The unmanifest, the ultimate goal,
+      The final resting place of the soul.
+      Paths of light and dark are laid,
+      Choose with care, be not afraid.
+
+      For those who know, no confusion reigns,
+      In yoga's path, wisdom sustains.
+      Above all rites, above all deeds,
+      To my supreme abode, this knowledge leads."
     `,
   },
   {
