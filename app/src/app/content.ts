@@ -284,6 +284,49 @@ const content = [
     chapter: 4,
     title: "Karma",
     original: `
+      अनादि कथा की भूमि में,
+      ज्ञान योग की चाल नेमीन।
+      सूरज से राजा तक बहा,
+      योग गहरा, अतुलनीय सदा।
+
+      "हे वीर," प्रभु ने कहा,
+      "यह योग समय में खो गया।
+      पर तुम, मित्र, चुने गए,
+      सुनो यह रहस्य, नया और ज्वलंत।"
+
+      अर्जुन ने पूछा, भौंहें चढ़ा,
+      "आपका जन्म हाल का, कैसे बताएँ,
+      कैसे आपने सूर्य को, युगों पहले,
+      इस योग की बात कही, विशाल और विस्तृत?"
+
+      प्रभु बोले, "मेरे जन्म अनेक,
+      तुम्हारे भी, पर तुम याद नहीं करते।
+      मैं अजन्मा, अमर, स्थिर,
+      सभी का स्वामी, मेरी ही इच्छा से।"
+
+      "जब धर्म क्षीण होता है, मिटता,
+      अंधकार में, मैं फिर से आता।
+      अच्छाई को बचाने, बुराई को नष्ट करने,
+      संतुलन बहाल करने, कुछ क्षण के लिए।"
+
+      "जानो यह, अर्जुन, मेरे मित्र,
+      मुझ पर सभी प्राणी निर्भर करते हैं।
+      जो रास्ते वे लेते हैं, मुझ में ही आते हैं,
+      हर काम में, मेरा हाथ वे देखते हैं।"
+
+      "बुद्धिमान वो, जो कर्म में अकर्म देखे,
+      शांति में, सच्चा कर्म पाए।
+      इच्छा से मुक्त, काम पवित्र,
+      ज्ञान की अग्नि में, वे सुरक्षित।"
+
+      "कर्म करें, न कि पुरस्कार के लिए,
+      निष्ठापूर्वक, स्पष्ट और सादा।
+      मन में नियंत्रित, शरीर में भी,
+      कर्म करें, पर पाप न पीछा करे।"
+
+      "जो मिले, उसमें संतुष्ट,
+      घृणा से अचल, युद्ध के मैदान में।
+      कर्म करते हैं, पर बं
     `,
     english: `
       In a land of mystic tales and light,
@@ -349,10 +392,106 @@ const content = [
   },
   {
     chapter: 5,
-    title: "5",
+    title: "Action",
     original: `
+      जहां कृष्ण ने ज्ञान दिया, अर्जुन ने पूछा राह किया।
+      "कर्म त्याग या कर्म साधन, कौन सा मार्ग है बढ़ान?"
+
+      कृष्ण मुस्काये, व्यापक ज्ञान से,
+      "दोनों मार्ग शांति की ओर ले जाएंगे।
+      पर कर्म में है अधिक बल,
+      शुभ कर्म आत्मा को करते प्रफुल्ल।"
+
+      "जो नफरत और इच्छा से मुक्त हैं,
+      वे योगी सच्चे, नाम से अधिक हैं।
+      द्वैत से परे, जीवन में उच्च,
+      वे विश्व संघर्ष से रहते मुक्त।"
+
+      ज्ञानी जानते हैं, मूढ़ अलग करते,
+      कि कर्म और ज्ञान नहीं हैं विभाजित।
+      जो ज्ञान की रोशनी में बसते हैं,
+      सभी को समान वे मानते हैं।
+
+      कर्म में योगी अपना पथ पाता,
+      हृदय शुद्ध, कर्मों में संयता।
+      निष्काम कर्म, मन शांत,
+      सभी में एकता का अनुसंधान।
+
+      जो आत्मा में सुख पाते हैं,
+      बाहरी शोर से अछूते रहते हैं,
+      स्वयं में अकेले खुशी गहरी पाते,
+      इस सत्य में आत्मा वे सजाते।
+
+      क्योंकि इंद्रियों के सुख छोटे,
+      दुख के ही कारण बनते।
+      विवेकी, ऐसे मोह से अनासक्त,
+      शांति में ही खोजते हैं सुख असीमित।
+
+      जो काम-क्रोध की लहर को सहते,
+      शरीर छूटने से पहले स्थिर रहते,
+      वे योगी सच्चे, करुणा की छाँव में,
+      उनमें ही मिलती है शांति की राँव।
+
+      हर प्राणी में, ऊँच नीच में,
+      ज्ञानी एक ही दिव्य ज्योति देखें।
+      इस दर्शन में सब भेद मिट जाते,
+      ज्ञान की शांति में वे समाते।
+
+      इस प्राचीन गाथा के मर्म में,
+      जीवन के सत्य हैं परम।
+      कर्म में, ज्ञान में, प्रेम में, शांति में,
+      हमें मिलता है उच्चतम पथ दिव्यता में।
     `,
     english: `
+      In a land where wise Krishna spoke,
+      Arjuna questioned the path to evoke.
+      "Between renouncing deeds and doing right,
+      Which path leads to a brighter light?"
+
+      Krishna smiled, his wisdom vast,
+      "Both paths lead to peace at last.
+      But in action, one finds greater might,
+      For doing good sets the soul alight."
+
+      "Those free from hate and desire's flame,
+      Are yogis true, in more than name.
+      Indifferent to the dualities of life,
+      They rise above the worldly strife."
+
+      The learned see, the foolish part,
+      That action and knowledge are not apart.
+      For he who dwells in wisdom's glow,
+      Embraces all, high and low.
+
+      In deeds, the yogi finds his way,
+      Pure of heart, in actions sway.
+      Detached in doing, calm in mind,
+      Unity in all, he comes to find.
+
+      The seeker who finds joy within,
+      Untouched by outer din,
+      In self alone finds bliss so deep,
+      In this truth, his soul does keep.
+
+      For fleeting joys of sense and sight,
+      Are but the causes of endless plight.
+      The wise, unswayed by such allure,
+      Find in stillness, joy pure and sure.
+
+      And those who withstand passion's wave,
+      Before the body finds its grave,
+      They are the yogis true and kind,
+      In them, eternal peace we find.
+
+      In every creature, high and low,
+      The wise see the same divine glow.
+      In this vision, all distinctions cease,
+      In the heart of wisdom, they find peace.
+
+      So in this tale of ancient lore,
+      The truths of life are at its core.
+      In action, wisdom, peace, and love,
+      We find our path to realms above.
     `,
   },
   {

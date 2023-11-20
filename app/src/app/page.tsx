@@ -14,17 +14,17 @@ export default function Home() {
       style={{ perspective: "10px" }}
     >
       <div className="absolute right-0 top-0 pr-4 pt-1 flex items-center">
-        <a
+        {/* <a
           href="https://www.youtube.com/@ACasualDaoDeJing"
           target="_blank"
           className="text-[#c5a20a] hover:underline mr-2"
         >
           <Image src="/youtube.png" width={20} height={20} alt="youtube icon" />
-        </a>
+        </a> */}
         <a
           href="https://dj.theory-a.com/"
           target="_blank"
-          className="text-[#c5a20a] hover:underline"
+          className="text-[#f3f9d5] hover:underline"
         >
           About
         </a>
