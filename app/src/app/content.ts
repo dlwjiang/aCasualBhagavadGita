@@ -392,7 +392,7 @@ const content = [
   },
   {
     chapter: 5,
-    title: "Action",
+    title: "Action vs Detachment",
     original: `
       जहां कृष्ण ने ज्ञान दिया, अर्जुन ने पूछा राह किया।
       "कर्म त्याग या कर्म साधन, कौन सा मार्ग है बढ़ान?"
@@ -496,10 +496,87 @@ const content = [
   },
   {
     chapter: 6,
-    title: "6",
+    title: "Equanimity",
     original: `
+      एक दुनिया जो भागदौड़ से भरी,
+      सुनो कहानी, एक रहस्य जो खरी।
+      कर्म करें बिना लालच के भार,
+      शांति के लिए, न केवल दिखावे के आधार।
+
+      एक योगी जो जानता है राह,
+      केवल शब्दों में नहीं, उनकी चाह।
+      सच्चा योग नहीं सिर्फ संन्यास,
+      यह है कर्मों में भी एक खास आभास।
+
+      मन साफ़, दिल हल्का, उनका यह अंदाज़,
+      वे देखते हैं परे दिन और रात के राज़।
+      उनके लिए दुनिया एक विशाल मंच,
+      हर पल नहीं है अंतिम, हर एक संच।
+
+      स्वयं के मित्र, नहीं शत्रु से भरे,
+      उनका मन निर्देशित, ऊंचा नीचे सवारे।
+      नींद और जागने में संतुलन साफ़,
+      उनकी राह स्पष्ट, कोई नहीं असाफ़।
+
+      वे देखते हैं समान पत्थर और सोने में,
+      अनचाहे द्वारा पुरानी कहानियों में।
+      सुख-दुःख, गर्मी-ठंड में उनकी आत्मा निडर,
+      उनकी आत्मा बहादुर, बोल्ड और स्वच्छ।
+
+      वे उठते हैं ऊपर पेटी लड़ाई से,
+      अंधकार में भी, वे पाते हैं प्रकाश के द्वारे।
+      हर सांस के साथ, हर मुद्रा में,
+      वे हर आत्मा को देते हैं एक समान चांस।
+
+      उनके लिए दुनिया नहीं है दौड़,
+      हर कदम उठाया जाता है अनुग्रह से।
+      योग में, वे खोजते हैं अपनी जगह,
+      हर दिल में, वे छोड़ते हैं एक निशान।
+
+      तो बनो योगी की तरह, मजबूत और ज्ञानी,
+      देखो दुनिया को ऐसी निगाहों से।
+      हर पल में, पाओ
     `,
     english: `
+      In a world full of hustle and bustle,
+      Hear a tale that's quite a puzzle.
+      It's about work without the cling,
+      For peace, not just for the bling.
+
+      There's a yogi who knows the way,
+      Not just in words that they say.
+      True yoga isn't just about retreat,
+      It's in the actions and the beat.
+
+      With a mind clear and heart so light,
+      They see beyond the day and night.
+      For them, the world's a stage so vast,
+      Where each moment is not the last.
+
+      They're friends with self, not the foe,
+      Guiding their mind, high and low.
+      In the balance of sleep and wake,
+      Their path is clear, no mistake.
+
+      They see the same in stone and gold,
+      Unswayed by tales of old.
+      In joy and sorrow, heat and cold,
+      Their spirit is brave and bold.
+
+      They rise above the petty fight,
+      In darkness, they find the light.
+      With every breath, and every stance,
+      They give each soul a fair chance.
+
+      For them, the world is not a race,
+      Each step is with grace.
+      In yoga, they find their space,
+      In every heart, they leave a trace.
+
+      So, be like the yogi, strong and wise,
+      See the world through such eyes.
+      In every moment, find the prize,
+      And in your heart, let peace arise.
     `,
   },
   {
