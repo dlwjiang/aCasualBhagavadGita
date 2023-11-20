@@ -962,10 +962,94 @@ const content = [
   },
   {
     chapter: 10,
-    title: "10",
+    title: "Monad",
     original: `
+      सुनो अर्जुन, मेरी बात अति गहरी,
+      मैं हूँ स्रोत, विश्व का निर्माता सवेरी।
+
+      जन्म रहित, आदि रहित, मैं जगत का राजा,
+      पाप से मुक्त करे, जो मुझे पहचानता साजा।
+
+      ज्ञान, सत्य, शांति में मेरा वास,
+      मुझसे ही उत्पन्न होते सब गुण खास।
+
+      महाऋषि और प्राचीन योगी, मेरे मन से जन्मे,
+      मेरे ध्यान में जो रहे, वो विश्व में प्रसिद्ध होंगे।
+
+      ध्यानी जो मुझमें लीन, मुझे ही पूजते भाव से,
+      उन्हें मैं विवेक की योग शक्ति दूँ, मेरे प्यार से।
+
+      उनके हृदय में ज्ञान का दीपक मैं जलाऊँ,
+      अज्ञानता के अंधेरे को दूर भगाऊँ।
+
+      मैं हूँ ब्रह्म, परम धाम, शुद्धतम आत्मा,
+      नारद, व्यास ने भी कहा, मैं हूँ परमात्मा।
+
+      मेरी महिमा अनंत, मेरी शक्ति अपार,
+      हर जीव में मैं ही हूँ, चाहे दूर या पास।
+
+      सूर्य, चंद्र, अग्नि में, हर शक्ति में मेरा वास,
+      हर वृक्ष, हर ऋषि में, मेरा ही प्रकाश।
+
+      मैं हूँ काल, पवन, आंधी का रूप,
+      हर अक्षर, हर ध्वनि में, मेरी ही धूप।
+
+      मेरी महिमा असीम, हर जगह मेरी ज्योति,
+      पर हर विस्तार में जानने की क्या आवश्यकता अब रोटी?
+
+      मैं संसार को धारण करता, अपने एक अंश से,
+      मैं ही सब कुछ, हर दिल में मेरी ही आस।
     `,
     english: `
+      In a world so vast, where mysteries abound,
+      Hear the words of the Lord, profound.
+      Neither gods nor sages know my start,
+      For I am the source, in every heart.
+
+      Unborn, without beginning, I reign,
+      Freeing souls from sin's dark chain.
+      In me, wisdom, truth, and calmness dwell,
+      From me, all qualities spring and swell.
+
+      Great sages and ancient beings of might,
+      Born of my thought, shining bright.
+      Understand this, and in meditation deep,
+      The wise worship me, their souls to keep.
+
+      With minds and lives in me entwined,
+      They find joy in me, peace of mind.
+      To the steadfast, love in worship shown,
+      I grant wisdom's path, to me alone.
+
+      In their hearts, I light the lamp of truth,
+      Dispelling ignorance, giving eternal youth.
+      Arjuna, you see, in me all is found,
+      Supreme, pure, in mystery bound.
+
+      Sages, divine Narada, and Vyasa too,
+      All declare this mystery, ever true.
+      Only I know me, in my divine play,
+      Ruler of all, in every way.
+
+      My glories, countless, pervade all space,
+      In every heart, I hold my place.
+      From the sun to the moon, from fire to sea,
+      In every essence, there you'll find me.
+
+      From the highest peak to the deepest core,
+      In every hymn, every lore.
+      In the Peepul tree, in the sage's word,
+      In every creature, I am heard.
+
+      I am time, the wind, the storm,
+      In every form, I transform.
+      In every letter, every sound,
+      In every being, I am found.
+
+      My glories, endless, a wondrous sight,
+      A part of me in every light.
+      But why ponder every detail and part?
+      I am the whole, in every heart.
     `,
   },
   {
