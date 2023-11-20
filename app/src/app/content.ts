@@ -583,8 +583,147 @@ const content = [
     chapter: 7,
     title: "7",
     original: `
+      निगमों के ज्ञान से, भगवान ने कहा ध्यान से,
+      "मेरी भक्ति में जो रमे, वो ही सच को पहचाने।"
+
+      "संपूर्ण ज्ञान मैं बताऊँगा, और इससे तुम तृप्त हो जाओगे।
+      हजारों में कोई एक, मेरे तत्त्व को जाने।"
+
+      "पृथ्वी, जल, अग्नि, वायु, आकाश,
+      मन, बुद्धि, अहंकार, सब मेरी आश।
+      इनसे परे मेरी जीव शक्ति,
+      जगत को धारण करती अपनी भक्ति।"
+
+      "मेरे दोनों स्वरूपों से जीवन उत्पन्न,
+      मैं ही सृष्टि का आरंभ, संहार, और धारण।
+      सब कुछ मेरे ही हैं भाव,
+      फिर भी मैं अलिप्त, अनुपम और निर्भाव।"
+
+      "मैं ही जल का स्वाद, सूर्य चंद्र की छाया,
+      वेदों में ओमकार, मनुष्य में शौर्य की माया।
+      पृथ्वी की सुगंध, अग्नि का तेज,
+      प्राणियों में जीवनीशक्ति, तपस्वियों का ओज।"
+
+      "मैं ही सबका अनादि बीज,
+      ज्ञानियों में ज्ञान, शक्तिशालियों में तीज।
+      कामना और विराग में शक्ति मेरी,
+      मनुष्यों में धर्मयुक्त काम, सत्य मेरी बात तेरी।"
+
+      "मेरी माया से मोहित न जाने,
+      मेरा वास्तविक स्वरूप पहचाने।
+      दिव्य माया मेरी, दुर्गम और अतीव,
+      जो मेरे शरण में आते, वही पार पाते।"
+
+      "आसुरी प्रकृति में फँसे, मेरी शरण से दूर,
+      पर मेरे भक्त, अपने प्रेम से मुझे चूम।
+      ज्ञानी, प्रेम से परिपूर्ण, मुझमें लीन,
+      उन्हें मैं प्रिय, वो मुझे अतीव।"
+
+      "कई जन्मों के बाद जो समझे,
+      'सब कुछ परमात्मा ही है', ये ज्ञान के रास्ते।
+      दुर्लभ है वह महात्मा, जो मेरी शरण में आता,
+      मेरी सच्चाई को पहचानता, और उसमें समाता।"
+
+      "लोग देवताओं को पूजते, मैं उनकी श्रद्धा बढ़ाता,
+      पर उनके सुख क्षणभंगुर, मेरे भक्त मुझे पाता।
+      मेरी अव्यक्त, अविनाशी सत्ता, कुछ न समझ पाते,
+      मेरे योगमाया से अज्ञान, उन्हें भ्रम में बहलाते।"
+
+      "जो जानते मेरी सर्वत्र उपस्थिति,
+      जीवन के अंत में भी, मुझमें ही बसते।
+      इच्छा और द्वेष से मोहित, जन्म-मृत्यु में फँसे,
+      पर जिनके पाप धुले, मेरे भजन में तल्लीन वे।"
+
+      "मोक्ष की खोज में, जो मेरा आश्रय पाते,
+      जरा, मरण से परे, ब्रह्म की समझ लाते।
+      अधिभूत, अधिदैव, अधियज्ञ के साथ, मुझे जो जानते,
+      उनके लिए मैं हूँ, अन्तकाल में भी, उनकी आस्था के साथ।"
     `,
     english: `
+      In the world of all that's seen and unseen,
+      Said the Lord to the seeker keen:
+      "Devote your heart and you'll know the whole,
+      The mystery deep within your soul."
+
+      "I'll share the wisdom, complete and vast,
+      Once known, nothing else you'll ask.
+      Among thousands, few strive for the peak,
+      And fewer still my essence seek."
+
+      "Earth, water, fire, air, sky,
+      Mind, reason, ego – all in I.
+      Beyond these, my nature's higher part,
+      Sustains the world with its beating heart."
+
+      "From union of both my natures true,
+      All life springs forth, this I tell you.
+      I am the source, the end, the stay,
+      In me all things their roles play."
+
+      "I am the taste in waters clear,
+      The light in sun and moon so dear.
+      In the sacred Om, my voice does ring,
+      In men, the courage to do anything."
+
+      "The sweet fragrance in the earth, the fire's glow,
+      The life in all, the ascetic's vow.
+      The seed of all, the wisdom in the sage,
+      In the strong, the strength free of rage."
+
+      "Affected not by qualities three,
+      Yet in me, all things you see.
+      Hard to surpass is my divine illusion,
+      Reached only by loving devotion."
+
+      "Some, blinded by material lust,
+      In lower natures place their trust.
+      But my true seekers find the way,
+      In devotion, they do not stray."
+
+      "Among my devotees, great and small,
+      The wise, in constant love, surpass them all.
+      For they see me in all, and all in me,
+      In unity, their hearts are free."
+
+      "Many lives it takes to see,
+      The truth of all, in me, be.
+      But rare is the soul who this mystery finds,
+      In me, their heart and mind binds."
+
+      "People worship gods of every kind,
+      I strengthen faith in their mind.
+      Their desires, through me, fulfilled,
+      But fleeting are the joys they build."
+
+      "Those who worship other gods with zest,
+      Reach them, but my devotees are blessed.
+      For in me, eternal joy they find,
+      Beyond the limits of the mind."
+
+      "Blinded by ignorance, some can't see,
+      My unmanifest divinity.
+      Covered by my mystic play,
+      I remain hidden from those astray."
+
+      "But those who seek with heart and soul,
+      Understand the cosmic role.
+      They see past birth and death's dark night,
+      And find in me eternal light."
+
+      "Confused by desire and hate,
+      Many in birth and death's cycle wait.
+      But those whose sins are washed away,
+      In devotion, find the true way."
+
+      "Seeking freedom from age and death,
+      In me, they draw their every breath.
+      Knowing all, the spirit, the law,
+      In the end, my truth they saw."
+
+      "Those who know the spirit, the divine,
+      And the force of the sacred sign,
+      Even at life's final breath,
+      In me they trust, beyond death."
     `,
   },
   {
