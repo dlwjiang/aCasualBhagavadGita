@@ -728,7 +728,7 @@ const content = [
   },
   {
     chapter: 8,
-    title: "8",
+    title: "Knowing",
     original: `
       अर्जुन पूछे सवाल यहाँ,
       ब्रह्म क्या है, बताओ ना।
@@ -772,7 +772,6 @@ const content = [
       मेरा धाम, ज्ञान का सोपान।
     `,
     english: `
-      In a land where questions rise,
       Arjuna asks with open eyes:
       "What is Brahman, can you tell?
       What's Adhyatma, in us dwell?
@@ -827,10 +826,138 @@ const content = [
   },
   {
     chapter: 9,
-    title: "9",
+    title: "Grace",
     original: `
+      विश्व विस्तृत, अपार गहन,
+      गोपन ज्ञान का यहाँ निवास।
+      पवित्र, श्रेष्ठ, सत्य सनातन,
+      हृदय में ज्ञान की अनुपम आस।
+
+      ज्ञानराजा, अनुभव से जुड़ा,
+      धर्म कर्म में इसका बसेरा।
+      सहज सुलभ, पर दुर्लभ दृष्टि,
+      मुक्ति की राह दिखाता यह मेरा।
+
+      जो शंकित, भटके दूर-दूर,
+      जीवन चक्र में फिरें चक्कर।
+      पर श्रद्धावान, जानें यह रहस्य,
+      दिव्य हाथों में संसार अक्खर।
+
+      सभी प्राणी इस शक्ति में बसे,
+      पर दिव्यता हमसे अपरोक्ष।
+      अदृश्य, सर्वत्र, निराकार,
+      अनंत नृत्य, अलौकिक संयोग।
+
+      वायु सा विचरण करता आकाश,
+      दिव्य में सभी जीव आश्रय।
+      काल के अंत में लौटें विश्राम,
+      प्रकृति के गर्भ में पुनर्वास।
+
+      सृष्टि चक्र, अनवरत घूमता,
+      प्रकृति से जीवन का उद्भव।
+      निर्लिप्त, दिव्य दृष्टि निहारता,
+      कर्मों से मुक्त, स्वतंत्र स्वभाव।
+
+      यज्ञ, मंत्र, सभी पूजा पथ,
+      दिव्य में उनकी गूंज अनंत।
+      पिता, माता, बीज अविनाशी,
+      हर रूप में दिव्य की पहचान।
+
+      सूर्य की तपन, मृत्यु, जीवन में,
+      सुख-दुख, शांति, विषाद में सम।
+      दिव्य सभी में हर भूमिका निभाए,
+      ब्रह्मांड को हृदय में समाए।
+
+      सरल अर्पण, पत्र, पुष्प, जल से,
+      दिव्य को प्रिय, भक्ति से भरपूर।
+      हर कर्म, हर भाव समर्पित कर,
+      दिव्य में हो जा मुक्त और सुरक्षित।
+
+      इस समर्पण से पाए छुटकारा,
+      कर्मों के बंधन से पाए मुक्ति।
+      समता में दिव्य सदा रहता,
+      सभी को प्रेम से देखे अद्भुत।
+
+      भटका हुआ भी, जब श्रद्धा से,
+      दिव्य भजन में लीन हो जाए।
+      तो उसमें भी शांति की लहर,
+      दिव्य की आगोश में समाए।
+
+      तो गुनगुना मेरा नाम, प्रेम से,
+      हर कर्म में मेरा दर्शन पाए।
+      हर साँस, हर विचार में मुझे जान,
+      मेरे प्रेम में तू खो जाए।
+
+      जो शुद्ध हृदय से मेरा खोजे,
+      उन्हें मेरा प्रेम सदैव सुरक्षित।
+      इस यात्रा में, लम्बी और कठिन,
+      मेरी बाँहों में, तेरी आत्मा विश्रामित।
     `,
     english: `
+      In a world so vast and wide,
+      A secret knowledge does reside.
+      Pure and supreme, it stands apart,
+      A sacred truth to fill your heart.
+
+      This knowledge, the king of all that's known,
+      In righteous acts, its seeds are sown.
+      Easy to follow, hard to see,
+      It sets the boundless spirit free.
+
+      Those who doubt, they wander far,
+      In life's endless cycle, near and far.
+      But those with faith, they understand,
+      The world is held in a divine hand.
+
+      All creatures dwell within this might,
+      Yet the divine's beyond our sight.
+      Invisible, yet everywhere,
+      A cosmic dance, beyond compare.
+
+      Like wind that roams the sky so vast,
+      In the divine, all beings are cast.
+      When time ends, they return to rest,
+      In nature's womb, they are repressed.
+
+      Creation's cycle, endlessly turns,
+      From divine nature, all life returns.
+      Detached, the divine oversees,
+      Unbound by actions, forever free.
+
+      All rituals, prayers, and sacred words,
+      In the divine, their echoes heard.
+      The father, mother, eternal seed,
+      In every role, the divine leads.
+
+      In sun's fierce heat, in death, in life,
+      In joy and sorrow, in peace and strife.
+      The divine plays every part,
+      Holding the universe in its heart.
+
+      Offerings simple, like leaf or flower,
+      Are cherished gifts of divine power.
+      Every action, every deed,
+      Offer to the divine, be freed.
+
+      In this offering, find release,
+      From bonds of karma, find your peace.
+      In equality, the divine stays,
+      Loving all in countless ways.
+
+      Even the lost, when they believe,
+      In their devotion, peace they receive.
+      For in devotion, all are one,
+      Under the vast, eternal sun.
+
+      So chant my name, with love and grace,
+      In every act, seek my face.
+      With every breath, in every thought,
+      In my love, you'll be caught.
+
+      For those who seek with heart so pure,
+      To them, my love is ever sure.
+      In this journey, long and steep,
+      In my embrace, your soul I'll keep.
     `,
   },
   {
