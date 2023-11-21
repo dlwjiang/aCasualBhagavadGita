@@ -1,7 +1,7 @@
 const content = [
   {
     chapter: 1,
-    title: "Observation",
+    title: "A Warrior's Crisis",
     original: `
       धृतराष्ट्र ने पूछा ये, संजय से बड़े प्रेम से,
       "कुरुक्षेत्र में युद्ध भूमि पर, क्या कर रहे मेरे और पांडु के बेटे ये?"
@@ -68,7 +68,7 @@ const content = [
   },
   {
     chapter: 2,
-    title: "Doubt",
+    title: "Wisdom's Journey",
     original: `
       वीर भूमि में खड़ा अर्जुन, आँखों में अश्रु भरा,
       धर्मयुद्ध की चिंता में, मन उसका डरा।
@@ -191,7 +191,7 @@ const content = [
   },
   {
     chapter: 3,
-    title: "Action",
+    title: "Ethical Action",
     original: `
       अर्जुन ने पूछा बड़े विचार से,
       "हे कृष्ण, कर्म क्यों मेरा आधार रे?
@@ -282,7 +282,7 @@ const content = [
   },
   {
     chapter: 4,
-    title: "Karma",
+    title: "Wisdom's Path",
     original: `
       अनादि कथा की भूमि में,
       ज्ञान योग की चाल नेमीन।
@@ -392,7 +392,7 @@ const content = [
   },
   {
     chapter: 5,
-    title: "Action vs Detachment",
+    title: "Detachment in Action",
     original: `
       जहां कृष्ण ने ज्ञान दिया, अर्जुन ने पूछा राह किया।
       "कर्म त्याग या कर्म साधन, कौन सा मार्ग है बढ़ान?"
@@ -581,7 +581,7 @@ const content = [
   },
   {
     chapter: 7,
-    title: "7",
+    title: "The Source",
     original: `
       निगमों के ज्ञान से, भगवान ने कहा ध्यान से,
       "मेरी भक्ति में जो रमे, वो ही सच को पहचाने।"
@@ -728,7 +728,7 @@ const content = [
   },
   {
     chapter: 8,
-    title: "Knowing",
+    title: "Knowing Eternity",
     original: `
       अर्जुन पूछे सवाल यहाँ,
       ब्रह्म क्या है, बताओ ना।
@@ -1054,7 +1054,7 @@ const content = [
   },
   {
     chapter: 11,
-    title: "Destroyer of All",
+    title: "The Path of the Destroyer",
     original: `
       अर्जुन खड़ा, वीर और बलशाली,
       पूछता रहस्य, पुरानी गाथाएं अनोखी।
@@ -1226,15 +1226,73 @@ const content = [
   },
   {
     chapter: 13,
-    title: "13",
+    title: "Body and Spirit",
     original: `
+      सुनो, सुनो, मेरे शब्दों को समझो,
+      शरीर है क्षेत्र, ज्ञान की जमीन है वो।
+      क्षेत्र का ज्ञाता, बुद्धिमान और महान,
+      हर क्षेत्र में मैं हूँ, यह समझो अब जान।
+
+      यह क्षेत्र जटिल है, अनेक अंगों से भरा,
+      प्रकृति और मन, इन्द्रियाँ जो करतीं फिरा।
+      खुशी, दुःख के भाव, यहाँ खेलते रहते,
+      इस क्षेत्र में वे मिलते, हर पल बहते।
+
+      ह्रदय निर्मल, बिना अभिमान या दिखावे,
+      क्षमा, करुणा, शांति की ज्योति जलावे।
+      इन्द्रियों से विरक्त, और इच्छाओं से मुक्त,
+      ज्ञान की रोशनी में, आत्मा खुद को देखत।
+
+      शरीर और आत्मा, साथ में वे नाचते,
+      जीवन रचते, रूपों में सुंदर सांचते।
+      अनश्वर को देखते, जहाँ सब कुछ मिट जाए,
+      ज्ञानी वहीं सच को देख, कभी न भटकाए।
+
+      ध्यान, ज्ञान या कर्म से,
+      मुक्ति की राह पर वे चले।
+      कुछ औरों से सीखें, कुछ खुद में पाएं,
+      सत्य की ओर, जहां स्वतंत्रता छाए।
+
+      तो देखो शरीर और आत्मा को,
+      अलग, फिर भी साथ, जीवन की घूमती धुरी में।
+      जो यह देखता है, स्पष्ट दृष्टि से,
+      उच्चतम सत्य तक पहुँचता, बिना किसी भय के।
     `,
     english: `
+      Oh listen, listen, to what I say,
+      Of the body, the field, where wisdom may lay.
+      The knower of the field, wise and so grand,
+      In every field, I am, understand.
+
+      This field is complex, made of many a part,
+      With nature and mind, and senses that dart.
+      Feelings like joy and sorrow, they play,
+      In this field they mingle, in every way.
+
+      Pure of heart, with no pride or show,
+      With forgiveness, kindness, a peaceful glow.
+      Detachment from senses, and from desires,
+      In wisdom's light, the soul aspires.
+
+      The body and spirit, in dance they twine,
+      Creating life, in forms so fine.
+      Seeing the eternal in all that fades,
+      The wise one sees truth that never degrades.
+
+      Through meditation, knowledge, or deed,
+      Seeking the soul, from bondage freed.
+      Some learn from others, some find within,
+      Paths to the truth, where freedom begins.
+
+      So see the body, and spirit within,
+      As separate yet together, in life's great spin.
+      Those who see this, with vision so clear,
+      Reach the highest truth, without any fear.
     `,
   },
   {
     chapter: 14,
-    title: "14",
+    title: "Nature's Tendencies:",
     original: `
     `,
     english: `
@@ -1242,7 +1300,7 @@ const content = [
   },
   {
     chapter: 15,
-    title: "15",
+    title: "Ultimate Identity:",
     original: `
     `,
     english: `
@@ -1250,7 +1308,7 @@ const content = [
   },
   {
     chapter: 16,
-    title: "16",
+    title: "Human Nature: Virtue vs Vice - ",
     original: `
     `,
     english: `
@@ -1258,7 +1316,7 @@ const content = [
   },
   {
     chapter: 17,
-    title: "17",
+    title: "Faith's Faces: ",
     original: `
     `,
     english: `
@@ -1266,7 +1324,7 @@ const content = [
   },
   {
     chapter: 18,
-    title: "18",
+    title: "Liberation's Path:",
     original: `
     `,
     english: `
