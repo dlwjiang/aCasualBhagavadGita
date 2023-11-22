@@ -1292,10 +1292,96 @@ const content = [
   },
   {
     chapter: 14,
-    title: "Nature's Tendencies:",
+    title: "3 Qualities",
     original: `
+      सुनो बुद्धिमान शब्द ये, गहरे ज्ञान की बात,
+      अनदेखी सत्य की झलक, इस संसार की सौगात।
+
+      जीवन की जड़, प्रकृति का गर्भ,
+      मैं हूँ बीज, अनंत का अर्भ।
+      तीन गुण, जीवन में बंधन,
+      मृत्यु में उनका विस्तार गहन।
+
+      सत्त्व शुद्ध, प्रकाशित ख़ुद में,
+      ज्ञान की चमक, अद्भुत दृष्टि से।
+      रजस जोश, कर्मों का जाल,
+      क्रिया की ओर, हर पल विशाल।
+
+      तमस घोर, अंधकार में बसा,
+      अज्ञानता में, निद्रा अटल विश्वासा।
+      ये शक्तियाँ, निरंतर खेल,
+      जीवन को प्रेरित करती, हर पल।
+
+      सत्त्व की उच्चता, कृपा से भरी,
+      शांत लोकों की ओर, यात्रा तय करी।
+      रजस मानव जन्म में लौटे,
+      तमस अंधकार में, चक्र कोटे।
+
+      शुभ कर्म से, सत्त्व का बीज,
+      रजस दुःख का परिणाम, निज।
+      तमस में अज्ञान का घेरा,
+      जहाँ ज्ञान की दुर्लभ है बसेरा।
+
+      गुणों से परे, ज्ञानी का लक्ष्य,
+      उच्चतम स्थानों की ओर, दिल में व्याकुलता का प्रक्षेप।
+      ज्योति, कर्म, या छाया से अचल,
+      समता में उनकी राह निर्मल।
+
+      मिट्टी, पत्थर, या सोने में सम,
+      प्रशंसा या निंदा में कोई भ्रम।
+      सभी कर्मों से परे, इच्छाएँ खत्म,
+      शांत हृदय में, शांति का निवास स्थान।
+
+      निष्कलंक भक्ति, सर्वोच्च पुकार,
+      सीमाओं को तोड़, हर दीवार।
+      मुझमें, अनंत में, सभी का वास,
+      इस सत्य में, द
     `,
     english: `
+      Hear these words, oh wise and keen,
+      Of truths profound, and sights unseen.
+      Knowledge pure, the sages sought,
+      In this world, where battles fought.
+
+      Nature's womb, where life takes root,
+      I, the seed, in endless loop.
+      Three qualities, all life they bind,
+      In mortal frames, they weave and wind.
+
+      Sattva, pure, with light it shines,
+      In wisdom's glow, it intertwines.
+      Rajas drives with passion's fire,
+      Actions call, never tire.
+
+      Tamas, dark, in shadows cast,
+      Ignorance deep, in slumber vast.
+      These forces vie, in constant play,
+      Guiding life, night and day.
+
+      Rising high, sattva's grace,
+      To realms serene, its destined place.
+      Rajas to human form returns,
+      While tamas, in darkness, churns.
+
+      Deeds of good, sattva's seed,
+      Rajas brings sorrow's need.
+      Tamas, in ignorance, steeped,
+      A path where wisdom's rarely reaped.
+
+      Beyond these traits, the wise aspire,
+      To higher realms, their hearts on fire.
+      Unmoved by light, action, or shade,
+      In equanimity, their paths are laid.
+
+      In dirt, stone, or gold, the same,
+      Praise or scorn, no claim to fame.
+      Beyond all acts, desires cease,
+      In tranquil heart, they find their peace.
+
+      Devotion pure, the highest call,
+      Transcends these bounds, breaks every wall.
+      In me, the eternal, all reside,
+      In this truth, let hearts abide.
     `,
   },
   {
