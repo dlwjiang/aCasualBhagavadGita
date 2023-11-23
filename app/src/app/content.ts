@@ -1386,18 +1386,214 @@ const content = [
   },
   {
     chapter: 15,
-    title: "Ultimate Identity:",
+    title: "The Tree of Life",
     original: `
+      ज्ञान वृक्ष, विशाल अद्भुत,
+      मूल ऊपर, शाखाएँ चिरनुतन।
+      जिसकी पत्तियाँ वेद ज्ञान की,
+      वृक्ष को जाने, जाने सब ज्ञान की।
+
+      शाखाएँ फैलीं, गुण त्रय से,
+      बांधती जीवन की अभिलाषाएँ ये।
+      मूल फैले चहुँ ओर, अदृश्य गहराई में,
+      कर्मों का बल, व्याप्त सर्वत्र नई में।
+
+      यह अश्वत्थ, पुराना और गहरा,
+      न आदि न अंत, एक रहस्यमय लहरा।
+      रूप अज्ञेय, दृष्टि से परे,
+      सत्य की धार से काटे, ज्ञान के नरे।
+
+      फिर ढूंढें वह परमपद को,
+      जहाँ आत्मा को मिले शांति अपार।
+      सृष्टि का स्रोत, जहाँ से जीवन बहे,
+      ज्ञानी वहाँ पहुँचे, मुक्ति का राह देखे।
+
+      मान-मोह से रहित, जीते जो भवसागर,
+      साधक भक्त, परमपद को पायें अगर।
+      सूर्य, चंद्र, अग्नि से परे,
+      परम धाम, सत्य की शरणागते।
+
+      संसार में, हम आत्मा का अंश,
+      प्रकृति की ओर खिंचे, बिना किसी वंश।
+      जीवन चले, शरीर में अतिथि समान,
+      इन्द्रियों द्वारा, विश्व का अनुभव ज्ञान।
+
+      जैसे वायु ले जाए खुशबू को,
+      आत्मा भी, शरीर से शरीर को।
+      इन्द्रियों के माध्यम से, जगत का अनुभव,
+      इस यात्रा में, समय का न कोई भ्रम।
+
+      कुछ देखें सत्य, ज्ञानी नेत्रों से,
+      अन्य खोये, अज्ञान की गहराइयों में।
+      पर जो शुद्ध ह्रदय से खोजें,
+      दिव्यता पाएँ, पथ स
     `,
     english: `
+      A tree of life, so vast and grand,
+      Roots reaching up, branches expand.
+      Its leaves are the words of wisdom's flow,
+      Who knows the tree, the truths will know.
+
+      Branches spread with qualities three,
+      Binding all in life's grand spree.
+      Roots stretch far, in realms unseen,
+      In actions lies their power keen.
+
+      This cosmic tree, so old and wise,
+      No start or end, a grand disguise.
+      Its form unknown, beyond our sight,
+      Cut it down with truth's sharp light.
+
+      Then seek the realm beyond the sky,
+      Where souls find rest and never die.
+      To this realm, all creation owes,
+      In this truth, the wise one grows.
+
+      Free from pride, from delusion clear,
+      Conquering flaws that once were near.
+      In constant union with the divine,
+      Beyond the dualities, they shine.
+
+      To the light, no sun can reach,
+      Where eternal peace, the sages teach.
+      There lies the ultimate abode,
+      The heart's true home, the final road.
+
+      In this world, we're but a part,
+      Attracted to nature's art.
+      We move and live, in bodies lent,
+      Guided by senses, wherever sent.
+
+      Like the wind carries a scent,
+      Soul shifts, in bodies spent.
+      Through the senses, the world we taste,
+      In this journey, no time to waste.
+
+      Some see the truth, with vision clear,
+      While others lost, in darkness near.
+      But those who seek with heart so pure,
+      Find the divine, their path sure.
+
+      In sun and moon, the light divine,
+      In fire's glow, it does shine.
+      I am the force that all sustains,
+      In every heart, my spirit reigns.
+
+      I am the fire that digests all food,
+      In every being, I'm subtly viewed.
+      In hearts I dwell, knowledge I bring,
+      The source of all, the eternal king.
+
+      In this world, two spirits dwell,
+      One perishable, the other, a constant well.
+      The highest spirit, above them soars,
+      Sustaining all, opening doors.
+
+      Beyond the transient, I am found,
+      Above the eternal, my name resounds.
+      The Supreme One, in scriptures told,
+      In me, the mysteries of life unfold.
+
+      He who knows me as the highest one,
+      Worships truly, the eternal sun.
+      Thus, this secret, to you I tell,
+      Know this wisdom, and all is well.
     `,
   },
   {
     chapter: 16,
-    title: "Human Nature: Virtue vs Vice - ",
+    title: "Two Natures",
     original: `
+      भय नहीं मन में, अंतर निर्मल,
+      योग में स्थिर, ज्ञान से उज्ज्वल।
+      दान सत्य से, इंद्रिय नियंत्रण,
+      कर्तव्य निष्ठा, सच्चाई का बंधन।
+
+      सत्य बोलो, हिंसा न करो,
+      क्रोध त्यागो, मोह से दूर हो।
+      दया रखो सब पर, विनम्रता अपनाओ,
+      सादगी में जियो, शुद्धता को चुनो।
+
+      तेज, धैर्य, शुद्धि का मार्ग,
+      अभिमान न करो, नम्रता से चलो।
+      ये दैवी गुण, अर्जुन, तेरे भीतर,
+      नेकी की राह पर, बढ़ो आगे बिन डिगर।
+
+      अहंकार, क्रोध, दुराग्रह से दूर,
+      ये अंधकार के, आसुरी नूर।
+      उजाले की ओर, रुख करो,
+      दैवी संपदा में, अपना भविष्य भरो।
+
+      दो प्रकार के प्राणी, संसार में व्याप्त,
+      दैवी, आसुरी, दोनों का संग्राम अधूरा।
+      उच्चता की ओर, तुम बढ़ो,
+      दिव्यता में अपना जीवन संवारो।
+
+      असत्य विचार, भ्रमित मन,
+      अज्ञानता में जीवन का हनन।
+      प्रकाश की ओर, अपने कदम बढ़ाओ,
+      सत्य, धर्म में अपना जीवन सार्थक बनाओ।
+
+      इच्छाओं में बंधे, सपनों में खोये,
+      मोह माया में, अपनी राह न भूलो।
+      लोभ से ऊपर, उठो और जागो,
+      निस्वार्थ सेवा में, अपना जीवन सजाओ।
+
+      तीन द्वार, विनाश के, सावधान रहो,
+      काम, क्रोध, लोभ से दूर बहो।
+      प्रकाश की ओर, कदम बढ़ाओ,
+      धर्म और सत्य में, अपना मार्ग पाओ।
+
+      ज्ञान की राह, हृदय में बसाओ,
+      पवित्र ग्रंथों में, अपना मार्गदर्शन पाओ।
+      कर्तव्य में दृढ़, वीरता से आगे बढ़ो,
+      उच्चतम पथ पर, तुम अवश्य पहुँचो।
     `,
     english: `
+      Fearless hearts, pure in thought,
+      In yoga's strength, wisdom sought.
+      Giving freely, senses tamed,
+      In duty's toil, honor claimed.
+
+      Speak truth, harm none, let anger go,
+      Worldly desires, let them flow.
+      Kindness reigns, humility's seed,
+      In simple actions, pure in deed.
+
+      Brightness, patience, cleanse within,
+      No hatred's trace, nor pride's sin.
+      These traits, Arjuna, divine in kind,
+      Guide the noble, enlightened mind.
+
+      Arrogance, wrath, hardness of heart,
+      These traits, my friend, set us apart.
+      Darkness they bring, a troubled way,
+      In divine virtues, seek to stay.
+
+      In this world, two natures lie,
+      Divine and dark, beneath the sky.
+      In truth and kindness, find your role,
+      Let noble actions be your goal.
+
+      False views, misguided minds,
+      In darkness, no truth one finds.
+      Seek the light, the higher way,
+      In righteous actions, every day.
+
+      Bound by desires, lost in dreams,
+      Caught in illusions, or so it seems.
+      Rise above, let go of greed,
+      In selfless actions, find your need.
+
+      Three gates to ruin, beware,
+      Lust, anger, greed, don't dare.
+      Turn away, find the light,
+      In righteous path, find your might.
+
+      Know the truth, let wisdom guide,
+      In sacred texts, let your heart reside.
+      In duty's path, with virtue strong,
+      To higher realms, you'll belong.
     `,
   },
   {
