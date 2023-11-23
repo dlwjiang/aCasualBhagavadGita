@@ -1598,18 +1598,213 @@ const content = [
   },
   {
     chapter: 17,
-    title: "Faith's Faces: ",
+    title: "Right Faith",
     original: `
+      अर्जुन ने पूछा ध्यान से,
+      "किस भक्ति में होते हैं ये?
+      वेद-पथ से दूर, अकेले,
+      देव पूजा में मन लेले।"
+
+      कृष्ण बोले, ज्ञान भरपूर,
+      "भक्ति तीन प्रकार की जरूर।
+      सात्त्विक शुद्ध, राजस धीर,
+      तामसिक काले, पुराने वीर।"
+
+      उन्होंने कहा, आँखों में प्यार,
+      "श्रद्धा आत्मा का आधार।
+      प्रत्येक आत्मा अपना रूप,
+      श्रद्धा में मिलता अपना स्वरूप।"
+
+      सात्त्विक शांत, दिव्यता में लीन,
+      देवताओं की पूजा करें दीन।
+      राजसिक, महत्वाकांक्षी बड़े,
+      अधिक दैविक, राक्षसों से जुड़े।
+
+      तामसिक, अंधेरे में रमते,
+      भूत-प्रेतों संग उनके दिन कटते।
+      भटकते हैं धर्म से दूर,
+      अज्ञानता में पाते कष्ट की भूर।
+
+      कृष्ण ने बताया आहार का मोल,
+      स्वभाव से जो दे शरीर को तोल।
+      सात्त्विक जो उपचारित, भरे उमंग,
+      राजसिक में मसालों का रंग।
+
+      तामसिक बासी, पुराना चाहें,
+      उनके चयन में स्वभाव आहें।
+      यज्ञों में भी यही विधान,
+      जीवन के पथ पर चलते यह ज्ञान।
+
+      सात्त्विक, कर्तव्य में लीन,
+      फल की इच्छा से रहित, चिंतन हीन।
+      राजसिक लाभ, यश की आस,
+      क्रिया में दिखावा, भव्य विश्वास।
+
+      तामसिक, बिना श्रद्धा, अनादर से,
+      कर्म में नहीं कोई पवित्रता की रेस।
+      कृष्ण की बातें, ज्ञान की धारा,
+      दिखाती हैं पथ, दूर तक सारा।
     `,
     english: `
+      Arjuna asks with a curious tone,
+      "What faith guides those who pray alone?
+      Without the scripture's guiding light,
+      To gods, they offer rites so bright."
+
+      Lord Krishna speaks, his words so wise,
+      "Faith in three forms, before our eyes:
+      Sattvic pure, Rajasic bold,
+      Tamasic dark, in tales old."
+
+      He continues with a gentle nod,
+      "Faith mirrors the heart, deep and broad.
+      Each soul reflects its inner flame,
+      In faith and deeds, they find their name."
+
+      The Sattvic, calm and serene,
+      Worship gods, unseen, unseen.
+      Rajasic, with ambitions vast,
+      Seek spirits of a darker cast.
+
+      Tamasic, in shadows dwell,
+      Haunt with ghosts they know too well.
+      Misled, they stray from righteous path,
+      In ignorance, they face the wrath.
+
+      Krishna explains the food we cherish,
+      By nature, it will nourish.
+      Sattvic eats what heals and mends,
+      Rajasic, where spice ascends.
+
+      Tamasic craves the stale, the old,
+      In their choice, their nature told.
+      In yajnas, too, the pattern holds,
+      Threefold paths, as life unfolds.
+
+      The Sattvic, pure, devoid of lust,
+      In duty, they place their trust.
+      Rajasic seek reward, acclaim,
+      In ritual, they play the game.
+
+      Tamasic, without heart or creed,
+      In their acts, no holy seed.
+      Krishna tells of penance due,
+      Body, speech, and mind, in view.
+
+      Speak the truth, harm none, be kind,
+      In these acts, true peace you'll find.
+      With a heart both pure and light,
+      Lead your soul to righteous height.
+
+      Krishna's words, like a guiding star,
+      Show the path, both near and far.
+      In faith and deed, our spirits soar,
+      Towards a truth worth striving for.
     `,
   },
   {
     chapter: 18,
     title: "Liberation's Path:",
     original: `
+      अर्जुन करे विनती धरे,
+      "हे कृष्ण, ज्ञान की राह दिखाएँ,
+      त्याग और संन्यास का सार बताएँ,
+      आपके शब्दों में बुद्धि का आधार।"
+
+      कृष्णा ने कहा स्पष्ट वचन,
+      "त्याग यह सिर्फ कर्म नहीं है,
+      अपितु इसका मतलब फलों से विरत रहना है,
+      कर्म करो, फल की आशा बिना।
+
+      अपने धर्म को करो पूरा,
+      बिना कामना के पुरस्कार का,
+      ऐसे कर्म बुद्धिमानों को करते हैं शुद्ध,
+      और मुक्ति दिलाते हैं जीवन के बंधन से।
+
+      कुछ कर्म नहीं छोड़ने चाहिए कभी,
+      दान, निष्ठा, अनुशासन जैसे,
+      ये सभी आत्मा को करते हैं पवित्र,
+      और दिखाते हैं सच्चाई की राह।
+
+      जो मन स्वार्थ से भरा हो,
+      वह कभी नहीं जान पाएगा सच्चाई को,
+      केवल वही जो निस्वार्थ कर्म करता है,
+      वही पहुँचता है ऊंचाई पर।
+
+      कर्म किये बिना भय या लोभ से,
+      या सिर्फ सुख के लिए,
+      नहीं है वह ज्ञान की राह,
+      वह तो ले जाता है वापस अंधेरे में।
+
+      प्रत्येक कर्म और विचार से,
+      एक परिणाम निश्चित होता है,
+      पर जो ज्ञान के प्रकाश में कर्म करता है,
+      उसे मुक्ति मिलती है इस अनंत संघर्ष से।
+
+      तो अर्जुन, सुनो अब और यहाँ,
+      कर्म करो ज्ञान से, बिना भय के,
+      प्रत्येक कर्म को मुझमें समर्पित करो,
+      और उस कर्म में, तुम सच में मुक्त होओगे।
+
+      सभी के ह्रदय में मैं बसा,
+      रथ को दिशा दिखाता हुआ।
+      मेरी शरण में आओ विश्वास और प्रेम से,
     `,
     english: `
+      Arjuna asks with humble plea,
+      "Teach me, Krishna, so I may see,
+      The truths of renounce and sacrifice,
+      In your words, lies wisdom nice."
+
+      Said Krishna with a voice so clear,
+      "Sacrifice is more than it appears,
+      Not just leaving actions behind,
+      But letting go of fruits in mind.
+
+      Perform your duty, true and bold,
+      Without desire for rewards untold.
+      Such actions cleanse the wise and sage,
+      Freeing them from life's cage.
+
+      Some actions are never to be shed,
+      Like charity, duty, disciplines led.
+      These purify the heart and soul,
+      And guide us to our ultimate goal.
+
+      A mind attached to selfish gain,
+      Can never know the inner lane.
+      Only he who acts without desire,
+      Can rise above, ever higher.
+
+      Actions done with fear or dread,
+      Or for mere pleasure, they've said,
+      Are not the path to wisdom's door,
+      They lead us back, forever more.
+
+      For every deed and thought we make,
+      A consequence will surely take.
+      But he who acts in wisdom's light,
+      Is freed from this eternal fight.
+
+      So Arjuna, hear this now and here,
+      Act with wisdom, clear of fear.
+      Dedicate each deed to me,
+      And in that act, you'll truly be free.
+
+      In the heart of all, I reside,
+      Guiding the chariot we ride.
+      Surrender to me with faith and love,
+      And reach the peaceful realms above."
+
+      With these words, the lesson ends,
+      Arjuna's heart, now it mends.
+      "I'll follow your words," he declares,
+      "I am free from doubts and snares."
+
+      Where Krishna guides the chariot's way,
+      And Arjuna fights the righteous fray,
+      There victory, fortune, glory abide,
+      And steadfast dharma will always reside.
     `,
   },
 ] as Content[];
